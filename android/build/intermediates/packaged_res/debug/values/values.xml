@@ -1,0 +1,1877 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccentIdenfyDarkgrey">#b3b5bf</color>
+    <color name="idenfyAdditionalSupportCommonInformationDescriptionTextColor">@color/idenfySecondColor50percentV2
+    </color>
+    <color name="idenfyAdditionalSupportCommonInformationTitleTextColor">@color/idenfySecondColorV2
+    </color>
+    <color name="idenfyAdditionalSupportContinueButtonTextColor">
+        @color/idenfyWhite
+    </color>
+    <color name="idenfyAdditionalSupportViewBackgroundColor">
+        @color/idenfyBackgroundColorV2
+    </color>
+    <color name="idenfyBackgroundColorV2">#FBFBFB</color>
+    <color name="idenfyBlack">#000000</color>
+    <color name="idenfyCameraBackArrowResultsColor">#ffffff</color>
+    <color name="idenfyCameraDynamicOnBoardingViewDescriptionColor">@color/idenfySecondColor50percentV2</color>
+    <color name="idenfyCameraDynamicOnBoardingViewDisabledButtonBackgroundColor">@color/idenfySecondColor20percentV2</color>
+    <color name="idenfyCameraDynamicOnBoardingViewDisabledButtonTitleColor">@color/idenfySecondColor50percentV2</color>
+    <color name="idenfyCameraDynamicOnBoardingViewEnabledButtonBackgroundColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyCameraDynamicOnBoardingViewEnabledButtonTitleColor">@color/idenfyWhite</color>
+    <color name="idenfyCameraDynamicOnBoardingViewLoadingSpinnerColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyCameraDynamicOnBoardingViewProgressBarBackgroundColor">@color/idenfySecondColor20percentV2</color>
+    <color name="idenfyCameraDynamicOnBoardingViewProgressBarForegroundColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyCameraDynamicOnBoardingViewTitleColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyCameraDynamicOnBoardingViewVideoDescriptionsCardBackgroundColor">@color/idenfyPhotoResultDetailsCardBackgroundColorV2</color>
+    <color name="idenfyCameraDynamicOnBoardingViewVideoDescriptionsCardQuestionImageTintColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyCameraDynamicOnBoardingViewVideoDescriptionsCardTitleColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyCameraFloatingActionButtonBackgroundColor">#ffffff</color>
+    <color name="idenfyCameraFloatingActionButtonColor">@color/idenfyColorAccent</color>
+    <color name="idenfyCameraOnBoardingViewBackgroundColor">@color/idenfyBackgroundColorV2</color>
+    <color name="idenfyCameraPermissionViewBackgroundColor">
+        @color/idenfyBackgroundColorV2
+    </color>
+    <color name="idenfyCameraPermissionViewDescriptionTextColor">
+        @color/idenfySecondColorV2
+    </color>
+    <color name="idenfyCameraPermissionViewGuidanceDescriptionTextColor">
+        @color/idenfySecondColorV2
+    </color>
+    <color name="idenfyCameraPermissionViewTitleTextColor">@color/idenfySecondColorV2
+    </color>
+    <color name="idenfyCameraPreviewSessionAppBarBackButtonTextColor">@color/idenfyBlack</color>
+    <color name="idenfyCameraPreviewSessionAppBarBackButtonTintColor">@color/idenfyWhite</color>
+    <color name="idenfyCameraPreviewSessionAppBarBackgroundColor">@android:color/transparent</color>
+    <color name="idenfyCameraPreviewSessionAppBarCameraFlashButtonTintColor">@color/idenfyWhite</color>
+    <color name="idenfyCameraPreviewSessionAppBarFaceNotDetectedAlertTintColor">@color/idenfyGrayColorV2</color>
+    <color name="idenfyCameraStaticOnBoardingViewDescriptionColor">@color/idenfySecondColor50percentV2</color>
+    <color name="idenfyCameraStaticOnBoardingViewDisabledButtonBackgroundColor">@color/idenfySecondColor20percentV2</color>
+    <color name="idenfyCameraStaticOnBoardingViewDisabledButtonTitleColor">@color/idenfySecondColor50percentV2</color>
+    <color name="idenfyCameraStaticOnBoardingViewEnabledButtonBackgroundColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyCameraStaticOnBoardingViewEnabledButtonTitleColor">@color/idenfyWhite</color>
+    <color name="idenfyCameraStaticOnBoardingViewLoadingSpinnerColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyCameraStaticOnBoardingViewProgressBarBackgroundColor">@color/idenfySecondColor20percentV2</color>
+    <color name="idenfyCameraStaticOnBoardingViewProgressBarForegroundColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyCameraStaticOnBoardingViewTitleColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyCameraStaticOnBoardingViewVideoDescriptionsCircleImageTintColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyCameraStaticOnBoardingViewVideoDescriptionsTextColor">@color/idenfySecondColor50percentV2</color>
+    <color name="idenfyCameraStaticOnBoardingViewVideoDescriptionsTitleColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyCheckBoxColor">@color/idenfyColorAccent</color>
+    <color name="idenfyColorAccent">#8bc7e0</color>
+    <color name="idenfyColorPrimary">#36465D</color>
+    <color name="idenfyColorPrimaryDark">#2B384A</color>
+    <color name="idenfyCountriesItemTextColor">@color/idenfyColorPrimary</color>
+    <color name="idenfyCountrySelectionViewBackgroundColor">@color/idenfyBackgroundColorV2</color>
+    <color name="idenfyCountrySelectionViewCountryRecyclerViewBackgroundColor">@color/idenfyWhite
+    </color>
+    <color name="idenfyCountrySelectionViewCountryRecyclerViewBorderColor">
+        @color/idenfySecondColor6percentV2
+    </color>
+    <color name="idenfyCountrySelectionViewCountryRecyclerViewItemBackgroundColor">
+        @color/idenfyWhite
+    </color>
+    <color name="idenfyCountrySelectionViewCountryRecyclerViewItemBorderColor">
+        @color/idenfySecondColor6percentV2
+    </color>
+    <color name="idenfyCountrySelectionViewCountryRecyclerViewItemHighlightedBackgroundColor">
+        @color/idenfyMainColorV2
+    </color>
+    <color name="idenfyCountrySelectionViewCountryRecyclerViewItemHighlightedTextColor">
+        @color/idenfyWhite
+    </color>
+    <color name="idenfyCountrySelectionViewCountryRecyclerViewItemTextColor">
+        @color/idenfySecondColorV2
+    </color>
+    <color name="idenfyCountrySelectionViewCountrySearchBarBackgroundColor">@color/idenfyWhite
+    </color>
+    <color name="idenfyCountrySelectionViewCountrySearchBarHighlightedTextColor">
+        @color/idenfySecondColorV2
+    </color>
+    <color name="idenfyCountrySelectionViewCountrySearchBarTextColor">
+        @color/idenfySecondColor50percentV2
+    </color>
+    <color name="idenfyCountrySelectionViewDescriptionTextColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyCountrySelectionViewTitleTextColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyCountryViewSelectionCountrySearchBarBorderColor">
+        @color/idenfySecondColor6percentV2
+    </color>
+    <color name="idenfyCustomAlertDialogNegativeButtonColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyCustomAlertDialogPositiveButtonColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyDefaultAlertDialogNegativeButtonColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyDefaultAlertDialogPositiveButtonColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyDefaultAppBarBackgroundColor">@color/idenfyWhite</color>
+    <color name="idenfyDocumentBorderColor">@color/idenfyColorAccent</color>
+    <color name="idenfyDocumentCameraPreviewDescriptionTextColor">@color/idenfyWhite</color>
+    <color name="idenfyDocumentCameraPreviewSessionBackgroundColor">@color/idenfyBlack</color>
+    <color name="idenfyDocumentCameraPreviewSessionBottomActionButtonsViewBackgroundColor">
+        @color/idenfyHelpSheetOverlay
+    </color>
+    <color name="idenfyDocumentCameraPreviewSessionCurrentInstructionContentTextColor">
+        @color/idenfyWhite
+    </color>
+    <color name="idenfyDocumentCameraPreviewSessionExpandButtonTintColor">@color/idenfyWhite</color>
+    <color name="idenfyDocumentCameraPreviewSessionTakePhotoButtonFocusedBackgroundColor">
+        @color/idenfyMainColorV2
+    </color>
+    <color name="idenfyDocumentCameraPreviewSessionTakePhotoButtonFocusedTintColor">
+        @color/idenfyWhite
+    </color>
+    <color name="idenfyDocumentCameraPreviewSessionTakePhotoButtonUnFocusedBackgroundColor">
+        @color/idenfyWhite
+    </color>
+    <color name="idenfyDocumentCameraPreviewSessionTakePhotoButtonUnFocusedTintColor">
+        @color/idenfyTakePhotoButtonIconUnFocused
+    </color>
+    <color name="idenfyDocumentCameraPreviewTitleTextColor">@color/idenfyWhite</color>
+    <color name="idenfyDocumentConfirmationViewBackgroundColor">@color/idenfyBackgroundColorV2
+    </color>
+    <color name="idenfyDocumentConfirmationViewBeginIdentificationButtonTextColor">
+        @color/idenfyWhite
+    </color>
+    <color name="idenfyDocumentConfirmationViewContentMaskForegroundColor">
+        @color/idenfyBackgroundColorV2
+    </color>
+    <color name="idenfyDocumentConfirmationViewContentScrollBarThumbColor">
+        @color/idenfyMainColor50percentV2
+    </color>
+    <color name="idenfyDocumentConfirmationViewDescriptionHighlightedTextColor">
+        @color/idenfyMainColorV2
+    </color>
+    <color name="idenfyDocumentConfirmationViewDescriptionTextColor">@color/idenfySecondColorV2
+    </color>
+    <color name="idenfyDocumentConfirmationViewDocumentStepItemNumberTextColor">@color/idenfyWhite
+    </color>
+    <color name="idenfyDocumentConfirmationViewDocumentStepItemTitleTextColor">
+        @color/idenfySecondColorV2
+    </color>
+    <color name="idenfyDocumentConfirmationViewDocumentStepTitleHighlightedTextColor">
+        @color/idenfyMainColorV2
+    </color>
+    <color name="idenfyDocumentConfirmationViewDocumentStepTitleTextColor">
+        @color/idenfySecondColorV2
+    </color>
+    <color name="idenfyDocumentConfirmationViewTitleTextColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyDocumentConfirmationViewUploadDocumentPhotoTitleTextColor">
+        @color/idenfySecondColorV2
+    </color>
+    <color name="idenfyDocumentPhotoResultViewBackgroundColor">@color/idenfyBackgroundColorV2
+    </color>
+    <color name="idenfyDocumentPhotoResultViewCardTitleColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyDocumentPhotoResultViewDescriptionTextColor">@color/idenfySecondColorV2
+    </color>
+    <color name="idenfyDocumentPhotoResultViewNextButtonTextColor">@color/idenfyWhite</color>
+    <color name="idenfyDocumentPhotoResultViewPhotoBorderColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyDocumentPhotoResultViewPhotoLoadingSpinnerColor">
+        @color/idenfyMainColor50percentV2
+    </color>
+    <color name="idenfyDocumentPhotoResultViewRetakePhotoButtonTextColor">@color/idenfyMainColorV2
+    </color>
+    <color name="idenfyDocumentPhotoResultViewTitleTextColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyDocumentSelectionViewBackgroundColor">@color/idenfyBackgroundColorV2</color>
+    <color name="idenfyDocumentSelectionViewContinueButtonDisabledBackgroundColor">
+        @color/idenfySecondColor20percentV2
+    </color>
+    <color name="idenfyDocumentSelectionViewContinueButtonDisabledTextColor">
+        @color/idenfySecondColor50percentV2
+    </color>
+    <color name="idenfyDocumentSelectionViewContinueButtonEnabledTextColor">
+        @color/idenfyWhite
+    </color>
+    <color name="idenfyDocumentSelectionViewDescriptionTextColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyDocumentSelectionViewRecyclerViewBackgroundColor">@color/idenfyWhite</color>
+    <color name="idenfyDocumentSelectionViewRecyclerViewBorderColor">
+        @color/idenfySecondColor6percentV2
+    </color>
+    <color name="idenfyDocumentSelectionViewRecyclerViewItemBackgroundColor">@color/idenfyWhite
+    </color>
+    <color name="idenfyDocumentSelectionViewRecyclerViewItemBorderColor">
+        @color/idenfySecondColor6percentV2
+    </color>
+    <color name="idenfyDocumentSelectionViewRecyclerViewItemHighlightedBackgroundColor">
+        @color/idenfyMainColorV2
+    </color>
+    <color name="idenfyDocumentSelectionViewRecyclerViewItemHighlightedTextColor">
+        @color/idenfyWhite
+    </color>
+    <color name="idenfyDocumentSelectionViewRecyclerViewItemTitleTextColor">
+        @color/idenfySecondColorV2
+    </color>
+    <color name="idenfyDocumentSelectionViewTitleTextColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyDocumentViewTextColor">#ffffff</color>
+    <color name="idenfyDocumentsArrowColor">@color/idenfyColorAccent</color>
+    <color name="idenfyDocumentsCameraSessionBackArrowColor">#000000</color>
+    <color name="idenfyDocumentsCameraSessionBackTextViewColor">#000000</color>
+    <color name="idenfyDocumentsCameraSessionInformationTextViewColor">#000000</color>
+    <color name="idenfyDocumentsRecyclerViewColor">#ffffff</color>
+    <color name="idenfyDocumentsResultsBackTextViewColor">#ffffff</color>
+    <color name="idenfyDocumentsResultsCameraBackArrowColor">#ffffff</color>
+    <color name="idenfyDocumentsResultsInformationTextViewColor">#ffffff</color>
+    <color name="idenfyDrawerCurrentInstructionIndicatorColorV2">@color/idenfyMainColorV2</color>
+    <color name="idenfyDrawerInstructionControlsTintColorV2">#FFFFFF</color>
+    <color name="idenfyErrorLightRedColorV2">#FFEBEE</color>
+    <color name="idenfyErrorRedColorV2">#C1170B</color>
+    <color name="idenfyFaceAuthenticationResultsCommonInformationDescriptionTextColor">@color/idenfySecondColorV2
+    </color>
+    <color name="idenfyFaceAuthenticationResultsCommonInformationTitleTextColor">@color/idenfySecondColorV2
+    </color>
+    <color name="idenfyFaceAuthenticationResultsContinueButtonTextColor">
+        @color/idenfyWhite
+    </color>
+    <color name="idenfyFaceAuthenticationResultsViewBackgroundColor">
+        @color/idenfyBackgroundColorV2
+    </color>
+    <color name="idenfyFaceBorderColor">@color/idenfyColorAccent</color>
+    <color name="idenfyFaceCameraPreviewDescriptionTextColor">@color/idenfyWhite</color>
+    <color name="idenfyFaceCameraPreviewSessionBackgroundColor">@color/idenfyBlack</color>
+    <color name="idenfyFaceCameraPreviewSessionBottomActionButtonsViewBackgroundColor">
+        @color/idenfyHelpSheetOverlay
+    </color>
+    <color name="idenfyFaceCameraPreviewSessionCurrentInstructionContentTextColor">
+        @color/idenfyWhite
+    </color>
+    <color name="idenfyFaceCameraPreviewSessionExpandButtonTintColor">@color/idenfyWhite</color>
+    <color name="idenfyFaceCameraPreviewSessionFaceDetectedColor">@color/idenfyGreenColorV2</color>
+    <color name="idenfyFaceCameraPreviewSessionFaceOvalColor">@color/idenfyWhite</color>
+    <color name="idenfyFaceCameraPreviewSessionFaceOvalNotDetectedColor">@color/idenfyGrayColorV2</color>
+    <color name="idenfyFaceCameraPreviewSessionInstructionLivenessMaskColor">@color/idenfyBlack
+    </color>
+    <color name="idenfyFaceCameraPreviewSessionLivenessAccentColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyFaceCameraPreviewSessionLivenessMaskColor">@color/idenfyBlack</color>
+    <color name="idenfyFaceCameraPreviewSessionTakePhotoButtonFocusedBackgroundColor">
+        @color/idenfyMainColorV2
+    </color>
+    <color name="idenfyFaceCameraPreviewSessionTakePhotoButtonFocusedTintColor">@color/idenfyWhite
+    </color>
+    <color name="idenfyFaceCameraPreviewSessionTakePhotoButtonUnFocusedBackgroundColor">
+        @color/idenfyWhite
+    </color>
+    <color name="idenfyFaceCameraPreviewSessionTakePhotoButtonUnFocusedTintColor">
+        @color/idenfyTakePhotoButtonIconUnFocused
+    </color>
+    <color name="idenfyFaceCameraPreviewTitleTextColor">@color/idenfyWhite</color>
+    <color name="idenfyFaceCameraSessionInformationTextViewColor">#ffffff</color>
+    <color name="idenfyFaceOvalStrokeColor">#FFFFFF</color>
+    <color name="idenfyFacePhotoResultViewBackgroundColor">@color/idenfyBackgroundColorV2</color>
+    <color name="idenfyFacePhotoResultViewCardTitleColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyFacePhotoResultViewDescriptionTextColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyFacePhotoResultViewNextButtonTextColor">@color/idenfyWhite</color>
+    <color name="idenfyFacePhotoResultViewPhotoBorderColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyFacePhotoResultViewPhotoLoadingSpinnerColor">
+        @color/idenfyMainColor50percentV2
+    </color>
+    <color name="idenfyFacePhotoResultViewRetakePhotoButtonTextColor">@color/idenfyMainColorV2
+    </color>
+    <color name="idenfyFacePhotoResultViewTitleTextColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyFaceResultsBackTextViewColor">#000000</color>
+    <color name="idenfyFaceResultsCameraBackArrowColor">#000000</color>
+    <color name="idenfyFaceResultsInformationTextViewColor">#000000</color>
+    <color name="idenfyFaceSessionBackTextViewColor">#ffffff</color>
+    <color name="idenfyFaceSessionCameraBackArrowColor">#ffffff</color>
+    <color name="idenfyGradientAccentV2">#8D6CFB</color>
+    <color name="idenfyGradientButtonColorEnd">@color/idenfyGradientAccentV2</color>
+    <color name="idenfyGradientButtonColorStart">@color/idenfyMainColorV2</color>
+    <color name="idenfyGrayColorV2">#CFD8DC</color>
+    <color name="idenfyGreenColorV2">#9CEE13</color>
+    <color name="idenfyHelpSheetOverlay">#99000000</color>
+    <color name="idenfyIdentificationResultsViewBackgroundColor">@color/idenfyBackgroundColorV2
+    </color>
+    <color name="idenfyIdentificationResultsViewContentMaskForegroundColor">
+        @color/idenfyBackgroundColorV2
+    </color>
+    <color name="idenfyIdentificationResultsViewDescriptionTextColor">@color/idenfySecondColorV2
+    </color>
+    <color name="idenfyIdentificationResultsViewDocNotFoundAlertBackgroundColorV2">
+        @color/idenfyBackgroundColorV2
+    </color>
+    <color name="idenfyIdentificationResultsViewDocNotFoundAlertContinueButtonTextColorV2">
+        @color/idenfyWhite
+    </color>
+    <color name="idenfyIdentificationResultsViewDocNotFoundAlertDescriptionDocumentHighlightColorV2">
+        @color/idenfyMainColorV2
+    </color>
+    <color name="idenfyIdentificationResultsViewDocNotFoundAlertDescriptionTextColorV2">
+        @color/idenfySecondColorV2
+    </color>
+    <color name="idenfyIdentificationResultsViewDocNotFoundAlertTitleTextColorV2">
+        @color/idenfySecondColorV2
+    </color>
+    <color name="idenfyIdentificationResultsViewDocumentStepLoadingSpinnerAccentColor">
+        @color/idenfyMainColorV2
+    </color>
+    <color name="idenfyIdentificationResultsViewDocumentStepLoadingStepDividerErrorColor">
+        @color/idenfyStepErrorColorV2
+    </color>
+    <color name="idenfyIdentificationResultsViewDocumentStepLoadingStepDividerLoadingColor">
+        @color/idenfyMainColorV2
+    </color>
+    <color name="idenfyIdentificationResultsViewDocumentStepLoadingStepDividerSuccessColor">
+        @color/idenfyMainColorV2
+    </color>
+    <color name="idenfyIdentificationResultsViewDocumentStepScrollBarThumbColor">
+        @color/idenfyMainColor50percentV2
+    </color>
+    <color name="idenfyIdentificationResultsViewDocumentStepTitleTextColor">
+        @color/idenfySecondColorV2
+    </color>
+    <color name="idenfyIdentificationResultsViewErrorStepTextColorV2">
+        @color/idenfyStepErrorColorV2
+    </color>
+    <color name="idenfyIdentificationResultsViewInstructionsAlertBackgroundColorV2">@color/idenfyBackgroundColorV2</color>
+    <color name="idenfyIdentificationResultsViewInstructionsAlertContinueButtonTextColorV2">@color/idenfyWhite</color>
+    <color name="idenfyIdentificationResultsViewInstructionsAlertLoadingSpinnerColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyIdentificationResultsViewInstructionsAlertProgressBarProgressColorV2">@color/idenfyMainColorV2</color>
+    <color name="idenfyIdentificationResultsViewInstructionsAlertTitleTextColorV2">@color/idenfySecondColorV2</color>
+    <color name="idenfyIdentificationResultsViewMrzNotFoundAlertBackButtonTextColorV2">
+        @color/idenfyMainColorV2
+    </color>
+    <color name="idenfyIdentificationResultsViewMrzNotFoundAlertBackgroundColorV2">
+        @color/idenfyBackgroundColorV2
+    </color>
+    <color name="idenfyIdentificationResultsViewMrzNotFoundAlertContinueButtonTextColorV2">
+        @color/idenfyWhite
+    </color>
+    <color name="idenfyIdentificationResultsViewMrzNotFoundAlertDescriptionTextColorV2">
+        @color/idenfySecondColorV2
+    </color>
+    <color name="idenfyIdentificationResultsViewMrzNotFoundAlertTitleTextColorV2">
+        @color/idenfySecondColorV2
+    </color>
+    <color name="idenfyIdentificationResultsViewRetakeButtonTextColor">@color/idenfyWhite</color>
+    <color name="idenfyIdentificationResultsViewSuccessStepTextColor">
+        @color/idenfyStepSuccessColorV2
+    </color>
+    <color name="idenfyIdentificationResultsViewTitleTextColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyIdentificationSuccessResultsViewBackgroundColor">
+        @color/idenfyBackgroundColorV2
+    </color>
+    <color name="idenfyIdentificationSuccessResultsViewDescriptionTextColor">
+        @color/idenfySecondColorV2
+    </color>
+    <color name="idenfyIdentificationSuccessResultsViewIdentifiedTextColor">
+        @color/idenfyIdentificationResultsViewSuccessStepTextColor
+    </color>
+    <color name="idenfyIdentificationSuccessResultsViewTitleTextColor">@color/idenfySecondColorV2
+    </color>
+    <color name="idenfyIdentificationSuspectedResultsViewContinueButtonBackgroundColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyIdentificationSuspectedResultsViewContinueButtonTitleColor">@color/idenfyWhite</color>
+    <color name="idenfyIdentificationSuspectedResultsViewDescriptionColor">@color/idenfySecondColor50percentV2</color>
+    <color name="idenfyIdentificationSuspectedResultsViewDescriptionEmailColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyIdentificationSuspectedResultsViewTitleColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyInactiveColorV2">#EFF1F8</color>
+    <color name="idenfyInitialAgreementBackgroundColor">@color/idenfyWhite</color>
+    <color name="idenfyInitialAgreementButtonColor">@color/idenfyColorAccent</color>
+    <color name="idenfyInitialAgreementButtonColorUnFocused">@color/colorAccentIdenfyDarkgrey
+    </color>
+    <color name="idenfyInitialAgreementButtonTextColor">@color/idenfyBlack</color>
+    <color name="idenfyInitialAgreementCountryTextColor">@color/idenfyColorPrimary</color>
+    <color name="idenfyInitialAgreementInformationCardsBackgroundColor">@color/idenfyWhite</color>
+    <color name="idenfyInitialAgreementInformationTitleColor">@color/idenfyColorPrimary</color>
+    <color name="idenfyInitialAgreementSpinnerArrowColor">@color/idenfyColorPrimary</color>
+    <color name="idenfyInitialAgreementSpinnerBorderColor">@color/idenfyColorPrimary</color>
+    <color name="idenfyInitialAgreementSpinnerSolidColor">@color/idenfyWhite</color>
+    <color name="idenfyInitialAgreementTextColor">@color/idenfyColorPrimary</color>
+    <color name="idenfyInstructionCurrentInstructionContentTextColor">#ffffff</color>
+    <color name="idenfyInstructionCurrentInstructionContentTitleColor">#ffffff</color>
+    <color name="idenfyInstructionDocumentsCameraSessionBackArrowColor">#ffffff</color>
+    <color name="idenfyInstructionDocumentsCameraSessionBackTextViewColor">#ffffff</color>
+    <color name="idenfyInstructionDocumentsCameraSessionInformationTextViewColor">#ffffff</color>
+    <color name="idenfyInstructionDocumentsCameraSessionTitleColor">#ffffff</color>
+    <color name="idenfyInstructionDoneInstructionPageButtonColor">#ffffff</color>
+    <color name="idenfyInstructionExpandTopLayoutButtonColor">#ffffff</color>
+    <color name="idenfyInstructionFaceCameraSessionBackArrowColor">#ffffff</color>
+    <color name="idenfyInstructionFaceCameraSessionBackTextViewColor">#ffffff</color>
+    <color name="idenfyInstructionFaceCameraSessionInformationTextViewColor">#ffffff</color>
+    <color name="idenfyInstructionInactiveDotColor">#ffffff</color>
+    <color name="idenfyInstructionNextInstructionPageButtonColor">#ffffff</color>
+    <color name="idenfyInstructionPreviousInstructionPageButtonColor">#ffffff</color>
+    <color name="idenfyInstructionSelectedDotColor">#8BC7E0</color>
+    <color name="idenfyInstructionsVideoBackgroundColor">#B9BEBF</color>
+    <color name="idenfyLanguageSelectionViewBackgroundColor">
+        @color/idenfyBackgroundColorV2
+    </color>
+    <color name="idenfyLanguageSelectionViewLanguageRecyclerViewBackgroundColor">
+        @color/idenfyWhite
+    </color>
+    <color name="idenfyLanguageSelectionViewLanguageRecyclerViewBorderColor">
+        @color/idenfySecondColor6percentV2
+    </color>
+    <color name="idenfyLanguageSelectionViewLanguageRecyclerViewItemBackgroundColor">
+        @color/idenfyWhite
+    </color>
+    <color name="idenfyLanguageSelectionViewLanguageRecyclerViewItemBorderColor">
+        @color/idenfySecondColor6percentV2
+    </color>
+    <color name="idenfyLanguageSelectionViewLanguageRecyclerViewItemHighlightedBackgroundColor">
+        @color/idenfyMainColorV2
+    </color>
+    <color name="idenfyLanguageSelectionViewLanguageRecyclerViewItemHighlightedTextColor">
+        @color/idenfyWhite
+    </color>
+    <color name="idenfyLanguageSelectionViewLanguageRecyclerViewItemTextColor">
+        @color/idenfySecondColorV2
+    </color>
+    <color name="idenfyLanguageSelectionViewTitleTextColor">
+        @color/idenfySecondColorV2
+    </color>
+    <color name="idenfyLivenessBackgroundColor">#ffffff</color>
+    <color name="idenfyMFACaptchaMethodViewBackgroundColor">@color/idenfyBackgroundColorV2</color>
+    <color name="idenfyMFACaptchaMethodViewCaptchaEditTextBackgroundColor">@color/idenfyWhite</color>
+    <color name="idenfyMFACaptchaMethodViewCaptchaEditTextBorderColor">@color/idenfySecondColor20percentV2</color>
+    <color name="idenfyMFACaptchaMethodViewCaptchaEditTextHighlightedBorderColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyMFACaptchaMethodViewCaptchaEditTextHintTitleColor">@color/idenfySecondColor20percentV2</color>
+    <color name="idenfyMFACaptchaMethodViewCaptchaEditTextTitleColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyMFACaptchaMethodViewCaptchaEditTextTopHintTitleColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyMFACaptchaMethodViewContinueButtonTextColor">@color/idenfyWhite</color>
+    <color name="idenfyMFACaptchaMethodViewDescriptionTextColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyMFACaptchaMethodViewTitleTextColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyMFAGeneralViewBackgroundColor">@color/idenfyBackgroundColorV2</color>
+    <color name="idenfyMFAGeneralViewContinueButtonTextColor">@color/idenfyWhite</color>
+    <color name="idenfyMFAGeneralViewDescriptionTextColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyMFAGeneralViewEditTextBackgroundColor">@color/idenfyWhite</color>
+    <color name="idenfyMFAGeneralViewEditTextBorderColor">@color/idenfySecondColor20percentV2</color>
+    <color name="idenfyMFAGeneralViewEditTextHighlightedBorderColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyMFAGeneralViewEditTextHintTitleColor">@color/idenfySecondColor20percentV2</color>
+    <color name="idenfyMFAGeneralViewEditTextTitleColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyMFAGeneralViewEditTextTopHintTitleColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyMFAGeneralViewTitleTextColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyMFAMethodSelectionViewBackgroundColor">@color/idenfyBackgroundColorV2</color>
+    <color name="idenfyMFAMethodSelectionViewContinueButtonTextColor">@color/idenfyWhite</color>
+    <color name="idenfyMFAMethodSelectionViewDescriptionTextColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyMFAMethodSelectionViewTitleTextColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyMFAMethodSelectionViewTopHintTitleColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyMainColor50percentV2">#80536DFE</color>
+    <color name="idenfyMainColorV2">#536DFE</color>
+    <color name="idenfyMainDarkerColorV2">#5D7CE4</color>
+    <color name="idenfyManualReviewingStatusApprovedCommonInformationDescriptionTextColor">@color/idenfyMainColorV2
+    </color>
+    <color name="idenfyManualReviewingStatusApprovedCommonInformationTitleTextColor">@color/idenfySecondColorV2
+    </color>
+    <color name="idenfyManualReviewingStatusApprovedContinueButtonTextColor">
+        @color/idenfyWhite
+    </color>
+    <color name="idenfyManualReviewingStatusApprovedViewBackgroundColor">
+        @color/idenfyBackgroundColorV2
+    </color>
+    <color name="idenfyManualReviewingStatusFailedCommonInformationDescriptionSupportEmailTextColor">@color/idenfyMainColorV2
+    </color>
+    <color name="idenfyManualReviewingStatusFailedCommonInformationDescriptionTextColor">@color/idenfySecondColor50percentV2
+    </color>
+    <color name="idenfyManualReviewingStatusFailedCommonInformationTitleTextColor">@color/idenfySecondColorV2
+    </color>
+    <color name="idenfyManualReviewingStatusFailedContinueButtonTextColor">
+        @color/idenfyWhite
+    </color>
+    <color name="idenfyManualReviewingStatusFailedViewBackgroundColor">
+        @color/idenfyBackgroundColorV2
+    </color>
+    <color name="idenfyManualReviewingStatusWaitingBackToAccountButtonBackgroundColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyManualReviewingStatusWaitingBackToAccountButtonTextColor">@color/idenfyWhite</color>
+    <color name="idenfyManualReviewingStatusWaitingCommonInformationDescriptionTextColor">@color/idenfySecondColor50percentV2</color>
+    <color name="idenfyManualReviewingStatusWaitingCommonInformationTitleTextColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyManualReviewingStatusWaitingCommonReviewBoxFinishedBackgroundColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyManualReviewingStatusWaitingCommonReviewBoxFinishedTickImageTintColor">@color/idenfyWhite</color>
+    <color name="idenfyManualReviewingStatusWaitingCommonReviewBoxFinishedTitleColor">@color/idenfyWhite</color>
+    <color name="idenfyManualReviewingStatusWaitingCommonReviewBoxWaitingBackgroundColor">@color/idenfyWhite</color>
+    <color name="idenfyManualReviewingStatusWaitingCommonReviewBoxWaitingSpinnerColor">@color/idenfySecondColor20percentV2</color>
+    <color name="idenfyManualReviewingStatusWaitingCommonReviewBoxWaitingTitleColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyManualReviewingStatusWaitingCommonWaitingDurationTitleColor">@color/idenfySecondColor50percentV2</color>
+    <color name="idenfyManualReviewingStatusWaitingCommonWaitingTimerBoxBackgroundColor">@color/idenfySecondColor20percentV2</color>
+    <color name="idenfyManualReviewingStatusWaitingCommonWaitingTimerImageTintColor">@color/idenfySecondColor50percentV2</color>
+    <color name="idenfyManualReviewingStatusWaitingCommonWaitingTimerTitleColor">@color/idenfySecondColor50percentV2</color>
+    <color name="idenfyManualReviewingStatusWaitingViewBackgroundColor">@color/idenfyBackgroundColorV2</color>
+    <color name="idenfyMenuSelectionBarColor">#2B3442</color>
+    <color name="idenfyMenuSelectionTextColor">#ffffff</color>
+    <color name="idenfyNFCReadingCommonInformationDescriptionTextColor">@color/idenfyMainColorV2
+    </color>
+    <color name="idenfyNFCReadingCommonInformationTitleTextColor">@color/idenfySecondColorV2
+    </color>
+    <color name="idenfyNFCReadingTimeOutCommonInformationDescriptionTextColor">@color/idenfySecondColorV2
+    </color>
+    <color name="idenfyNFCReadingTimeOutCommonInformationTitleTextColor">@color/idenfySecondColorV2
+    </color>
+    <color name="idenfyNFCReadingTimeOutContinueButtonTextColor">
+        @color/idenfyWhite
+    </color>
+    <color name="idenfyNFCReadingTimeOutViewBackgroundColor">
+        @color/idenfyBackgroundColorV2
+    </color>
+    <color name="idenfyNFCReadingViewBackgroundColor">
+        @color/idenfyBackgroundColorV2
+    </color>
+    <color name="idenfyNFCRequiredCommonInformationDescriptionTextColor">@color/idenfySecondColorV2
+    </color>
+    <color name="idenfyNFCRequiredCommonInformationTitleTextColor">@color/idenfySecondColorV2
+    </color>
+    <color name="idenfyNFCRequiredContinueButtonTextColor">
+        @color/idenfyWhite
+    </color>
+    <color name="idenfyNFCRequiredViewBackgroundColor">
+        @color/idenfyBackgroundColorV2
+    </color>
+    <color name="idenfyNextButtonColor">@color/idenfyColorAccent</color>
+    <color name="idenfyNoBackButtonAppBarBackgroundColor">@color/idenfyWhite</color>
+    <color name="idenfyPhotoResultAppBarBackButtonTextColor">@color/idenfyBlack</color>
+    <color name="idenfyPhotoResultAppBarBackgroundColor">@color/idenfyWhite</color>
+    <color name="idenfyPhotoResultBackgroundColor">#000000</color>
+    <color name="idenfyPhotoResultDetailsCardBackgroundColorV2">#D9DFFC</color>
+    <color name="idenfyProviderLoginViewBackgroundColor">@color/idenfyBackgroundColorV2</color>
+    <color name="idenfyProviderLoginViewContinueButtonTextColor">@color/idenfyWhite</color>
+    <color name="idenfyProviderLoginViewDescriptionTextColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyProviderLoginViewTitleTextColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyProviderLoginViewUsernameAndPasswordEditTextBackgroundColor">@color/idenfyWhite</color>
+    <color name="idenfyProviderLoginViewUsernameAndPasswordEditTextBorderColor">@color/idenfySecondColor20percentV2</color>
+    <color name="idenfyProviderLoginViewUsernameAndPasswordEditTextHighlightedBorderColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyProviderLoginViewUsernameAndPasswordEditTextHintTitleColor">@color/idenfySecondColor20percentV2</color>
+    <color name="idenfyProviderLoginViewUsernameAndPasswordEditTextTitleColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyProviderLoginViewUsernameAndPasswordEditTextTopHintTitleColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyProviderSelectionViewBackgroundColor">@color/idenfyBackgroundColorV2</color>
+    <color name="idenfyProviderSelectionViewDescriptionTextColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyProviderSelectionViewProviderRecyclerViewBackgroundColor">@color/idenfyWhite
+    </color>
+    <color name="idenfyProviderSelectionViewProviderRecyclerViewBorderColor">
+        @color/idenfySecondColor6percentV2
+    </color>
+    <color name="idenfyProviderSelectionViewProviderRecyclerViewItemBackgroundColor">
+        @color/idenfyWhite
+    </color>
+    <color name="idenfyProviderSelectionViewProviderRecyclerViewItemBorderColor">
+        @color/idenfySecondColor6percentV2
+    </color>
+    <color name="idenfyProviderSelectionViewProviderRecyclerViewItemHighlightedBackgroundColor">
+        @color/idenfyMainColorV2
+    </color>
+    <color name="idenfyProviderSelectionViewProviderRecyclerViewItemHighlightedTextColor">
+        @color/idenfyWhite
+    </color>
+    <color name="idenfyProviderSelectionViewProviderRecyclerViewItemTextColor">
+        @color/idenfySecondColorV2
+    </color>
+    <color name="idenfyProviderSelectionViewProviderSearchBarBackgroundColor">@color/idenfyWhite
+    </color>
+    <color name="idenfyProviderSelectionViewProviderSearchBarHighlightedTextColor">
+        @color/idenfySecondColorV2
+    </color>
+    <color name="idenfyProviderSelectionViewProviderSearchBarTextColor">
+        @color/idenfySecondColor50percentV2
+    </color>
+    <color name="idenfyProviderSelectionViewTitleTextColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyProviderViewSelectionProviderSearchBarBorderColor">
+        @color/idenfySecondColor6percentV2
+    </color>
+    <color name="idenfyRedColorV2">#F44336</color>
+    <color name="idenfyRepeatButtonColor">@color/idenfyColorPrimary</color>
+    <color name="idenfyResultsDocumentsTextView">@color/idenfyColorPrimary</color>
+    <color name="idenfyResultsErrorIconShapeColor">#ffffff</color>
+    <color name="idenfyResultsErrorIconSolidColor">#E44742</color>
+    <color name="idenfyResultsLoadingIconColor">@color/idenfyColorAccent</color>
+    <color name="idenfyResultsLoadingLayoutColor">#ffffff</color>
+    <color name="idenfyResultsLoadingTextView">@color/idenfyColorAccent</color>
+    <color name="idenfyResultsMessageTextColor">@color/idenfyColorPrimary</color>
+    <color name="idenfyResultsProgressBarColor">#ffffff</color>
+    <color name="idenfyResultsSuccessIconShapeColor">#ffffff</color>
+    <color name="idenfyResultsSuccessIconSolidColor">#4FD250</color>
+    <color name="idenfySecondColor20percentV2">#33353B4E</color>
+    <color name="idenfySecondColor50percentV2">#80353B4E</color>
+    <color name="idenfySecondColor6percentV2">#0F353B4E</color>
+    <color name="idenfySecondColor80percentV2">#CC353B4E</color>
+    <color name="idenfySecondColorV2">#F2353B4E</color>
+    <color name="idenfySplashScreenBackgroundColor">@color/idenfyWhite</color>
+    <color name="idenfySplashScreenViewDescriptionTextColor">@color/idenfyWhite</color>
+    <color name="idenfyStepErrorColorV2">#D32F2F</color>
+    <color name="idenfyStepSuccessColorV2">@color/idenfyMainDarkerColorV2</color>
+    <color name="idenfyTakePhotoButtonBackgroundFocused">@color/idenfyMainDarkerColorV2</color>
+    <color name="idenfyTakePhotoButtonIconUnFocused">@color/idenfyMainDarkerColorV2</color>
+    <color name="idenfyToolbarTitleColor">#ffffff</color>
+    <color name="idenfyTransparentCameraOverlay">#60ffffff</color>
+    <color name="idenfyTransparentCameraOverlayV2">#4D000000</color>
+    <color name="idenfyUploadPhotoViewBackgroundColor">@color/idenfyBackgroundColorV2</color>
+    <color name="idenfyUploadPhotoViewChooseAnotherPhotoButtonTextColor">@color/idenfyMainColorV2
+    </color>
+    <color name="idenfyUploadPhotoViewContinuePhotoButtonTextColor">@color/idenfyWhite</color>
+    <color name="idenfyUploadPhotoViewCroppingBackgroundColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyUploadPhotoViewCroppingBorderColor">@color/idenfyMainColorV2</color>
+    <color name="idenfyUploadPhotoViewCroppingPhotoLoadingSpinnerColor">@color/idenfyMainColorV2
+    </color>
+    <color name="idenfyUploadPhotoViewDescriptionTextColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyUploadPhotoViewTitleTextColor">@color/idenfySecondColorV2</color>
+    <color name="idenfyWhite">#ffffff</color>
+    <color name="idenfy_document_crop_color">@android:color/black</color>
+    <color name="idenfy_document_cropper_background">@android:color/white</color>
+    <color name="menuCellBackgroundColorIdenfy">#7defeff4</color>
+    <string name="FaceTec_accessibility_cancel_button">Cancel</string>
+    <string name="FaceTec_accessibility_torch_button">Toggle Light</string>
+    <string name="FaceTec_action_accept_photo">ACCEPT</string>
+    <string name="FaceTec_action_confirm">CONFIRM INFO</string>
+    <string name="FaceTec_action_continue">CONTINUE</string>
+    <string name="FaceTec_action_im_ready">I\'M READY</string>
+    <string name="FaceTec_action_ok">OK</string>
+    <string name="FaceTec_action_retake_photo">RETAKE</string>
+    <string name="FaceTec_action_select_id_card">PHOTO ID</string>
+    <string name="FaceTec_action_select_passport">PASSPORT</string>
+    <string name="FaceTec_action_take_photo">TAKE PHOTO</string>
+    <string name="FaceTec_action_try_again">TRY AGAIN</string>
+    <string name="FaceTec_camera_permission_enable_camera">ENABLE CAMERA</string>
+    <string name="FaceTec_camera_permission_header">Enable Camera</string>
+    <string name="FaceTec_camera_permission_launch_settings">LAUNCH SETTINGS</string>
+    <string name="FaceTec_camera_permission_message_auth">Your camera is disabled. Tap below to edit your settings.</string>
+    <string name="FaceTec_camera_permission_message_enroll">Please click the button below to enable your selfie camera.</string>
+    <string name="FaceTec_feedback_center_face">Center Your Face</string>
+    <string name="FaceTec_feedback_face_not_found">Frame Your Face</string>
+    <string name="FaceTec_feedback_face_not_looking_straight_ahead">Look Straight Ahead</string>
+    <string name="FaceTec_feedback_face_not_upright">Hold Your Head Straight</string>
+    <string name="FaceTec_feedback_hold_steady">Hold Steady</string>
+    <string name="FaceTec_feedback_move_phone_away">Move Away</string>
+    <string name="FaceTec_feedback_move_phone_closer">Move Closer</string>
+    <string name="FaceTec_feedback_move_phone_even_closer">Even Closer</string>
+    <string name="FaceTec_feedback_move_phone_to_eye_level">Raise Camera Up To Eye Level</string>
+    <string name="FaceTec_feedback_use_even_lighting">Light Face More Evenly</string>
+    <string name="FaceTec_idscan_capture_hold_steady_message">Please Hold Steady</string>
+    <string name="FaceTec_idscan_capture_id_back_instruction_message">Show Back of the Document</string>
+    <string name="FaceTec_idscan_capture_id_front_instruction_message">Show Front of the Document</string>
+    <string name="FaceTec_idscan_capture_passport_instruction_message">Show Passport Photo Page</string>
+    <string name="FaceTec_idscan_capture_tap_to_focus_message">Tap Screen To Focus</string>
+    <string name="FaceTec_idscan_ocr_confirmation_main_header">Review &amp; Confirm</string>
+    <string name="FaceTec_idscan_review_id_back_instruction_message">Confirm Photo is Clear &amp; Legible</string>
+    <string name="FaceTec_idscan_review_id_front_instruction_message">Confirm Photo is Clear &amp; Legible</string>
+    <string name="FaceTec_idscan_type_selection_header">Please click \nthe button below \nto capture the document</string>
+    <string name="FaceTec_instructions_header_ready_1">Get Ready For</string>
+    <string name="FaceTec_instructions_header_ready_2">Your Video Selfie</string>
+    <string name="FaceTec_instructions_message_ready_1">Frame Your Face in the Oval,</string>
+    <string name="FaceTec_instructions_message_ready_2">Press I’m Ready &amp; Move Closer</string>
+    <string name="FaceTec_presession_brighten_your_environment">Brighten Your Environment</string>
+    <string name="FaceTec_presession_conditions_too_bright">Conditions Too Bright</string>
+    <string name="FaceTec_presession_eyes_straight_ahead">Look Straight Ahead</string>
+    <string name="FaceTec_presession_frame_your_face">Frame Your Face In The Oval</string>
+    <string name="FaceTec_presession_hold_steady_1">Hold Steady For: 1</string>
+    <string name="FaceTec_presession_hold_steady_2">Hold Steady For: 2</string>
+    <string name="FaceTec_presession_hold_steady_3">Hold Steady For: 3</string>
+    <string name="FaceTec_presession_neutral_expression">Neutral Expression, No Smiling</string>
+    <string name="FaceTec_presession_position_face_straight_in_oval">Look Straight Ahead</string>
+    <string name="FaceTec_presession_remove_dark_glasses">Remove Dark Glasses</string>
+    <string name="FaceTec_result_facescan_upload_message">Uploading\nEncrypted\n3D FaceScan</string>
+    <string name="FaceTec_result_idscan_retry_face_did_not_match_message">Face Didn\'t Match\nHighly Enough</string>
+    <string name="FaceTec_result_idscan_retry_id_not_fully_visible_message">ID Document\nNot Fully Visible</string>
+    <string name="FaceTec_result_idscan_retry_ocr_results_not_good_enough_message">ID Text Not Legible</string>
+    <string name="FaceTec_result_idscan_success_back_side_message">Success</string>
+    <string name="FaceTec_result_idscan_success_front_side_back_next_message">Success</string>
+    <string name="FaceTec_result_idscan_success_front_side_message">Success</string>
+    <string name="FaceTec_result_idscan_success_user_confirmation_message">Success</string>
+    <string name="FaceTec_result_idscan_unsuccess_message">ID Photo\nDid Not Match\nUser\'s Face</string>
+    <string name="FaceTec_result_idscan_upload_message">Uploading\nEncrypted\nID Scan</string>
+    <string name="FaceTec_result_success_message">Completed</string>
+    <string name="FaceTec_retry_header">Let\'s try that again</string>
+    <string name="FaceTec_retry_ideal_image_label">Ideal Pose</string>
+    <string name="FaceTec_retry_instruction_message_1">Neutral Expression, No Smiling</string>
+    <string name="FaceTec_retry_instruction_message_2">No Glare or Extreme Lighting</string>
+    <string name="FaceTec_retry_instruction_message_3">Too Blurry, Clean Your Camera</string>
+    <string name="FaceTec_retry_subheader_message">We need a clearer video selfie.</string>
+    <string name="FaceTec_retry_your_image_label">Your Selfie</string>
+    <string name="IDENFY_FACE_LIVENESS_MESSAGE">Too many times failed the liveness check</string>
+    <string name="IDENFY_SERVER_ERROR_MESSAGE">Oops! Something went wrong.</string>
+    <string name="IDENFY_TOKEN_NOT_VALID_MESSAGE">Session expired!</string>
+    <string name="IDENFY_TOO_MANY_REATTEMPTS_MESSAGE">Too many attempts!</string>
+    <string name="idenfy_additional_support_view_button_title">GO BACK</string>
+    <string name="idenfy_additional_support_view_description">The verification process was not performed. If you have any questions, please contact our customer support team.</string>
+    <string name="idenfy_additional_support_view_email">support@idenfy.com</string>
+    <string name="idenfy_additional_support_view_title">You have canceled the verification process</string>
+    <string name="idenfy_alert_message_abort_identification_information">Are you sure you want to abort verification?</string>
+    <string name="idenfy_alert_message_document_analysis_information">Could not determine document type. Please select document type in the next step.</string>
+    <string name="idenfy_alert_message_liveness_default_error">Liveness check failed, please try again.</string>
+    <string name="idenfy_alert_message_liveness_face_timeout_error">Face liveness check time is up. Please try again.</string>
+    <string name="idenfy_alert_message_manual_reviewing_information">Because you chose a document other than an id card or passport, we are required to review your case one more time.</string>
+    <string name="idenfy_alert_message_manual_reviewing_status_waiting_stop_waiting_information">Are you sure you want to abort verification?</string>
+    <string name="idenfy_alert_message_manual_reviewing_status_waiting_terminate_information">Are you sure you want to abort verification?</string>
+    <string name="idenfy_alert_message_restart_identification_information">Are you sure you want start over?</string>
+    <string name="idenfy_alert_negative_button_abort_identification_information">NO</string>
+    <string name="idenfy_alert_negative_button_manual_reviewing_status_waiting_stop_waiting_information">NO</string>
+    <string name="idenfy_alert_negative_button_manual_reviewing_status_waiting_terminate_information">NO</string>
+    <string name="idenfy_alert_negative_button_restart_identification_information">NO</string>
+    <string name="idenfy_alert_positive_button_abort_identification_information">YES</string>
+    <string name="idenfy_alert_positive_button_document_analysis_information">Continue</string>
+    <string name="idenfy_alert_positive_button_liveness_default_error">Proceed</string>
+    <string name="idenfy_alert_positive_button_manual_reviewing_information">Proceed</string>
+    <string name="idenfy_alert_positive_button_manual_reviewing_status_waiting_stop_waiting_information">YES</string>
+    <string name="idenfy_alert_positive_button_manual_reviewing_status_waiting_terminate_information">YES</string>
+    <string name="idenfy_alert_positive_button_restart_identification_information">YES</string>
+    <string name="idenfy_alert_title_abort_identification_information">Abort verification</string>
+    <string name="idenfy_alert_title_document_analysis_information">OH NO!</string>
+    <string name="idenfy_alert_title_liveness_default_error">INFORMATION</string>
+    <string name="idenfy_alert_title_manual_reviewing_information">INFORMATION</string>
+    <string name="idenfy_alert_title_manual_reviewing_status_waiting_stop_waiting_information">Abort verification</string>
+    <string name="idenfy_alert_title_manual_reviewing_status_waiting_terminate_information">Abort verification</string>
+    <string name="idenfy_alert_title_restart_identification_information">Start over</string>
+    <string name="idenfy_camera_onboarding_view_continue_button_title_v2">CONTINUE</string>
+    <string name="idenfy_camera_onboarding_view_continue_disabled_button_title_v2">CONTINUE IN **x** …</string>
+    <string name="idenfy_camera_onboarding_view_liveness_instructions_description_part_1">Make sure you are in the bright environment</string>
+    <string name="idenfy_camera_onboarding_view_liveness_instructions_description_part_2">Click «I\'m Ready» when prompted and follow the instructions</string>
+    <string name="idenfy_camera_onboarding_view_liveness_instructions_description_part_3">You will need to move closer or away from the camera to complete this check</string>
+    <string name="idenfy_camera_permissions_view_goto_settings_button_title_v2">ENABLE CAMERA</string>
+    <string name="idenfy_camera_permissions_view_guidance_information_description_v2">Go to settings, tap on "Permissions” to grant access to the camera</string>
+    <string name="idenfy_camera_permissions_view_information_description_v2">We need to use your camera to take the photo of your document and face photo</string>
+    <string name="idenfy_camera_permissions_view_information_title_v2">May we use your camera?</string>
+    <string name="idenfy_camera_static_onboarding_view_face_instructions_title">Please follow the instructions below:</string>
+    <string name="idenfy_camera_static_onboarding_view_instructions_description_part_1">Clearly visible and NOT Blurry</string>
+    <string name="idenfy_camera_static_onboarding_view_instructions_description_part_2">Well lit and not Covered by a shadow</string>
+    <string name="idenfy_camera_static_onboarding_view_instructions_description_part_3">Not covered by the reflection of light/glare</string>
+    <string name="idenfy_camera_static_onboarding_view_instructions_description_part_4">Not blocked by a finger and fits the white frame</string>
+    <string name="idenfy_camera_static_onboarding_view_instructions_description_part_5">An original document and not a copy of it</string>
+    <string name="idenfy_camera_static_onboarding_view_instructions_title">Make sure the picture of your selected document is:</string>
+    <string name="idenfy_common_title_navigation_back">Back</string>
+    <string name="idenfy_confirmation_view_begin_identification_title_v2">CONTINUE</string>
+    <string name="idenfy_confirmation_view_document_steps_step_back_title_v2">Document back photo</string>
+    <string name="idenfy_confirmation_view_document_steps_step_face_title_v2">Face photo</string>
+    <string name="idenfy_confirmation_view_document_steps_step_front_title_v2">Document front photo</string>
+    <string name="idenfy_confirmation_view_document_steps_step_liveliness_title_v2">Liveness check</string>
+    <string name="idenfy_confirmation_view_document_steps_step_passport_cover_title_v2">Passport cover photo</string>
+    <string name="idenfy_confirmation_view_document_steps_step_proof_of_address_title_v2">Proof of address document photo</string>
+    <string name="idenfy_confirmation_view_document_steps_step_second_proof_of_address_title_v2">Second proof of address document photo</string>
+    <string name="idenfy_confirmation_view_document_steps_title_part_1_v2">Verification will take</string>
+    <string name="idenfy_confirmation_view_document_steps_title_part_2_v2">5</string>
+    <string name="idenfy_confirmation_view_document_steps_title_part_3_v2">steps:</string>
+    <string name="idenfy_confirmation_view_document_steps_title_part_placeholder_v2">Verification will take **5** steps:</string>
+    <string name="idenfy_confirmation_view_information_aadhaar_card_description_part_2_v2">aadhaar card</string>
+    <string name="idenfy_confirmation_view_information_description_part_1_v2">Please have your</string>
+    <string name="idenfy_confirmation_view_information_description_part_3_v2">ready to identify</string>
+    <string name="idenfy_confirmation_view_information_description_type_driver_licence_placeholder_v2">Please have your **driver\'s license** ready to identify</string>
+    <string name="idenfy_confirmation_view_information_description_type_id_card_description_placeholder_v2">Please have your **identity card** ready to identify</string>
+    <string name="idenfy_confirmation_view_information_description_type_other_placeholder_v2">Please have your **document** ready to identify</string>
+    <string name="idenfy_confirmation_view_information_description_type_passport_description_placeholder_v2">Please have your **passport** ready to identify</string>
+    <string name="idenfy_confirmation_view_information_description_type_residence_permit_placeholder_v2">Please have your **residence permit** ready to identify</string>
+    <string name="idenfy_confirmation_view_information_diplomatic_id_card_description_part_2_v2">diplomatic ID</string>
+    <string name="idenfy_confirmation_view_information_document_military_card_description_part_2_v2">military (veteran) card</string>
+    <string name="idenfy_confirmation_view_information_document_old_id_card_description_part_2_v2">old ID card</string>
+    <string name="idenfy_confirmation_view_information_document_photo_card_description_part_2_v2">photo card</string>
+    <string name="idenfy_confirmation_view_information_document_travel_card_description_part_2_v2">travel card</string>
+    <string name="idenfy_confirmation_view_information_document_type_asylum_description_part_2_v2">Austrian asylum residence permit</string>
+    <string name="idenfy_confirmation_view_information_document_type_border_crossing_description_part_2_v2">USA border crossing card</string>
+    <string name="idenfy_confirmation_view_information_document_type_driver_licence_description_part_2_v2">driver\'s license</string>
+    <string name="idenfy_confirmation_view_information_document_type_id_card_description_part_2_v2">identity card</string>
+    <string name="idenfy_confirmation_view_information_document_type_international_passport_description_part_2_v2">Russian international passport</string>
+    <string name="idenfy_confirmation_view_information_document_type_national_passport_description_part_2_v2">Russian national passport</string>
+    <string name="idenfy_confirmation_view_information_document_type_other_description_part_2_v2">document</string>
+    <string name="idenfy_confirmation_view_information_document_type_passport_description_part_2_v2">passport</string>
+    <string name="idenfy_confirmation_view_information_document_type_provisional_driver_license_description_part_2_v2">UK provisional driver license</string>
+    <string name="idenfy_confirmation_view_information_document_type_residence_permit_description_part_2_v2">residence permit</string>
+    <string name="idenfy_confirmation_view_information_document_type_visa_description_part_2_v2">visa</string>
+    <string name="idenfy_confirmation_view_information_document_type_voter_card_description_part_2_v2">voter card</string>
+    <string name="idenfy_confirmation_view_information_pan_card_description_part_2_v2">PAN card</string>
+    <string name="idenfy_confirmation_view_information_proof_of_age_card_description_part_2_v2">proof of age card</string>
+    <string name="idenfy_confirmation_view_information_title_v2">Confirm document type</string>
+    <string name="idenfy_confirmation_view_upload_image_title_v2">You can upload photos in every step</string>
+    <string name="idenfy_country_selection_view_information_description_v2">Please choose the country where your document was issued</string>
+    <string name="idenfy_country_selection_view_information_title_v2">Select issuing country</string>
+    <string name="idenfy_country_selection_view_searchbar_hint_v2">Search document\'s country…</string>
+    <string name="idenfy_document_and_face_camera_preview_session_information_instructions_dialog_button_title">SKIP INSTRUCTIONS</string>
+    <string name="idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_1">Make sure the light source is in front and not behind you</string>
+    <string name="idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_2">Make sure the picture of your selected document is: Clearly visible and NOT Blurry</string>
+    <string name="idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_3">Make sure the picture of your selected document is: Well lit and not Covered by a shadow</string>
+    <string name="idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_4">Make sure the picture of your selected document is: Not covered by the reflection of light/glare</string>
+    <string name="idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_5">Make sure the picture of your selected document is: Not blocked by a finger and fits the white frame</string>
+    <string name="idenfy_document_and_face_camera_preview_session_information_instructions_dialog_face_description">Make sure your selfie is clearly visible and fits the white frame</string>
+    <string name="idenfy_document_and_face_camera_preview_session_information_instructions_dialog_title">How to identify?</string>
+    <string name="idenfy_document_and_face_camera_results_button_next_step_title_v2">YES, CONTINUE</string>
+    <string name="idenfy_document_and_face_camera_results_button_retake_photo_title_v2">TAKE A NEW PHOTO</string>
+    <string name="idenfy_document_and_face_camera_results_document_analysis_description">Please wait a moment.</string>
+    <string name="idenfy_document_and_face_camera_results_document_analysis_title">Analysing…</string>
+    <string name="idenfy_document_and_face_camera_results_powered_by_idenfy_card_title_v2">Powered by iDenfy</string>
+    <string name="idenfy_document_and_face_camera_results_title_v2">Inspect photo</string>
+    <string name="idenfy_document_camera_preview_session_view_details_upload_file_type_alert_description_v2_default">Which file type would you like to upload?</string>
+    <string name="idenfy_document_camera_preview_session_view_details_upload_file_type_alert_title_v2_default">Please choose a file type</string>
+    <string name="idenfy_document_camera_preview_session_view_details_upload_image_file_type_alert_title_v2_default">Photo</string>
+    <string name="idenfy_document_camera_preview_session_view_details_upload_pdf_file_type_alert_title_v2_default">PDF</string>
+    <string name="idenfy_document_camera_preview_session_view_information_description_v2">Place your document into the frame and take a clear photo</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_back_document_type_aadhaar_card_title_v2">Back of aadhaar card</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_back_document_type_asylum_title_v2">Back of Austrian Asylum residence permit</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_back_document_type_border_crossing_title_v2">Back of USA border crossing card</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_back_document_type_diplomatic_id_card_title_v2">Back of diplomatic ID</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_back_document_type_driver_license_title_v2">Back of driver\'s license</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_back_document_type_id_card_title_v2">Back of identity card</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_back_document_type_international_passport_title_v2">Back of Russian international passport</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_back_document_type_military_card_title_v2">Back of military (veteran) card</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_back_document_type_national_passport_title_v2">Back of Russian national passport</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_back_document_type_old_id_card_title_v2">Back of old ID card</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_back_document_type_other_title_v2">Back of document</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_back_document_type_pan_card_title_v2">Back of PAN card</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_back_document_type_photo_card_title_v2">Back of photo card</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_back_document_type_proof_of_age_card_title_v2">Back of proof of age card</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_back_document_type_provisional_driver_license_title_v2">Back of UK provisional driver license</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_back_document_type_residence_permit_title_v2">Back of residence permit</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_back_document_type_travel_card_title_v2">Back of travel card</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_back_document_type_visa_title_v2">Back of visa</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_back_document_type_voter_card_title_v2">Back of voter card</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_aadhaar_card_title_v2">Front of aadhaar card</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_asylum_title_v2">Front of Austrian Asylum residence permit</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_border_crossing_title_v2">Front of USA border crossing card</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_diplomatic_id_card_title_v2">Front of diplomatic ID</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_driver_license_title_v2">Front of driver\'s license</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_id_card_title_v2">Front of identity card</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_international_passport_title_v2">Front of Russian international passport</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_military_card_title_v2">Front of military (veteran) card</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_national_passport_title_v2">Front of Russian national passport</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_old_id_card_title_v2">Front of old ID card</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_other_title_v2">Front of document</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_pan_card_title_v2">Front of PAN card</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_passport_cover_title_v2">Front of passport cover</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_passport_title_v2">Passport face page</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_photo_card_title_v2">Front of photo card</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_proof_of_address_title_v2">Proof of address</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_proof_of_age_card_title_v2">Front of proof of age card</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_provisional_driver_license_title_v2">Front of UK provisional driver license</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_residence_permit_title_v2">Front of residence permit</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_second_proof_of_address_title_v2">Second proof of address</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_travel_card_title_v2">Front of travel card</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_visa_title_v2">Front of visa</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_voter_card_title_v2">Front of voter card</string>
+    <string name="idenfy_document_camera_results_view_details_first_title_v2_back">Is it the back of the document?</string>
+    <string name="idenfy_document_camera_results_view_details_first_title_v2_front">Is the picture of your face clearly visible?</string>
+    <string name="idenfy_document_camera_results_view_details_pdf_title_v2_default">Are you sure you want to upload this file?</string>
+    <string name="idenfy_document_camera_results_view_details_second_title_v2_back">Can you clearly read the details of the document?</string>
+    <string name="idenfy_document_camera_results_view_details_second_title_v2_front">Can you clearly read the details of the document?</string>
+    <string name="idenfy_document_camera_results_view_details_title_v2_default">Can you clearly read the details of the document?</string>
+    <string name="idenfy_document_camera_results_view_information_description_part_1_v2">Is your</string>
+    <string name="idenfy_document_camera_results_view_information_description_part_3_v2">clearly visible and in the frame?</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_aadhaar_card_title_v2">Back of aadhaar card</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_asylum_title_v2">Back of Austrian Asylum residence permit</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_border_crossing_title_v2">Back of USA border crossing card</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_diplomatic_id_card_title_v2">Back of diplomatic ID</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_driver_license_description_part_2_v2">back of driver\'s license</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_driver_license_description_placeholder_v2">Is your **back of driver\'s license** clearly visible and in the frame?</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_driver_license_title_v2">Back of driver\'s license</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_id_card_description_part_2_v2">back of identity card</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_id_card_description_placeholder_v2">Is your **back of identity card** clearly visible and in the frame?</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_id_card_title_v2">Back of identity card</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_international_passport_title_v2">Back of Russian international passport</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_military_card_title_v2">Back of military (veteran) card</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_national_passport_title_v2">Back of Russian national passport</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_old_id_card_title_v2">Back of old ID card</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_other_description_part_2_v2">back of document</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_other_description_placeholder_v2">Is your **back of document** clearly visible and in the frame?</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_other_title_v2">Back of document</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_pan_card_title_v2">Back of PAN card</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_photo_card_title_v2">Back of photo card</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_proof_of_age_card_title_v2">Back of proof of age card</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_provisional_driver_license_title_v2">Back of UK provisional driver license</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_residence_permit_description_part_2_v2">back of residence permit</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_residence_permit_description_placeholder_v2">Is your **back of residence permit** clearly visible and in the frame?</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_residence_permit_title_v2">Back of residence permit</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_travel_card_title_v2">Back of travel card</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_visa_title_v2">Back of visa</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_voter_card_title_v2">Back of voter card</string>
+    <string name="idenfy_document_camera_results_view_information_step_face_description_placeholder_v2">Is your **face photo** clearly visible and in the frame?</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_aadhaar_card_title_v2">Front of aadhaar card</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_asylum_title_v2">Front of Austrian Asylum residence permit</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_border_crossing_title_v2">Front of USA border crossing card</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_diplomatic_id_card_title_v2">Front of diplomatic ID</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_driver_license_description_part_2_v2">front of driver\'s license</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_driver_license_description_placeholder_v2">Is your **front of driver\'s license** clearly visible and in the frame?</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_driver_license_title_v2">Front of driver\'s license</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_id_card_description_part_2_v2">front of identity card</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_id_card_description_placeholder_v2">Is your **front of identity card** clearly visible and in the frame?</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_id_card_title_v2">Front of identity card</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_international_passport_title_v2">Front of Russian international passport</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_military_card_title_v2">Front of military (veteran) card</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_national_passport_title_v2">Front of Russian national passport</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_old_id_card_title_v2">Front of old ID card</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_other_description_part_2_v2">front of document</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_other_description_placeholder_v2">Is your **front of document** clearly visible and in the frame?</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_other_title_v2">Front of document</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_pan_card_title_v2">Front of PAN card</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_passport_cover_description_part_2_v2">front of passport cover</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_passport_cover_description_placeholder_v2">Is your **front of passport cover** clearly visible and in the frame?</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_passport_cover_title_v2">Front of passport cover</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_passport_description_part_2_v2">passport face page</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_passport_description_placeholder_v2">Is your **passport face page** clearly visible and in the frame?</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_passport_title_v2">Passport face page</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_photo_card_title_v2">Front of photo card</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_proof_of_address_description_part_2_v2">proof of address</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_proof_of_address_description_placeholder_v2">Is your **proof of address** clearly visible and in the frame?</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_proof_of_address_title_v2">Proof of address</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_proof_of_age_card_title_v2">Front of proof of age card</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_provisional_driver_license_title_v2">Front of UK provisional driver license</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_residence_permit_description_part_2_v2">front of residence permit</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_residence_permit_description_placeholder_v2">Is your **front of residence permit** clearly visible and in the frame?</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_residence_permit_title_v2">Front of residence permit</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_second_proof_of_address_description_part_2_v2">second proof of address</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_second_proof_of_address_description_placeholder_v2">Is your **second proof of address** clearly visible and in the frame?</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_second_proof_of_address_title_v2">Second proof of address</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_travel_card_title_v2">Front of travel card</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_visa_title_v2">Front of visa</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_voter_card_title_v2">Front of voter card</string>
+    <string name="idenfy_documents_selection_view_continue_button_title_v2">CONTINUE</string>
+    <string name="idenfy_documents_selection_view_information_description_v2">Which document type would you want to identify?</string>
+    <string name="idenfy_documents_selection_view_information_title_v2">Select a document</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_aadhaar_card_title_v2">Aadhaar card</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_asylum_title_v2">Austrian Asylum Residence Permit</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_border_crossing_title_v2">USA Border Crossing Card</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_diplomatic_id_card_title_v2">Diplomatic ID</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_driver_licence_title_v2">Driver\'s License</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_id_card_title_v2">Identity Card</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_international_passport_title_v2">Russian International Passport</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_military_card_title_v2">Military (Veteran) Card</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_national_passport_title_v2">Russian National Passport</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_old_id_card_title_v2">Old ID Card</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_other_title_v2">Other</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_pan_card_title_v2">PAN card</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_passport_title_v2">Passport</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_photo_card_title_v2">Photo Card</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_proof_of_age_card_title_v2">Proof Of Age Card</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_provisional_driver_license_title_v2">UK Provisional Driver License</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_residence_permit_titlev2">Residence Permit</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_travel_card_title_v2">Travel Card</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_visa_title_v2">Visa</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_voter_card_title_v2">Voter Card</string>
+    <string name="idenfy_face_authentication_exit_alert_description">Are you sure you want to cancel face authentication?</string>
+    <string name="idenfy_face_authentication_exit_alert_title">Cancel authentication</string>
+    <string name="idenfy_face_authentication_initial_view_alert_message">Face verification failed!</string>
+    <string name="idenfy_face_authentication_initial_view_button_title">CONTINUE</string>
+    <string name="idenfy_face_authentication_initial_view_failed_title_part_1">You have</string>
+    <string name="idenfy_face_authentication_initial_view_failed_title_part_2">3</string>
+    <string name="idenfy_face_authentication_initial_view_failed_title_part_3">attempts to authenticate yourself!</string>
+    <string name="idenfy_face_authentication_initial_view_failed_title_placeholder">You have **3** attempts to authenticate yourself!</string>
+    <string name="idenfy_face_authentication_results_button_title">CONTINUE</string>
+    <string name="idenfy_face_authentication_results_failed_description">Face verification was not successful. Follow the steps prompted on the screen and ensure a well-lit environment. Try to avoid: blur, shadow, glare, fingers, or other objects in the photo.</string>
+    <string name="idenfy_face_authentication_results_final_failed_description">Follow the steps prompted on the screen and ensure a well-lit environment. Try to avoid: blur, shadow, glare, fingers, or other objects in the photo.</string>
+    <string name="idenfy_face_authentication_results_final_failed_title">Face verification was not successful.</string>
+    <string name="idenfy_face_authentication_results_success_description">You have been successfully authenticated!</string>
+    <string name="idenfy_face_authentication_results_success_title">Successful authentication</string>
+    <string name="idenfy_face_camera_preview_session_description_v2">Place your face into the marked area and take a clear photo</string>
+    <string name="idenfy_face_camera_preview_title_v2">Take your face photo</string>
+    <string name="idenfy_face_camera_results_description_v2">Is your face photo clearly visible and in the frame?</string>
+    <string name="idenfy_face_camera_results_title_v2">Confirm face photo</string>
+    <string name="idenfy_face_camera_results_view_details_first_title_v2">Is your face clearly visible and close enough for inspection?</string>
+    <string name="idenfy_identifiaction_results_success_fragment_identified_v2">Verified</string>
+    <string name="idenfy_identifiaction_results_suspected_view_continue_button_title_v2">CONTINUE</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_country_part_v2"> Make sure your document issue country is </string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_1_v2">Document not found. Make sure you are showing </string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_aadhaar_card_title_v2">Aadhaar CARD</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_asylum_v2">AUSTRIAN ASYLUM RESIDENCE PERMIT</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_border_crossing_v2">USA BORDER CROSSING CARD</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_diplomatic_id_card_v2">DIPLOMATIC ID</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_document_v2">DOCUMENT</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_driver_license_v2">DRIVER\'S LICENSE</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_id_card_v2">ID CARD</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_international_passport_v2">RUSSIAN INTERNATIONAL PASSPORT</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_military_card_v2">MILITARY (VETERAN) CARD</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_national_passport_v2">RUSSIAN NATIONAL PASSPORT</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_old_id_card_v2">OLD ID CARD</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_pan_card_title_v2">PAN CARD</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_passport_v2">PASSPORT</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_photo_card_v2">PHOTO CARD</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_proof_of_age_card_v2">PROOF OF AGE CARD</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_provisional_driver_license_v2">UK PROVISIONAL DRIVER LICENSE</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_residence_permit_v2">RESIDENCE PERMIT</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_travel_card_v2">TRAVEL CARD</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_visa_v2">VISA</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_voter_card_v2">VOTER CARD</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_3_v2"> and document issue country is </string>
+    <string name="idenfy_identification_results_error_continue_button_title_v2">CONTINUE</string>
+    <string name="idenfy_identification_results_identification_status_error_title_v2">Verification failed</string>
+    <string name="idenfy_identification_results_identification_status_loading_description_v2">Please wait while we set things up for you!</string>
+    <string name="idenfy_identification_results_identification_status_loading_title_v2">Analysing your verification…</string>
+    <string name="idenfy_identification_results_mrz_not_found_back_button_title_v2">GO BACK</string>
+    <string name="idenfy_identification_results_mrz_not_found_continue_button_title_v2">I AM SURE</string>
+    <string name="idenfy_identification_results_mrz_not_found_dialog_description_v2">Machine-readable zone (MRZ) usually consists of 2 (passport) or 3 (ID card) lines of symbols. MRZ example is presented in the image bellow, marked by a red rectangle.</string>
+    <string name="idenfy_identification_results_mrz_not_found_dialog_title_v2">Please make sure your document has machine-readable zone</string>
+    <string name="idenfy_identification_results_retake_button_title_v2">TRY AGAIN</string>
+    <string name="idenfy_identification_results_step_back_document_type_aadhaar_card_title_v2">Back of aadhaar card</string>
+    <string name="idenfy_identification_results_step_back_document_type_asylum_title_v2">Back of Austrian Asylum residence permit</string>
+    <string name="idenfy_identification_results_step_back_document_type_border_crossing_title_v2">Back of USA border crossing card</string>
+    <string name="idenfy_identification_results_step_back_document_type_diplomatic_id_card_title_v2">Back of diplomatic ID</string>
+    <string name="idenfy_identification_results_step_back_document_type_driver_license_title_v2">Back of driver\'s license</string>
+    <string name="idenfy_identification_results_step_back_document_type_id_card_title_v2">Back of identity card</string>
+    <string name="idenfy_identification_results_step_back_document_type_international_passport_title_v2">Back of Russian international passport</string>
+    <string name="idenfy_identification_results_step_back_document_type_military_card_title_v2">Back of military (veteran) card</string>
+    <string name="idenfy_identification_results_step_back_document_type_national_passport_title_v2">Back of Russian national passport</string>
+    <string name="idenfy_identification_results_step_back_document_type_old_id_card_title_v2">Back of old ID card</string>
+    <string name="idenfy_identification_results_step_back_document_type_other_title_v2">Back of document</string>
+    <string name="idenfy_identification_results_step_back_document_type_pan_card_title_v2">Back of PAN card</string>
+    <string name="idenfy_identification_results_step_back_document_type_photo_card_title_v2">Back of photo card</string>
+    <string name="idenfy_identification_results_step_back_document_type_proof_of_age_card_title_v2">Back of proof of age card</string>
+    <string name="idenfy_identification_results_step_back_document_type_provisional_driver_license_title_v2">Back of UK provisional driver license</string>
+    <string name="idenfy_identification_results_step_back_document_type_residence_permit_title_v2">Back of residence permit</string>
+    <string name="idenfy_identification_results_step_back_document_type_travel_card_title_v2">Back of travel card</string>
+    <string name="idenfy_identification_results_step_back_document_type_visa_title_v2">Back of visa</string>
+    <string name="idenfy_identification_results_step_back_document_type_voter_card_title_v2">Back of voter card</string>
+    <string name="idenfy_identification_results_step_face">Face photo</string>
+    <string name="idenfy_identification_results_step_front_document_type_aadhaar_card_title_v2">Front of aadhaar card</string>
+    <string name="idenfy_identification_results_step_front_document_type_asylum_title_v2">Front of Austrian Asylum residence permit</string>
+    <string name="idenfy_identification_results_step_front_document_type_border_crossing_title_v2">Front of USA border crossing card</string>
+    <string name="idenfy_identification_results_step_front_document_type_diplomatic_id_card_title_v2">Front of diplomatic ID</string>
+    <string name="idenfy_identification_results_step_front_document_type_driver_license_title_v2">Front of driver\'s license</string>
+    <string name="idenfy_identification_results_step_front_document_type_id_card_title_v2">Front of identity card</string>
+    <string name="idenfy_identification_results_step_front_document_type_international_passport_title_v2">Front of Russian international passport</string>
+    <string name="idenfy_identification_results_step_front_document_type_military_card_title_v2">Front of military (veteran) card</string>
+    <string name="idenfy_identification_results_step_front_document_type_national_passport_title_v2">Front of Russian national passport</string>
+    <string name="idenfy_identification_results_step_front_document_type_old_id_card_title_v2">Front of old ID card</string>
+    <string name="idenfy_identification_results_step_front_document_type_other_title_v2">Front of document</string>
+    <string name="idenfy_identification_results_step_front_document_type_pan_card_title_v2">Front of PAN card</string>
+    <string name="idenfy_identification_results_step_front_document_type_passport_title_v2">Passport face page</string>
+    <string name="idenfy_identification_results_step_front_document_type_photo_card_title_v2">Front of photo card</string>
+    <string name="idenfy_identification_results_step_front_document_type_proof_of_age_card_title_v2">Front of proof of age card</string>
+    <string name="idenfy_identification_results_step_front_document_type_provisional_driver_license_title_v2">Front of UK provisional driver license</string>
+    <string name="idenfy_identification_results_step_front_document_type_residence_permit_title_v2">Front of residence permit</string>
+    <string name="idenfy_identification_results_step_front_document_type_travel_card_title_v2">Front of travel card</string>
+    <string name="idenfy_identification_results_step_front_document_type_visa_title_v2">Front of visa</string>
+    <string name="idenfy_identification_results_step_front_document_type_voter_card_title_v2">Front of voter card</string>
+    <string name="idenfy_identification_results_step_passport_cover_title_v2">Front of passport cover</string>
+    <string name="idenfy_identification_results_step_proof_of_address_title_v2">Proof of address</string>
+    <string name="idenfy_identification_results_step_second_proof_of_address_title_v2">Second proof of address</string>
+    <string name="idenfy_identification_results_success_fragment_description_v2"> </string>
+    <string name="idenfy_identification_results_success_fragment_title_v2">Verification approved</string>
+    <string name="idenfy_identification_results_suspected_view_description_v2">If you have any questions, please contact our customer support team</string>
+    <string name="idenfy_identification_results_suspected_view_email_v2">support@idenfy.com</string>
+    <string name="idenfy_identification_results_suspected_view_title_v2">Your information has been submitted</string>
+    <string name="idenfy_identification_results_title_additional_info_uploading_back_document_photo">Uploading document\'s back photo…</string>
+    <string name="idenfy_identification_results_title_additional_info_uploading_face_document_photo">Uploading document\'s face photo…</string>
+    <string name="idenfy_identification_results_title_additional_info_uploading_front_document_photo">Uploading document\'s front photo…</string>
+    <string name="idenfy_identification_results_title_additional_info_uploading_liveness_document_photo">Checking liveness…</string>
+    <string name="idenfy_identification_results_title_additional_info_uploading_passport_cover_photo">Uploading passport cover photo…</string>
+    <string name="idenfy_identification_results_title_additional_info_uploading_proof_of_address_photo">Uploading proof of address photo…</string>
+    <string name="idenfy_identification_results_title_additional_info_uploading_second_proof_of_address_photo">Uploading second proof of address photo…</string>
+    <string name="idenfy_instructions_driver_license_front_correct_text">Make sure you show the Driver license at the time of verification, not the other document.</string>
+    <string name="idenfy_instructions_driver_license_front_correct_title">Show your Driving license</string>
+    <string name="idenfy_instructions_driver_license_front_finger_text">Do not cover your face or any other information in the document.</string>
+    <string name="idenfy_instructions_driver_license_front_finger_title">The finger does not cover the document</string>
+    <string name="idenfy_instructions_driver_license_front_fit_frame_text">Make sure the front of the Driving license fits into the white frame and does not go beyond the edges of the frame, and the document shown is not blurred and clearly legible.</string>
+    <string name="idenfy_instructions_driver_license_front_fit_frame_title">The Driving license front fits in white frames</string>
+    <string name="idenfy_instructions_driver_license_front_reflection_text">Make sure the light reflection or document hologram does not cover the face or other important document information.</string>
+    <string name="idenfy_instructions_driver_license_front_reflection_title">There is no reflection of light</string>
+    <string name="idenfy_instructions_face_fit_frame_text">Make sure your face fits into white frames.</string>
+    <string name="idenfy_instructions_face_fit_frame_title">Face fits in white frames</string>
+    <string name="idenfy_instructions_face_one_face_text">Make sure, there is no other faces visible in the picture.</string>
+    <string name="idenfy_instructions_face_one_face_title">Only one face is visible</string>
+    <string name="idenfy_instructions_face_shadow_text">Make sure your face is well lit and there is no shadow on it.</string>
+    <string name="idenfy_instructions_face_shadow_title">The face is not covered by a shadow</string>
+    <string name="idenfy_instructions_face_zoom_text">Make sure your face fits into the frame. After taking the selfie move your face closer.</string>
+    <string name="idenfy_instructions_face_zoom_title">Face fits in the frame</string>
+    <string name="idenfy_instructions_id_back_correct_text">Make sure you are showing the back of the ID card.</string>
+    <string name="idenfy_instructions_id_back_correct_title">Show your ID card back</string>
+    <string name="idenfy_instructions_id_back_finger_text">Do not cover the information in the document with your finger.</string>
+    <string name="idenfy_instructions_id_back_finger_title">The finger does not cover the document</string>
+    <string name="idenfy_instructions_id_back_fit_frame_text">Make sure the back of the ID card fits into the white frame and does not go beyond the edges of the frame. Also, make sure the document you are displaying is not blurred and clearly legible.</string>
+    <string name="idenfy_instructions_id_back_fit_frame_title">The back of the ID card fits in white frames</string>
+    <string name="idenfy_instructions_id_back_mrz_text">Make sure your document has the MRZ (2 or 3 character lines). If your document does not have an MRZ zone, select \"OTHER DOCUMENTS\" in the document selection window.</string>
+    <string name="idenfy_instructions_id_back_mrz_title">The document has the MRZ area</string>
+    <string name="idenfy_instructions_id_front_correct_text">Make sure you show the ID card at the time of verification, not the other document.</string>
+    <string name="idenfy_instructions_id_front_correct_title">Show your ID card</string>
+    <string name="idenfy_instructions_id_front_finger_text">Do not cover your face or any other information in the document.</string>
+    <string name="idenfy_instructions_id_front_finger_title">The finger does not cover the document</string>
+    <string name="idenfy_instructions_id_front_fit_frame_text">Make sure the front of the ID card fits into the white frame and does not go beyond the edges of the frame, and the document shown is not blurred and clearly legible.</string>
+    <string name="idenfy_instructions_id_front_fit_frame_title">The ID card front fits in white frames</string>
+    <string name="idenfy_instructions_id_front_reflection_text">Make sure the light reflection or document hologram does not cover the face or other important document information.</string>
+    <string name="idenfy_instructions_id_front_reflection_title">There is no reflection of light</string>
+    <string name="idenfy_instructions_other_back_finger_text">Do not cover the information in the document with your finger.</string>
+    <string name="idenfy_instructions_other_back_finger_title">The finger does not cover the document</string>
+    <string name="idenfy_instructions_other_back_fit_frame_text">Make sure the back of the document fits into the white frame and does not go beyond the edges of the frame, and the document shown is not blurred and is clearly legible.</string>
+    <string name="idenfy_instructions_other_back_fit_frame_title">The back of the document fits in white frames</string>
+    <string name="idenfy_instructions_other_front_finger_text">Do not cover your face or any other information in the document.</string>
+    <string name="idenfy_instructions_other_front_finger_title">The finger does not cover the document</string>
+    <string name="idenfy_instructions_other_front_fit_frame_text">Make sure the front of the document fits into the white frame and does not go beyond the edges of the frame, and the document shown is not blurred and is clearly legible.</string>
+    <string name="idenfy_instructions_other_front_fit_frame_title">The front of the document fits in white frames</string>
+    <string name="idenfy_instructions_other_front_mrz_text">Make sure you show the document that does not have MRZ.</string>
+    <string name="idenfy_instructions_other_front_mrz_title">Show your document that does not have MRZ</string>
+    <string name="idenfy_instructions_other_front_reflection_text">Make sure the light reflection or document hologram does not cover the face or other important document information.</string>
+    <string name="idenfy_instructions_other_front_reflection_title">There is no reflection of light</string>
+    <string name="idenfy_instructions_passport_correct_text">Make sure you show your passport during verification and not another document.</string>
+    <string name="idenfy_instructions_passport_correct_title">Show your passport</string>
+    <string name="idenfy_instructions_passport_finger_text">Do not cover your face or any other information in the document.</string>
+    <string name="idenfy_instructions_passport_finger_title">The finger does not cover the document</string>
+    <string name="idenfy_instructions_passport_fits_frame_text">Make sure the passport fits into white frames and does not go beyond the borders of the frame, and the document shown is not blurred and clearly legible.</string>
+    <string name="idenfy_instructions_passport_fits_frame_title">The passport fits in white frames</string>
+    <string name="idenfy_instructions_passport_mrz_text">Make sure your document has the MRZ (2 or 3 character lines). If your document does not have an MRZ zone, select \"OTHER DOCUMENTS\" in the document selection window.</string>
+    <string name="idenfy_instructions_passport_mrz_title">Passport has MRZ area</string>
+    <string name="idenfy_instructions_passport_reflection_text">Make sure the light reflection or document hologram does not cover the face or other important document information.</string>
+    <string name="idenfy_instructions_passport_reflection_title">There is no reflection of light</string>
+    <string name="idenfy_instructions_residence_permit_back_correct_text">Make sure you are showing the back of the Residence permit.</string>
+    <string name="idenfy_instructions_residence_permit_back_correct_title">Show the back of your Residence permit</string>
+    <string name="idenfy_instructions_residence_permit_back_finger_text">Do not cover the information in the document with your finger.</string>
+    <string name="idenfy_instructions_residence_permit_back_finger_title">The finger does not cover the document</string>
+    <string name="idenfy_instructions_residence_permit_back_fit_frame_text">Make sure the back of the Residence permit fits into the white frame and does not go beyond the edges of the frame. Also, make sure the document you are displaying is not blurred and clearly legible.</string>
+    <string name="idenfy_instructions_residence_permit_back_fit_frame_title">The back of the Residence permit fits in white frames</string>
+    <string name="idenfy_instructions_residence_permit_back_mrz_text">Make sure your document has the MRZ (2 or 3 character lines). If your document does not have an MRZ zone, select \"OTHER DOCUMENTS\" in the document selection window.</string>
+    <string name="idenfy_instructions_residence_permit_back_mrz_title">The document has the MRZ area</string>
+    <string name="idenfy_instructions_residence_permit_front_correct_text">Make sure you show the Residence permit at the time of verification, not the other document.</string>
+    <string name="idenfy_instructions_residence_permit_front_correct_title">Show your Residence permit</string>
+    <string name="idenfy_instructions_residence_permit_front_finger_text">Do not cover your face or any other information in the document.</string>
+    <string name="idenfy_instructions_residence_permit_front_finger_title">The finger does not cover the document</string>
+    <string name="idenfy_instructions_residence_permit_front_fit_frame_text">Make sure the front of the Residence permit fits into the white frame and does not go beyond the edges of the frame, and the document shown is not blurred and clearly legible.</string>
+    <string name="idenfy_instructions_residence_permit_front_fit_frame_title">The Residence permit front fits in white frames</string>
+    <string name="idenfy_instructions_residence_permit_front_reflection_text">Make sure the light reflection or document hologram does not cover the face or other important document information.</string>
+    <string name="idenfy_instructions_residence_permit_front_reflection_title">There is no reflection of light</string>
+    <string name="idenfy_internet_connection_lost_title">Connection issues. Please make sure you have stable internet connection</string>
+    <string name="idenfy_language_selection_view_information_title_v2">Select a language</string>
+    <string name="idenfy_manual_reviewing_status_approved_view_continue_button_v2">CONTINUE</string>
+    <string name="idenfy_manual_reviewing_status_approved_view_information_description_v2">Thank You</string>
+    <string name="idenfy_manual_reviewing_status_approved_view_information_title_v2">Your Verification Was Successful!</string>
+    <string name="idenfy_manual_reviewing_status_failed_view_continue_button_v2">CONTINUE</string>
+    <string name="idenfy_manual_reviewing_status_failed_view_information_description_v2">We could not confirm your identity</string>
+    <string name="idenfy_manual_reviewing_status_failed_view_information_support_description_part_1_v2">Please contact</string>
+    <string name="idenfy_manual_reviewing_status_failed_view_information_support_description_part_2_v2">for further support</string>
+    <string name="idenfy_manual_reviewing_status_failed_view_information_support_email_v2">support@idenfy.com</string>
+    <string name="idenfy_manual_reviewing_status_failed_view_information_title_v2">Verification failed</string>
+    <string name="idenfy_manual_reviewing_status_waiting_view_identification_auto_completed_title_v2">Automated AI check completed</string>
+    <string name="idenfy_manual_reviewing_status_waiting_view_identification_manual_completed_title_v2">Additional data review</string>
+    <string name="idenfy_manual_reviewing_status_waiting_view_information_description_v2">It usually takes from 1 to 5 minutes to receive your results</string>
+    <string name="idenfy_manual_reviewing_status_waiting_view_information_title_v2">Verification submitted</string>
+    <string name="idenfy_manual_reviewing_status_waiting_view_information_top_description_v2">Your verification requires additional manual review. You will be notified of when the review will be completed.</string>
+    <string name="idenfy_manual_reviewing_status_waiting_view_stop_waiting_button_v2">BACK TO ACCOUNT</string>
+    <string name="idenfy_manual_reviewing_status_waiting_view_time_left_title_v2">TIME LEFT</string>
+    <string name="idenfy_mfa_captcha_method_code_hint_v2">Captcha code</string>
+    <string name="idenfy_mfa_captcha_method_continue_button_title_v2">CONTINUE</string>
+    <string name="idenfy_mfa_captcha_method_description_v2">Please enter the captcha code you see in the picture below</string>
+    <string name="idenfy_mfa_captcha_method_title_v2">Authenticate yourself</string>
+    <string name="idenfy_mfa_code_method_code_hint_v2">Authentication code</string>
+    <string name="idenfy_mfa_code_method_description_v2">Please enter the code you have received to your phone or by email</string>
+    <string name="idenfy_mfa_code_method_title_v2">Authenticate yourself</string>
+    <string name="idenfy_mfa_general_view_continue_button_title_v2">CONTINUE</string>
+    <string name="idenfy_mfa_method_selection_view_continue_button_title_v2">CONTINUE</string>
+    <string name="idenfy_mfa_method_selection_view_description_v2">Please select your desired authentication method from the options below</string>
+    <string name="idenfy_mfa_method_selection_view_mfa_hint_title_v2">Authentication Method</string>
+    <string name="idenfy_mfa_method_selection_view_mfa_method_code_title_v2">One time password</string>
+    <string name="idenfy_mfa_method_selection_view_mfa_method_security_question_title_v2">Security question and answer</string>
+    <string name="idenfy_mfa_method_selection_view_title_v2">Account verification</string>
+    <string name="idenfy_mfa_notification_method_description_v2">When you\'re done, press the continue button</string>
+    <string name="idenfy_mfa_notification_method_title_v2">Please verify access through your provider\'s application</string>
+    <string name="idenfy_mfa_pass_code_method_code_hint_v2">Passcode</string>
+    <string name="idenfy_mfa_pass_code_method_description_v2">Please enter the passcode you have set up with your utility provider</string>
+    <string name="idenfy_mfa_pass_code_method_title_v2">Authenticate yourself</string>
+    <string name="idenfy_mfa_question_method_answer_hint_v2">Your answer</string>
+    <string name="idenfy_mfa_question_method_title_v2">Please answer the question provided below</string>
+    <string name="idenfy_nfc_reading_view_information_alert_title_document_v2">Touch the middle of the document to the top of the phone</string>
+    <string name="idenfy_nfc_reading_view_information_alert_title_id_card_v2">Touch the middle of the ID card to the top of the phone</string>
+    <string name="idenfy_nfc_reading_view_information_alert_title_passport_v2">Touch the middle of the passport to the top of the phone</string>
+    <string name="idenfy_nfc_reading_view_information_reading_continue_button_title_v2">CONTINUE</string>
+    <string name="idenfy_nfc_reading_view_information_reading_data_document_image_v2">Reading document image…</string>
+    <string name="idenfy_nfc_reading_view_information_reading_data_document_title_v2">Reading document data…</string>
+    <string name="idenfy_nfc_reading_view_information_reading_finished_v2">Passport reading finished</string>
+    <string name="idenfy_nfc_reading_view_information_reading_snackbar_title_v2">Please move the phone away from the document!</string>
+    <string name="idenfy_nfc_reading_view_information_reading_started_title_v2">Please wait a moment…</string>
+    <string name="idenfy_nfc_reading_view_information_reading_status_failed_v2">Oops! Something went wrong.</string>
+    <string name="idenfy_nfc_reading_view_information_reading_status_no_connecton_v2">Connection interrupted. Please move the phone closer!</string>
+    <string name="idenfy_nfc_reading_view_information_reading_time_out_continue_button_title_v2">CONTINUE</string>
+    <string name="idenfy_nfc_reading_view_information_reading_time_out_description_v2">NFC reading time expired</string>
+    <string name="idenfy_nfc_reading_view_information_reading_time_out_title_v2">Time out</string>
+    <string name="idenfy_nfc_reading_view_information_title_document_v2">Touch the middle of the document to the top of the phone</string>
+    <string name="idenfy_nfc_reading_view_information_title_id_card_v2">Touch the middle of the ID card to the top of the phone</string>
+    <string name="idenfy_nfc_reading_view_information_title_passport_v2">Touch the middle of the passport to the top of the phone</string>
+    <string name="idenfy_nfc_required_view_information_button_enable_nfc_title_v2">ENABLE NFC</string>
+    <string name="idenfy_nfc_required_view_information_button_title_v2">CONTINUE</string>
+    <string name="idenfy_nfc_required_view_information_description_v2">Please use a mobile phone with built-in NFC tag reader</string>
+    <string name="idenfy_nfc_required_view_information_enable_nfc_description_v2">Please enable NFC in device settings before continuing</string>
+    <string name="idenfy_nfc_required_view_information_enable_nfc_title_v2">NFC not enabled</string>
+    <string name="idenfy_nfc_required_view_information_no_nfc_description_v2">Please use a mobile phone with built-in NFC tag reader</string>
+    <string name="idenfy_nfc_required_view_information_no_nfc_title_v2">Your device is not supported</string>
+    <string name="idenfy_nfc_required_view_information_title_v2">Your device is not supported</string>
+    <string name="idenfy_permission_asks_to_provide_camera_permission_manually">Provide permissions manually</string>
+    <string name="idenfy_provider_login_view_common_information_description_v2">Enter your login information for your online utility account</string>
+    <string name="idenfy_provider_login_view_common_information_title_v2">Connect your account</string>
+    <string name="idenfy_provider_login_view_continue_button_title_v2">CONTINUE</string>
+    <string name="idenfy_provider_login_view_login_failed_description_v2">We were not able to log you in…</string>
+    <string name="idenfy_provider_login_view_login_failed_title_v2">Login failed</string>
+    <string name="idenfy_provider_login_view_login_retry_description_v2">Please enter valid credentials and try again!</string>
+    <string name="idenfy_provider_login_view_login_retry_title_v2">Invalid credentials</string>
+    <string name="idenfy_provider_login_view_password_hint_title_v2">Password</string>
+    <string name="idenfy_provider_login_view_username_hint_title_v2">Username</string>
+    <string name="idenfy_provider_selection_common_information_description_v2">Please select your utility bill provider from the list below</string>
+    <string name="idenfy_provider_selection_common_information_title_v2">Please select your provider</string>
+    <string name="idenfy_provider_selection_search_bar_hint_title_v2">Search for a provider…</string>
+    <string name="idenfy_splash_screen_title_v2">Quick and reliable identity verification</string>
+    <string name="idenfy_start_identification_predefined_view_begin_identification_button_v2">Let\'s begin</string>
+    <string name="idenfy_start_identification_predefined_view_information_description_v2">Document country of issue</string>
+    <string name="idenfy_start_identification_predefined_view_information_title_v2">Start identity verification</string>
+    <string name="idenfy_upload_results_view_choose_another_photo_button_title_v2">CHOOSE ANOTHER ONE</string>
+    <string name="idenfy_upload_results_view_cropping_description_v2">Align uploaded photo into the marked area</string>
+    <string name="idenfy_upload_results_view_document_continue_button_title_v2">CONTINUE</string>
+    <string name="idenfy_upload_results_view_failed_to_upload_file_description_v2">We were not able to upload the selected file. Please try again!</string>
+    <string name="idenfy_upload_results_view_failed_to_upload_file_title_v2">Upload failure</string>
+    <string name="idenfy_upload_results_view_incorrect_mime_type_alert_message_v2">Supported file types:</string>
+    <string name="idenfy_upload_results_view_incorrect_mime_type_alert_title_v2">Unsupported file type</string>
+    <string name="idenfy_upload_results_view_information_step_back_document_type_aadhaar_card_title_v2">Back of aadhaar card</string>
+    <string name="idenfy_upload_results_view_information_step_back_document_type_asylum_title_v2">Back of Austrian Asylum residence permit</string>
+    <string name="idenfy_upload_results_view_information_step_back_document_type_border_crossing_title_v2">Back of USA border crossing card</string>
+    <string name="idenfy_upload_results_view_information_step_back_document_type_diplomatic_id_card_title_v2">Back of diplomatic ID</string>
+    <string name="idenfy_upload_results_view_information_step_back_document_type_driver_license_title_v2">Back of driver\'s license</string>
+    <string name="idenfy_upload_results_view_information_step_back_document_type_id_card_title_v2">Back of identity card</string>
+    <string name="idenfy_upload_results_view_information_step_back_document_type_international_passport_title_v2">Back of Russian international passport</string>
+    <string name="idenfy_upload_results_view_information_step_back_document_type_military_card_title_v2">Back of military (veteran) card</string>
+    <string name="idenfy_upload_results_view_information_step_back_document_type_national_passport_title_v2">Back of Russian national passport</string>
+    <string name="idenfy_upload_results_view_information_step_back_document_type_old_id_card_title_v2">Back of old ID card</string>
+    <string name="idenfy_upload_results_view_information_step_back_document_type_other_title_v2">Back of document</string>
+    <string name="idenfy_upload_results_view_information_step_back_document_type_pan_card_title_v2">Back of PAN card</string>
+    <string name="idenfy_upload_results_view_information_step_back_document_type_photo_card_title_v2">Back of photo card</string>
+    <string name="idenfy_upload_results_view_information_step_back_document_type_proof_of_age_card_title_v2">Back of proof of age card</string>
+    <string name="idenfy_upload_results_view_information_step_back_document_type_provisional_driver_license_title_v2">Back of UK provisional driver license</string>
+    <string name="idenfy_upload_results_view_information_step_back_document_type_residence_permit_title_v2">Back of residence permit</string>
+    <string name="idenfy_upload_results_view_information_step_back_document_type_travel_card_title_v2">Back of travel card</string>
+    <string name="idenfy_upload_results_view_information_step_back_document_type_visa_title_v2">Back of visa</string>
+    <string name="idenfy_upload_results_view_information_step_back_document_type_voter_card_title_v2">Back of voter card</string>
+    <string name="idenfy_upload_results_view_information_step_face_title_v2">Confirm face photo</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_aadhaar_card_title_v2">Front of aadhaar card</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_asylum_title_v2">Front of Austrian Asylum residence permit</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_border_crossing_title_v2">Front of USA border crossing card</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_diplomatic_id_card_title_v2">Front of diplomatic ID</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_driver_license_title_v2">Front of driver\'s license</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_id_card_title_v2">Front of identity card</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_international_passport_title_v2">Front of Russian international passport</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_military_card_title_v2">Front of military (veteran) card</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_national_passport_title_v2">Front of Russian national passport</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_old_id_card_title_v2">Front of old ID card</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_other_title_v2">Front of document</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_pan_card_title_v2">Front of PAN card</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_passport_cover_title_v2">Front of passport cover</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_passport_title_v2">Passport face page</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_photo_card_title_v2">Front of photo card</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_proof_of_address_title_v2">Proof of address</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_proof_of_age_card_title_v2">Front of proof of age card</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_provisional_driver_license_title_v2">Front of UK provisional driver license</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_residence_permit_title_v2">Front of residence permit</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_second_proof_of_address_title_v2">Second proof of address</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_travel_card_title_v2">Front of travel card</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_visa_title_v2">Front of visa</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_voter_card_title_v2">Front of voter card</string>
+    <string name="idenfy_upload_results_view_pdf_size_alert_message_v2">Please select a file with a valid size no larger than 5MB</string>
+    <string name="idenfy_upload_results_view_pdf_size_alert_title_v2">Maximum file size exceeded</string>
+    <style name="IdenfyStyleAlertDialog" parent="Theme.MaterialComponents.Light.Dialog.Alert">
+        <item name="android:windowMinWidthMajor">100%</item>
+        <item name="android:windowMinWidthMinor">100%</item>
+    </style>
+    <style name="IdenfyStyleDialog" parent="Theme.MaterialComponents.Light.Dialog">
+        <item name="android:windowMinWidthMajor">100%</item>
+        <item name="android:windowMinWidthMinor">100%</item>
+    </style>
+    <style name="IdenfyTheme" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/idenfyColorPrimary</item>
+        <item name="colorPrimaryDark">@color/idenfyColorPrimaryDark</item>
+        <item name="colorAccent">@color/idenfyColorAccent</item>
+    </style>
+    <style name="IdenfyTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="IdenfyTheme.PopupOverlay" parent="ThemeOverlay.MaterialComponents.Light"/>
+    <style name="IdenfyThemeV2" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/idenfyMainColorV2</item>
+        <item name="colorPrimaryDark">@color/idenfySecondColorV2</item>
+        <item name="colorAccent">@color/idenfyGradientAccentV2</item>
+    </style>
+    <style name="LoadingSpinner">
+        <item name="android:indeterminateOnly">true</item>
+        <item name="android:maxWidth">200dip</item>
+        <item name="android:maxHeight">200dip</item>
+    </style>
+    <style name="LoadingSpinner.Circle">
+        <item name="LoadingSpinner_Style">Circle</item>
+    </style>
+    <style name="LoadingSpinner.FadingCircle">
+        <item name="LoadingSpinner_Style">FadingCircle</item>
+    </style>
+    <style name="idenfyAdditionalSupportCommonInformationTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyAdditionalSupportCommonInformationTitleTextColor
+        </item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_country_selection_view_information_title_text_size
+        </item>
+    </style>
+    <style name="idenfyAdditionalSupportContinueButtonStyle" parent="android:Widget.Button">
+        <item name="android:textColor">
+            @color/idenfyAdditionalSupportContinueButtonTextColor
+        </item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyAdditionalSupportViewDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyAdditionalSupportCommonInformationDescriptionTextColor
+        </item>
+        <item name="android:textSize">
+            15sp
+        </item>
+    </style>
+    <style name="idenfyAppBarLayoutBackButtonStyle">
+        <item name="android:tint">
+            @color/idenfyMainColorV2
+        </item>
+    </style>
+    <style name="idenfyAppBarLayoutCloseButtonStyle">
+        <item name="android:tint">
+            @color/idenfyMainColorV2
+        </item>
+    </style>
+    <style name="idenfyAppBarLayoutIdenfyLogoStyle">
+        <item name="android:tint">
+            @color/idenfyMainColorV2
+        </item>
+    </style>
+    <style name="idenfyAppBarLayoutLanguageSelectionButtonStyle">
+        <item name="android:tint">
+            @color/idenfyMainColorV2
+        </item>
+    </style>
+    <style name="idenfyApprovedAfterManualReviewingIdentificationResultsViewDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyManualReviewingStatusApprovedCommonInformationDescriptionTextColor
+        </item>
+        <item name="android:textSize">
+            15sp
+        </item>
+    </style>
+    <style name="idenfyCameraPermissionViewDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyCameraPermissionViewDescriptionTextColor
+        </item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyCameraPermissionViewGoToSettingsButtonStyle" parent="android:Widget.Button">
+        <item name="android:textColor">
+            @color/idenfyDocumentConfirmationViewBeginIdentificationButtonTextColor
+        </item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyCameraPermissionViewGuidanceDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyCameraPermissionViewGuidanceDescriptionTextColor
+        </item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="idenfyCameraPermissionViewTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyCameraPermissionViewTitleTextColor
+        </item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_identification_success_results_view_information_title_text_size
+        </item>
+    </style>
+    <style name="idenfyCountrySelectionBeginIdentificationPredefinedViewButtonStyle" parent="android:Widget.Button">
+        <item name="android:textColor">
+            @color/idenfyDocumentConfirmationViewBeginIdentificationButtonTextColor
+        </item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyCountrySelectionPredefinedViewDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyCountrySelectionViewDescriptionTextColor</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyCountrySelectionPredefinedViewTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyCountrySelectionViewTitleTextColor</item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_country_selection_view_information_title_text_size
+        </item>
+    </style>
+    <style name="idenfyCountrySelectionViewCountryRecyclerViewItemTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyCountrySelectionViewCountryRecyclerViewItemTextColor
+        </item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyCountrySelectionViewCountrySearchBarHintStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyCountrySelectionViewCountrySearchBarTextColor
+        </item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyCountrySelectionViewCountrySearchBarStyle" parent="Widget.AppCompat.SearchView">
+        <item name="queryBackground">@color/idenfyColorPrimary</item>
+        <item name="android:textColorPrimary">@color/idenfySecondColorV2</item>
+        <item name="android:textColorSecondary">@color/idenfyInactiveColorV2</item>
+    </style>
+    <style name="idenfyCountrySelectionViewDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyCountrySelectionViewDescriptionTextColor</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyCountrySelectionViewTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyCountrySelectionViewTitleTextColor</item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_country_selection_view_information_title_text_size
+        </item>
+    </style>
+    <style name="idenfyDocumentCameraPreviewDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyDocumentCameraPreviewDescriptionTextColor</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyDocumentCameraPreviewSessionCurrentInstructionContentStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyDocumentCameraPreviewSessionCurrentInstructionContentTextColor
+        </item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyDocumentCameraPreviewTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyDocumentCameraPreviewTitleTextColor</item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_document_camera_session_view_information_title_text_size
+        </item>
+    </style>
+    <style name="idenfyDocumentConfirmationViewBeginIdentificationButtonStyle" parent="android:Widget.Button">
+        <item name="android:textColor">
+            @color/idenfyDocumentConfirmationViewBeginIdentificationButtonTextColor
+        </item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyDocumentConfirmationViewDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyDocumentConfirmationViewDescriptionTextColor
+        </item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyDocumentConfirmationViewDocumentStepItemCircleStyle">
+        <item name="android:tint">
+            @color/idenfyMainColorV2
+        </item>
+    </style>
+    <style name="idenfyDocumentConfirmationViewDocumentStepItemNumberStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyDocumentConfirmationViewDocumentStepItemNumberTextColor
+        </item>
+        <item name="android:textSize">10sp</item>
+    </style>
+    <style name="idenfyDocumentConfirmationViewDocumentStepItemTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyDocumentConfirmationViewDocumentStepItemTitleTextColor
+        </item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyDocumentConfirmationViewDocumentStepTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyDocumentConfirmationViewDocumentStepTitleTextColor
+        </item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyDocumentConfirmationViewTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyDocumentConfirmationViewTitleTextColor</item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_document_confirmation_view_information_title_text_size
+        </item>
+    </style>
+    <style name="idenfyDocumentConfirmationViewUploadDocumentIconStyle">
+        <item name="android:tint">
+            @color/idenfyMainColorV2
+        </item>
+    </style>
+    <style name="idenfyDocumentConfirmationViewUploadDocumentPhotoTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyDocumentConfirmationViewUploadDocumentPhotoTitleTextColor
+        </item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyDocumentPhotoResultViewDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyDocumentPhotoResultViewDescriptionTextColor
+        </item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyDocumentPhotoResultViewDetailCardTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyDocumentPhotoResultViewCardTitleColor</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyDocumentPhotoResultViewNextButtonStyle" parent="android:Widget.Button">
+        <item name="android:textColor">@color/idenfyDocumentPhotoResultViewNextButtonTextColor
+        </item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyDocumentPhotoResultViewRetakePhotoButtonTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyDocumentPhotoResultViewRetakePhotoButtonTextColor
+        </item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyDocumentPhotoResultViewTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyDocumentPhotoResultViewTitleTextColor</item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_document_photo_results_view_information_title_text_size
+        </item>
+    </style>
+    <style name="idenfyDocumentSelectionViewButtonStyle" parent="android:Widget.Button">
+        <item name="android:textColor">
+            @color/idenfyDocumentSelectionViewContinueButtonDisabledTextColor
+        </item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyDocumentSelectionViewDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyDocumentSelectionViewDescriptionTextColor</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyDocumentSelectionViewDocumentRecyclerViewItemTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyDocumentSelectionViewRecyclerViewItemTitleTextColor
+        </item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyDocumentSelectionViewTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyDocumentSelectionViewTitleTextColor</item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_document_selection_view_information_title_text_size
+        </item>
+    </style>
+    <style name="idenfyFaceAuthenticationResultsCommonInformationTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyFaceAuthenticationResultsCommonInformationTitleTextColor
+        </item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_country_selection_view_information_title_text_size
+        </item>
+    </style>
+    <style name="idenfyFaceAuthenticationResultsContinueButtonStyle" parent="android:Widget.Button">
+        <item name="android:textColor">
+            @color/idenfyFaceAuthenticationResultsContinueButtonTextColor
+        </item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyFaceAuthenticationResultsViewDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyFaceAuthenticationResultsCommonInformationDescriptionTextColor
+        </item>
+        <item name="android:textSize">
+            15sp
+        </item>
+    </style>
+    <style name="idenfyFaceCameraPreviewDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyFaceCameraPreviewDescriptionTextColor</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyFaceCameraPreviewSessionCurrentInstructionContentStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyFaceCameraPreviewSessionCurrentInstructionContentTextColor
+        </item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyFaceCameraPreviewTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyFaceCameraPreviewTitleTextColor</item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_face_camera_session_view_information_title_text_size
+        </item>
+    </style>
+    <style name="idenfyFacePhotoResultViewDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyFacePhotoResultViewDescriptionTextColor</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyFacePhotoResultViewDetailCardTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyFacePhotoResultViewCardTitleColor</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyFacePhotoResultViewNextButtonStyle" parent="android:Widget.Button">
+        <item name="android:textColor">@color/idenfyFacePhotoResultViewNextButtonTextColor</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyFacePhotoResultViewRetakePhotoButtonTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyFacePhotoResultViewRetakePhotoButtonTextColor
+        </item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyFacePhotoResultViewTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyFacePhotoResultViewTitleTextColor</item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_face_photo_results_view_information_title_text_size
+        </item>
+    </style>
+    <style name="idenfyIdentificationResultsViewDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyIdentificationResultsViewDescriptionTextColor
+        </item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyIdentificationResultsViewDocNotFoundAlertContinueButtonStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyIdentificationResultsViewDocNotFoundAlertContinueButtonTextColorV2
+        </item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyIdentificationResultsViewDocumentStepTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyIdentificationResultsViewDocumentStepTitleTextColor
+        </item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyIdentificationResultsViewInstructionsAlertContinueButtonStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyIdentificationResultsViewInstructionsAlertContinueButtonTextColorV2
+        </item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyIdentificationResultsViewInstructionsAlertProgressBarStyle" parent="android:Widget.ProgressBar.Horizontal">
+        <item name="colorAccent">@color/idenfyIdentificationResultsViewInstructionsAlertProgressBarProgressColorV2
+        </item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyIdentificationResultsViewMrzNotFoundAlertBackButtonStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyIdentificationResultsViewMrzNotFoundAlertBackButtonTextColorV2
+        </item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyIdentificationResultsViewMrzNotFoundAlertContinueButtonStyle" parent="android:Widget.Button">
+        <item name="android:textColor">@color/idenfyIdentificationResultsViewMrzNotFoundAlertContinueButtonTextColorV2</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyIdentificationResultsViewRetakeButtonStyle" parent="android:Widget.Button">
+        <item name="android:textColor">@color/idenfyIdentificationResultsViewRetakeButtonTextColor
+        </item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyIdentificationResultsViewTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyIdentificationResultsViewTitleTextColor</item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_identification_results_view_information_title_text_size
+        </item>
+    </style>
+    <style name="idenfyIdentificationSuccessResultsViewDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyIdentificationSuccessResultsViewDescriptionTextColor
+        </item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyIdentificationSuccessResultsViewIdentifiedStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyIdentificationSuccessResultsViewIdentifiedTextColor
+        </item>
+        <item name="android:textSize">22sp</item>
+    </style>
+    <style name="idenfyIdentificationSuccessResultsViewTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyIdentificationSuccessResultsViewTitleTextColor
+        </item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_identification_success_results_view_information_title_text_size
+        </item>
+    </style>
+    <style name="idenfyInstructionCurrentInstructionContentTitleColor" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyInstructionCurrentInstructionContentTitleColor
+        </item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="idenfyLanguageSelectionViewLanguageRecyclerViewItemTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyLanguageSelectionViewLanguageRecyclerViewItemTextColor
+        </item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyLanguageSelectionViewTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyLanguageSelectionViewTitleTextColor</item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_country_selection_view_information_title_text_size
+        </item>
+    </style>
+    <style name="idenfyMFACaptchaMethodViewButtonStyle" parent="android:Widget.Button">
+        <item name="android:textColor">
+            @color/idenfyMFACaptchaMethodViewContinueButtonTextColor
+        </item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyMFACaptchaMethodViewCaptchaEditTextTopHintStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyMFACaptchaMethodViewCaptchaEditTextTopHintTitleColor</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+    <style name="idenfyMFACaptchaMethodViewDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyMFACaptchaMethodViewDescriptionTextColor</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyMFACaptchaMethodViewTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyMFACaptchaMethodViewTitleTextColor</item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_country_selection_view_information_title_text_size
+        </item>
+    </style>
+    <style name="idenfyMFAGeneralViewButtonStyle" parent="android:Widget.Button">
+        <item name="android:textColor">
+            @color/idenfyMFAGeneralViewContinueButtonTextColor
+        </item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyMFAGeneralViewDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyMFAGeneralViewDescriptionTextColor</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyMFAGeneralViewEditTextTopHintStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyMFAGeneralViewEditTextTopHintTitleColor</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+    <style name="idenfyMFAGeneralViewTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyMFAGeneralViewTitleTextColor</item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_country_selection_view_information_title_text_size
+        </item>
+    </style>
+    <style name="idenfyMFAMethodSelectionViewButtonStyle" parent="android:Widget.Button">
+        <item name="android:textColor">
+            @color/idenfyMFAMethodSelectionViewContinueButtonTextColor
+        </item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyMFAMethodSelectionViewDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyMFAMethodSelectionViewDescriptionTextColor</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyMFAMethodSelectionViewTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyMFAMethodSelectionViewTitleTextColor</item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_country_selection_view_information_title_text_size
+        </item>
+    </style>
+    <style name="idenfyMFAMethodSelectionViewTopHintStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyMFAMethodSelectionViewTopHintTitleColor</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+    <style name="idenfyManualReviewingStatusApprovedCommonInformationTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyManualReviewingStatusApprovedCommonInformationTitleTextColor
+        </item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_country_selection_view_information_title_text_size
+        </item>
+    </style>
+    <style name="idenfyManualReviewingStatusApprovedContinueButtonStyle" parent="android:Widget.Button">
+        <item name="android:textColor">
+            @color/idenfyManualReviewingStatusApprovedContinueButtonTextColor
+        </item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyManualReviewingStatusFailedCommonInformationDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyManualReviewingStatusFailedCommonInformationDescriptionTextColor
+        </item>
+        <item name="android:textSize">
+            13sp
+        </item>
+    </style>
+    <style name="idenfyManualReviewingStatusFailedCommonInformationTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyManualReviewingStatusFailedCommonInformationTitleTextColor
+        </item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_country_selection_view_information_title_text_size
+        </item>
+    </style>
+    <style name="idenfyManualReviewingStatusFailedContinueButtonStyle" parent="android:Widget.Button">
+        <item name="android:textColor">
+            @color/idenfyManualReviewingStatusFailedContinueButtonTextColor
+        </item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyNFCReadingCommonInformationTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyNFCReadingCommonInformationTitleTextColor
+        </item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_country_selection_view_information_title_text_size
+        </item>
+    </style>
+    <style name="idenfyNFCReadingTimeOutCommonInformationTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyNFCReadingTimeOutCommonInformationTitleTextColor
+        </item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_country_selection_view_information_title_text_size
+        </item>
+    </style>
+    <style name="idenfyNFCReadingTimeOutContinueButtonStyle" parent="android:Widget.Button">
+        <item name="android:textColor">
+            @color/idenfyNFCReadingTimeOutContinueButtonTextColor
+        </item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyNFCReadingTimeOutViewDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyNFCReadingTimeOutCommonInformationDescriptionTextColor
+        </item>
+        <item name="android:textSize">
+            15sp
+        </item>
+    </style>
+    <style name="idenfyNFCReadingViewDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyNFCReadingCommonInformationDescriptionTextColor
+        </item>
+        <item name="android:textSize">
+            18sp
+        </item>
+    </style>
+    <style name="idenfyNFCRequiredCommonInformationTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyNFCRequiredCommonInformationTitleTextColor
+        </item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_country_selection_view_information_title_text_size
+        </item>
+    </style>
+    <style name="idenfyNFCRequiredContinueButtonStyle" parent="android:Widget.Button">
+        <item name="android:textColor">
+            @color/idenfyNFCRequiredContinueButtonTextColor
+        </item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyNFCRequiredViewDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyNFCRequiredCommonInformationDescriptionTextColor
+        </item>
+        <item name="android:textSize">
+            15sp
+        </item>
+    </style>
+    <style name="idenfyProviderLoginViewButtonStyle" parent="android:Widget.Button">
+        <item name="android:textColor">
+            @color/idenfyProviderLoginViewContinueButtonTextColor
+        </item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyProviderLoginViewDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyProviderLoginViewDescriptionTextColor</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyProviderLoginViewTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyProviderLoginViewTitleTextColor</item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_country_selection_view_information_title_text_size
+        </item>
+    </style>
+    <style name="idenfyProviderLoginViewUsernameAndPasswordEditTextTopHintStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyProviderLoginViewUsernameAndPasswordEditTextTopHintTitleColor</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+    <style name="idenfyProviderSelectionViewDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyProviderSelectionViewDescriptionTextColor</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyProviderSelectionViewProviderRecyclerViewItemTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyProviderSelectionViewProviderRecyclerViewItemTextColor
+        </item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyProviderSelectionViewProviderSearchBarHintStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyProviderSelectionViewProviderSearchBarTextColor
+        </item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyProviderSelectionViewProviderSearchBarStyle" parent="Widget.AppCompat.SearchView">
+        <item name="queryBackground">@color/idenfyColorPrimary</item>
+        <item name="android:textColorPrimary">@color/idenfySecondColorV2</item>
+        <item name="android:textColorSecondary">@color/idenfyInactiveColorV2</item>
+    </style>
+    <style name="idenfyProviderSelectionViewTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyProviderSelectionViewTitleTextColor</item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_country_selection_view_information_title_text_size
+        </item>
+    </style>
+    <style name="idenfySplashScreenDescriptionTextStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfySplashScreenViewDescriptionTextColor</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyUploadPhotoViewBackButtonStyle">
+        <item name="android:tint">
+            @color/idenfyMainColorV2
+        </item>
+    </style>
+    <style name="idenfyUploadPhotoViewChooseAnotherPhotoButtonTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">
+            @color/idenfyUploadPhotoViewChooseAnotherPhotoButtonTextColor
+        </item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyUploadPhotoViewContinuePhotoButtonStyle" parent="android:Widget.Button">
+        <item name="android:textColor">@color/idenfyUploadPhotoViewContinuePhotoButtonTextColor
+        </item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="idenfyUploadPhotoViewDescriptionStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyUploadPhotoViewDescriptionTextColor</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="idenfyUploadPhotoViewTitleStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/idenfyUploadPhotoViewTitleTextColor</item>
+        <item name="android:textSize">
+            @dimen/idenfy_dimen_upload_photo_view_information_title_text_size
+        </item>
+    </style>
+    <style name="progressBarBlue" parent="@style/Theme.MaterialComponents">
+        <item name="colorAccent">@color/idenfyResultsLoadingIconColor</item>
+        <item name="colorPrimary">@color/idenfyResultsLoadingIconColor</item>
+    </style>
+</resources>

@@ -3,6 +3,8 @@ package com.example.idenfy_sdk_flutter
 import android.app.Activity
 import android.content.Intent
 import androidx.annotation.NonNull
+import android.graphics.Color
+import android.graphics.Rect
 import com.google.gson.Gson
 import com.idenfy.idenfySdk.CoreSdkInitialization.IdenfyController
 import com.idenfy.idenfySdk.api.initialization.IdenfySettingsV2
@@ -44,7 +46,7 @@ class IdenfySdkFlutterPlugin: FlutterPlugin, MethodCallHandler, ActivityAware, P
       result.success("Android " + android.os.Build.VERSION.RELEASE);
     } else if (call.method == "start") {
       mResult = result
-      val idenfyLivenessUISettings = IdenfyLivenessUISettings()
+//      val idenfyLivenessUISettings = IdenfyLivenessUISettings()
       val idenfyUISettingsV2 = IdenfyUISettingsV2.IdenfyUIBuilderV2().withConfirmationView(
         IdenfyOnBoardingViewTypeEnum.SINGLE).withInstructions(IdenfyInstructionsType.DRAWER).build()
 
