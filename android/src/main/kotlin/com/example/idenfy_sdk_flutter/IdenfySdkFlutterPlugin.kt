@@ -43,7 +43,7 @@ class IdenfySdkFlutterPlugin: FlutterPlugin, MethodCallHandler, ActivityAware, P
     channel.setMethodCallHandler(this)
   }
 
-  fun onMethodCall(@NonNull call: MethodCall, @NonNull result: Result) {
+  override fun onMethodCall(@NonNull call: MethodCall, @NonNull result: Result) {
     if (call.method == "getPlatformVersion") {
       result.success("Android " + android.os.Build.VERSION.RELEASE);
     } else if (call.method == "start") {
