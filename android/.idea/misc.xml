@@ -79,6 +79,8 @@
         <entry key="src/main/res/drawable/idenfy_language_selection_recyclerview_item_background.xml" value="0.204" />
         <entry key="src/main/res/drawable/idenfy_results_view_gradient_foreground.xml" value="0.204" />
         <entry key="src/main/res/drawable/pseudo_fullscreen_success_vector_drawable.xml" value="0.204" />
+        <entry key="src/main/res/font/bold.xml" value="0.2537037037037037" />
+        <entry key="src/main/res/layout/cursor.xml" value="0.13722826086956522" />
         <entry key="src/main/res/layout/idenfy_activity_face_authentication_v2.xml" value="0.24365942028985507" />
         <entry key="src/main/res/layout/idenfy_activity_main_v2.xml" value="0.24365942028985507" />
         <entry key="src/main/res/layout/idenfy_composable_fragment_identification_suspected_results_v2.xml" value="0.24365942028985507" />
