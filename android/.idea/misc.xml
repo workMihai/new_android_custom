@@ -18,6 +18,7 @@
         <entry key="src/main/res/drawable/idenfy_custom_drawable_camera_preview_session_take_picture.xml" value="0.204" />
         <entry key="src/main/res/drawable/idenfy_custom_drawable_camera_preview_session_upload_photo_icon_v2.xml" value="0.204" />
         <entry key="src/main/res/drawable/idenfy_custom_drawable_face_camera_preview_session_oval_face_detected_v2.xml" value="0.204" />
+        <entry key="src/main/res/drawable/idenfy_ic_document_rectangle_v2.xml" value="0.137" />
         <entry key="src/main/res/drawable/idenfy_ic_documents_type_diplomatic_id_card_v2.xml" value="0.204" />
         <entry key="src/main/res/drawable/idenfy_ic_documents_type_selection_visa_v2.xml" value="0.204" />
         <entry key="src/main/res/drawable/idenfy_ic_documents_type_selection_voter_card_v2.xml" value="0.204" />
@@ -85,6 +86,13 @@
         <entry key="src/main/res/layout/idenfy_composable_fragment_onboarding_v2.xml" value="0.24365942028985507" />
         <entry key="src/main/res/layout/idenfy_custom_snackbar_content_view.xml" value="0.24365942028985507" />
         <entry key="src/main/res/layout/idenfy_dialog_custom_views_not_allowed.xml" value="0.24365942028985507" />
+        <entry key="src/main/res/layout/idenfy_dialog_instructions.xml" value="0.1" />
+        <entry key="src/main/res/layout/idenfy_fragment_face_photo_result_with_questions_v2.xml" value="0.1" />
+        <entry key="src/main/res/layout/idenfy_fragment_identification_resuts_fragment_v2.xml" value="0.1" />
+        <entry key="src/main/res/layout/idenfy_item_confirmation_view_step_v2.xml" value="0.1" />
+        <entry key="src/main/res/layout/idenfy_partial_layout_face_camera_preview_session_instructions_topsheet_root_v2.xml" value="0.1" />
+        <entry key="src/main/res/layout/idenfy_partial_layout_internet_connection_popup.xml" value="0.1" />
+        <entry key="src/main/res/layout/idenfy_partial_layout_onboarding_video_surface_v2.xml" value="0.1" />
       </map>
     </option>
   </component>
