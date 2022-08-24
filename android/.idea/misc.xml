@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.24818840579710144" />
+        <entry key="src/main/res/drawable/border.xml" value="0.136" />
         <entry key="src/main/res/drawable/border_bold_1.xml" value="0.136" />
+        <entry key="src/main/res/drawable/border_bold_2.xml" value="0.136" />
         <entry key="src/main/res/drawable/border_radius.xml" value="0.1605" />
         <entry key="src/main/res/drawable/empty.xml" value="0.1605" />
         <entry key="src/main/res/drawable/ic_idenfy_dialog_mrz_not_found_image.xml" value="0.204" />
