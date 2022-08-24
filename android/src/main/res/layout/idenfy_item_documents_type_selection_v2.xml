@@ -1,75 +1,46 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="56dp"
+    android:layout_height="60dp"
     android:background="@drawable/idenfy_custom_document_recyclerview_item_background"
     android:gravity="center_vertical"
     android:orientation="horizontal"
     android:paddingTop="8dp"
-    android:paddingBottom="8dp"
-    android:layout_marginTop="10dp"
-    tools:ignore="MissingClass">
+    android:paddingBottom="8dp">
 
     <ImageView
         android:id="@+id/idenfy_imageview_documents_type_selection_item"
-        android:layout_width="24dp"
+        android:layout_width="42dp"
         android:layout_height="wrap_content"
-        android:layout_marginStart="30dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
         android:adjustViewBounds="true"
-        android:maxHeight="24dp"
+        android:maxHeight="40dp"
         android:scaleType="fitCenter"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/idenfy_ic_documents_type_selection_driver_license_v2" />
 
-<!--    <com.idenfy.idenfySdk.uicomponents.IDenfyTextView-->
-<!--        android:id="@+id/idenfy_textview_documents_type_selection_item"-->
-<!--        android:layout_width="0dp"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:layout_marginStart="16dp"-->
-<!--        android:layout_marginLeft="16dp"-->
-<!--        android:layout_marginEnd="16dp"-->
-<!--        android:layout_marginRight="16dp"-->
-<!--        android:layout_weight="1"-->
-<!--        android:padding="5dp"-->
-<!--        android:paddingRight="50dp"-->
-<!--        android:text=""-->
-<!--        android:theme="@style/idenfyDocumentSelectionViewDocumentRecyclerViewItemTitleStyle"-->
-<!--        app:customfont="hkgrotesk_regular.ttf"-->
-<!--        app:layout_constraintBottom_toBottomOf="parent"-->
-<!--        app:layout_constraintEnd_toStartOf="@+id/idenfy_imageview_documents_type_selection_item"-->
-<!--        app:layout_constraintStart_toStartOf="parent"-->
-<!--        app:layout_constraintTop_toTopOf="parent"-->
-<!--        app:underline="false" />-->
-
-    <com.airbnb.lottie.LottieAnimationView
-        android:id="@+id/idenfy_lottie_animation_loading"
-        android:layout_width="25dp"
-        android:layout_height="25dp"
-        android:layout_centerInParent="true"
-        android:layout_marginEnd="8dp"
-        app:tint="@color/idenfyWhite"
-        android:visibility="invisible"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/idenfy_imageview_documents_type_selection_item"
-        app:layout_constraintTop_toTopOf="parent"
-        app:lottie_autoPlay="true"
-        app:lottie_loop="true"
-        app:lottie_rawRes="@raw/idenfy_custom_country_loader" />
     <com.idenfy.idenfySdk.uicomponents.IDenfyTextView
         android:id="@+id/idenfy_textview_documents_type_selection_item"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
         android:layout_weight="1"
-        android:layout_marginStart="15dp"
+        android:padding="5dp"
+        android:paddingRight="50dp"
         android:text=""
-        android:textColor="#161617"
-        android:textSize="16sp"
-        app:customfont="@font/sfpro_medium"
+        android:theme="@style/idenfyDocumentSelectionViewDocumentRecyclerViewItemTitleStyle"
+        app:customfont="hkgrotesk_regular.ttf"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/idenfy_imageview_documents_type_selection_item"
+        app:layout_constraintEnd_toStartOf="@+id/idenfy_imageview_documents_type_selection_item"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:underline="false" />
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
