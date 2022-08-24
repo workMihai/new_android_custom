@@ -8,7 +8,7 @@
                         android:width="2dip"
                         android:color="@color/idenfyCountryViewSelectionCountrySearchBarBorderColor" />
                     <corners android:radius="4dp" />
-                    <solid android:color="@android:color/transparent" />
+                    <solid android:color="@android:color/white" />
                     <padding
                         android:bottom="0dip"
                         android:left="12dip"
