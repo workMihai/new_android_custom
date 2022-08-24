@@ -28,7 +28,7 @@
             app:layout_constraintTop_toBottomOf="@+id/idenfy_textview_dialog_liveness_id_check_loading_title"
             app:lottie_autoPlay="true"
             app:lottie_loop="true"
-            app:lottie_rawRes="@raw/idenfy_loading_indicator_six_digits" />
+            app:lottie_rawRes="@raw/lottie_ronary" />
 
 
         <com.idenfy.idenfySdk.uicomponents.IDenfyTextView
