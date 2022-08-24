@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="src/main/res/drawable/border_radius.xml" value="0.1605" />
+        <entry key="src/main/res/drawable/empty.xml" value="0.1605" />
         <entry key="src/main/res/drawable/ic_idenfy_dialog_mrz_not_found_image.xml" value="0.204" />
         <entry key="src/main/res/drawable/ic_idenfy_ic_face_authentication_splash_screen.xml" value="0.204" />
         <entry key="src/main/res/drawable/ic_idenfy_ic_onboarding_other_document_image.xml" value="0.204" />
@@ -93,12 +94,19 @@
         <entry key="src/main/res/layout/idenfy_dialog_instructions.xml" value="0.1" />
         <entry key="src/main/res/layout/idenfy_dialog_mrz_not_found.xml" value="0.1276595744680851" />
         <entry key="src/main/res/layout/idenfy_fragment_confirmation_view_v2.xml" value="0.335" />
+        <entry key="src/main/res/layout/idenfy_fragment_face_authentication_initial_view_v2.xml" value="0.1276595744680851" />
         <entry key="src/main/res/layout/idenfy_fragment_face_authentication_splash_screen_v2.xml" value="0.16894630192502533" />
         <entry key="src/main/res/layout/idenfy_fragment_face_photo_result_with_questions_v2.xml" value="0.1" />
         <entry key="src/main/res/layout/idenfy_fragment_identification_resuts_fragment_v2.xml" value="0.1" />
+        <entry key="src/main/res/layout/idenfy_fragment_manual_reviewing_status_waiting_with_auto_results_steps_v2.xml" value="0.1276595744680851" />
+        <entry key="src/main/res/layout/idenfy_fragment_nfc_reading.xml" value="0.1276595744680851" />
+        <entry key="src/main/res/layout/idenfy_fragment_provider_login_v2.xml" value="0.1276595744680851" />
         <entry key="src/main/res/layout/idenfy_fragment_splash_screen_v2.xml" value="0.335" />
         <entry key="src/main/res/layout/idenfy_item_confirmation_view_step_v2.xml" value="0.1" />
+        <entry key="src/main/res/layout/idenfy_item_dropdown_mfa_method_spinner.xml" value="0.1276595744680851" />
+        <entry key="src/main/res/layout/idenfy_item_identification_results_step_state_v2.xml" value="0.1276595744680851" />
         <entry key="src/main/res/layout/idenfy_layout_custom_snackbar.xml" value="0.16894630192502533" />
+        <entry key="src/main/res/layout/idenfy_partial_layout_common_appbarlayout_v2.xml" value="0.16894630192502533" />
         <entry key="src/main/res/layout/idenfy_partial_layout_face_camera_preview_session_instructions_topsheet_root_v2.xml" value="0.1" />
         <entry key="src/main/res/layout/idenfy_partial_layout_internet_connection_popup.xml" value="0.1" />
         <entry key="src/main/res/layout/idenfy_partial_layout_onboarding_video_surface_v2.xml" value="0.1" />
