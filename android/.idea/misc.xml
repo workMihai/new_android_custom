@@ -24,7 +24,17 @@
         <entry key="src/main/res/drawable/idenfy_custom_drawable_camera_preview_session_take_picture.xml" value="0.204" />
         <entry key="src/main/res/drawable/idenfy_custom_drawable_camera_preview_session_upload_photo_icon_v2.xml" value="0.204" />
         <entry key="src/main/res/drawable/idenfy_custom_drawable_face_camera_preview_session_oval_face_detected_v2.xml" value="0.204" />
+        <entry key="src/main/res/drawable/idenfy_custom_drawable_face_camera_preview_session_oval_face_not_detected_v2.xml" value="0.1" />
+        <entry key="src/main/res/drawable/idenfy_custom_drawable_face_camera_preview_session_oval_face_v2.xml" value="0.1" />
+        <entry key="src/main/res/drawable/idenfy_custom_drawable_instructions_background_collaped.xml" value="0.1" />
+        <entry key="src/main/res/drawable/idenfy_custom_drawable_instructions_background_open.xml" value="0.1" />
+        <entry key="src/main/res/drawable/idenfy_custom_drawable_instructions_background_without_rounded_corners.xml" value="0.1" />
+        <entry key="src/main/res/drawable/idenfy_custom_predefined_country_background.xml" value="0.1" />
+        <entry key="src/main/res/drawable/idenfy_custom_provider_recyclerview_background.xml" value="0.1" />
+        <entry key="src/main/res/drawable/idenfy_custom_provider_recyclerview_item_background.xml" value="0.1" />
+        <entry key="src/main/res/drawable/idenfy_custom_provider_searchview_background.xml" value="0.1" />
         <entry key="src/main/res/drawable/idenfy_facetec_animated_success.xml" value="0.1605" />
+        <entry key="src/main/res/drawable/idenfy_flag_black_border.xml" value="0.1" />
         <entry key="src/main/res/drawable/idenfy_ic_camera_permissions.xml" value="0.2675" />
         <entry key="src/main/res/drawable/idenfy_ic_camera_preview_switch_lens.xml" value="0.2675" />
         <entry key="src/main/res/drawable/idenfy_ic_camera_rectangle_v2.xml" value="0.2675" />
@@ -41,6 +51,8 @@
         <entry key="src/main/res/drawable/idenfy_ic_documents_type_selection_id_card_back_v2.xml" value="0.136" />
         <entry key="src/main/res/drawable/idenfy_ic_documents_type_selection_id_card_v2.xml" value="0.136" />
         <entry key="src/main/res/drawable/idenfy_ic_documents_type_selection_national_passport_v2.xml" value="0.136" />
+        <entry key="src/main/res/drawable/idenfy_ic_documents_type_selection_national_photo_card_v2.xml" value="0.1" />
+        <entry key="src/main/res/drawable/idenfy_ic_documents_type_selection_national_travel_card_v2.xml" value="0.1" />
         <entry key="src/main/res/drawable/idenfy_ic_documents_type_selection_passport_v2.xml" value="0.136" />
         <entry key="src/main/res/drawable/idenfy_ic_documents_type_selection_residence_permit_v2.xml" value="0.136" />
         <entry key="src/main/res/drawable/idenfy_ic_documents_type_selection_visa_v2.xml" value="0.204" />
@@ -116,9 +128,16 @@
         <entry key="src/main/res/layout/idenfy_composable_fragment_onboarding_v2.xml" value="0.24365942028985507" />
         <entry key="src/main/res/layout/idenfy_custom_snackbar_content_view.xml" value="0.24365942028985507" />
         <entry key="src/main/res/layout/idenfy_dialog_custom_views_not_allowed.xml" value="0.24365942028985507" />
+        <entry key="src/main/res/layout/idenfy_dialog_doc_not_found.xml" value="0.45" />
+        <entry key="src/main/res/layout/idenfy_dialog_document_camera_session_document_analysis_v2.xml" value="0.14945652173913043" />
+        <entry key="src/main/res/layout/idenfy_dialog_glare_blur_loading_v2.xml" value="0.375" />
+        <entry key="src/main/res/layout/idenfy_dialog_glare_blur_result_v2.xml" value="0.14945652173913043" />
+        <entry key="src/main/res/layout/idenfy_dialog_identification_session_on_close_sdk_user_action_v2.xml" value="0.375" />
         <entry key="src/main/res/layout/idenfy_dialog_instructions.xml" value="0.1" />
         <entry key="src/main/res/layout/idenfy_dialog_liveness_id_check_loading_v2.xml" value="0.2625" />
         <entry key="src/main/res/layout/idenfy_dialog_mrz_not_found.xml" value="0.1276595744680851" />
+        <entry key="src/main/res/layout/idenfy_fragment_additional_support_v2.xml" value="0.13095238095238096" />
+        <entry key="src/main/res/layout/idenfy_fragment_camera_permission_v2.xml" value="0.1" />
         <entry key="src/main/res/layout/idenfy_fragment_confirmation_view_v2.xml" value="0.335" />
         <entry key="src/main/res/layout/idenfy_fragment_document_issuing_country_selection_v2.xml" value="0.14945652173913043" />
         <entry key="src/main/res/layout/idenfy_fragment_document_photo_result_with_questions_v2.xml" value="0.14945652173913043" />
