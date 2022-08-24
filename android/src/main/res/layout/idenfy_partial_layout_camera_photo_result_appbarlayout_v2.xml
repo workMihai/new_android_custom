@@ -50,6 +50,7 @@
                     android:src="@drawable/arrow_back"
                     android:layout_marginStart="20dp"
                     android:layout_marginTop="10dp"
+                    app:srcCompat="@drawable/idenfy_ic_navigation_back_v2" />
                     app:srcCompat="@drawable/arrow_back" />
 
                 <com.idenfy.idenfySdk.uicomponents.IDenfyTextView
