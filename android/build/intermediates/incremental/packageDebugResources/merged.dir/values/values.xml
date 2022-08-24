@@ -1,84 +1,256 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="colorAccentIdenfyDarkgrey">#b3b5bf</color>
-    <color name="idenfyAdditionalSupportCommonInformationDescriptionTextColor">@color/idenfySecondColor50percentV2
-    </color>
-    <color name="idenfyAdditionalSupportCommonInformationTitleTextColor">@color/idenfySecondColorV2
-    </color>
-    <color name="idenfyAdditionalSupportContinueButtonTextColor">
-        @color/idenfyWhite
-    </color>
-    <color name="idenfyAdditionalSupportViewBackgroundColor">
-        @color/idenfyBackgroundColorV2
-    </color>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="country_name">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Antarctica</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Aruba</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Bahamas</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bermuda</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>Bosnia-Herzegovina</item>
+        <item>Botswana</item>
+        <item>Brazil</item>
+        <item>Brunei Darussalam</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso</item>
+        <item>Burundi</item>
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Cape Verde </item>
+        <item>Cayman Islands</item>
+        <item>Central African Republic</item>
+        <item>Chad </item>
+        <item>Chile </item>
+        <item>China </item>
+        <item>Christmas Island</item>
+        <item>Cocos (Keeling) Islands</item>
+        <item>Colombia </item>
+        <item>Comoros </item>
+        <item>Congo </item>
+        <item>Congo, Dem. Republic </item>
+        <item>Cook Islands</item>
+        <item>Costa Rica </item>
+        <item>Croatia</item>
+        <item>Cuba </item>
+        <item>Cyprus</item>
+        <item>Czech </item>
+        <item>Denmark </item>
+        <item>Djibouti</item>
+        <item>Dominica </item>
+        <item>Dominican</item>
+        <item>Ecuador </item>
+        <item>Egypt </item>
+        <item>El Salvador</item>
+        <item>Equatorial</item>
+        <item>Eritrea </item>
+        <item>Estonia </item>
+        <item>Ethiopia </item>
+        <item>Falkland Islands (Malvinas)</item>
+        <item>Faroe Islands</item>
+        <item>Fiji</item>
+        <item>Finland </item>
+        <item>France </item>
+        <item>French Guiana</item>
+        <item>Gabon</item>
+        <item>Gambia </item>
+        <item>Georgia </item>
+        <item>Germany </item>
+        <item>Ghana </item>
+        <item>Gibraltar </item>
+        <item>Great Britain </item>
+        <item>Greece </item>
+        <item>Greenland</item>
+        <item>Grenada </item>
+        <item>Guadeloupe (French) </item>
+        <item>Guam (USA)</item>
+        <item>Guatemala </item>
+        <item>Guinea </item>
+        <item>Guinea Bissau </item>
+        <item>Guyana </item>
+        <item>Haiti </item>
+        <item>Honduras </item>
+        <item>Hong Kong </item>
+        <item>Hungary </item>
+        <item>Iceland </item>
+        <item>India </item>
+        <item>Indonesia </item>
+        <item>Iran </item>
+        <item>Iraq </item>
+        <item>Ireland </item>
+        <item>Israel </item>
+        <item>Italy</item>
+        <item>Ivory </item>
+        <item>Jamaica </item>
+        <item>Japan </item>
+        <item>Jordan </item>
+        <item>Kazakhstan </item>
+        <item>Kenya </item>
+        <item>Kiribati </item>
+        <item>Korea-North</item>
+        <item>Korea-South </item>
+        <item>Kuwait </item>
+        <item>Kyrgyzstan </item>
+        <item>Laos </item>
+        <item>Latvia </item>
+        <item>Lebanon </item>
+        <item>Lesotho </item>
+        <item>Liberia </item>
+        <item>Libya </item>
+        <item>Liechtenstein </item>
+        <item>Lithuania</item>
+        <item>Luxembourg </item>
+        <item>Macau</item>
+        <item>Macedonia </item>
+        <item>Madagascar </item>
+        <item>Malawi </item>
+        <item>Malaysia </item>
+        <item>Maldives </item>
+        <item>Mali </item>
+        <item>Malta </item>
+        <item>Marshall Islands </item>
+        <item>Martinique (French) </item>
+        <item>Mauritania </item>
+        <item>Mauritius Port</item>
+        <item>Mayotte </item>
+        <item>Mexico </item>
+        <item>Micronesia </item>
+        <item>Moldova </item>
+        <item>Monaco</item>
+        <item>Mongolia</item>
+        <item>Montenegro </item>
+        <item>Montserrat </item>
+        <item>Morocco</item>
+        <item>Mozambique </item>
+        <item>Myanmar</item>
+        <item>Namibia </item>
+        <item>Nauru </item>
+        <item>Nepal </item>
+        <item>Netherlands</item>
+        <item>Netherlands Antilles</item>
+        <item>New Caledonia (French)</item>
+        <item>New Zealand </item>
+        <item>Nicaragua </item>
+        <item>Niger </item>
+        <item>Nigeria </item>
+        <item>Niue </item>
+        <item>Norfolk Island </item>
+        <item>Northern Mariana Islands </item>
+        <item>Norway</item>
+        <item>Oman </item>
+        <item>Pakistan </item>
+        <item>Palau </item>
+        <item>Panama </item>
+        <item>Papua New Guinea Port</item>
+        <item>Paraguay </item>
+        <item>Peru </item>
+        <item>Philippines </item>
+        <item>Poland</item>
+        <item>Polynesia (French) </item>
+        <item>Portugal </item>
+        <item>Puerto Rico </item>
+        <item>Qatar </item>
+        <item>Reunion (French) </item>
+        <item>Romania </item>
+        <item>Russia </item>
+        <item>Rwanda </item>
+        <item>Saint Helena </item>
+        <item>Saint Kitts &amp; Nevis Anguilla</item>
+        <item>Saint Lucia </item>
+        <item>Saint Pierre and Miquelon</item>
+        <item>Saint Vincent &amp; Grenadines </item>
+        <item>Samoa </item>
+        <item>San Marino </item>
+        <item>Sao Tome and Principe</item>
+        <item>Saudi Arabia</item>
+        <item>Senegal </item>
+        <item>Serbia </item>
+        <item>Seychelles </item>
+        <item>Sierra Leone</item>
+        <item>Singapore </item>
+        <item>Slovakia </item>
+        <item>Slovenia </item>
+        <item>Solomon Islands</item>
+        <item>Somalia</item>
+        <item>South Africa </item>
+        <item>Spain </item>
+        <item>Sri Lanka </item>
+        <item>Sudan</item>
+        <item>Suriname</item>
+        <item>Swaziland </item>
+        <item>Sweden </item>
+        <item>Switzerland</item>
+        <item>Syria </item>
+        <item>Taiwan </item>
+        <item>Tajikistan</item>
+        <item>Tanzania </item>
+        <item>Thailand </item>
+        <item>Togo </item>
+        <item>Tokelau </item>
+        <item>Tonga </item>
+        <item>Trinidad and Tobago </item>
+        <item>Tunisia </item>
+        <item>Turkey </item>
+        <item>Turkmenistan </item>
+        <item>Turks and Caicos Islands</item>
+        <item>Tuvalu </item>
+        <item>U.K. </item>
+        <item>United States</item>
+        <item>Uganda </item>
+        <item>Ukraine </item>
+        <item>United Arab Emirates</item>
+        <item>Uruguay </item>
+        <item>Uzbekistan </item>
+        <item>Vanuatu</item>
+        <item>Vatican </item>
+        <item>Venezuela</item>
+        <item>Vietnam </item>
+        <item>Virgin Islands (British) </item>
+        <item>Virgin Islands (USA)</item>
+        <item>Wallis and Futuna Islands</item>
+        <item>Yemen</item>
+        <item>Zambia </item>
+        <item>Zimbabwe </item>
+    </string-array>
+    <color name="black">#FF000000</color>
     <color name="idenfyBackgroundColorV2">#FBFBFB</color>
-    <color name="idenfyBlack">#000000</color>
-    <color name="idenfyCameraBackArrowResultsColor">#ffffff</color>
-    <color name="idenfyCameraDynamicOnBoardingViewDescriptionColor">@color/idenfySecondColor50percentV2</color>
-    <color name="idenfyCameraDynamicOnBoardingViewDisabledButtonBackgroundColor">@color/idenfySecondColor20percentV2</color>
-    <color name="idenfyCameraDynamicOnBoardingViewDisabledButtonTitleColor">@color/idenfySecondColor50percentV2</color>
-    <color name="idenfyCameraDynamicOnBoardingViewEnabledButtonBackgroundColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyCameraDynamicOnBoardingViewEnabledButtonTitleColor">@color/idenfyWhite</color>
-    <color name="idenfyCameraDynamicOnBoardingViewLoadingSpinnerColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyCameraDynamicOnBoardingViewProgressBarBackgroundColor">@color/idenfySecondColor20percentV2</color>
-    <color name="idenfyCameraDynamicOnBoardingViewProgressBarForegroundColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyCameraDynamicOnBoardingViewTitleColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyCameraDynamicOnBoardingViewVideoDescriptionsCardBackgroundColor">@color/idenfyPhotoResultDetailsCardBackgroundColorV2</color>
-    <color name="idenfyCameraDynamicOnBoardingViewVideoDescriptionsCardQuestionImageTintColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyCameraDynamicOnBoardingViewVideoDescriptionsCardTitleColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyCameraFloatingActionButtonBackgroundColor">#ffffff</color>
-    <color name="idenfyCameraFloatingActionButtonColor">@color/idenfyColorAccent</color>
-    <color name="idenfyCameraOnBoardingViewBackgroundColor">@color/idenfyBackgroundColorV2</color>
-    <color name="idenfyCameraPermissionViewBackgroundColor">
-        @color/idenfyBackgroundColorV2
-    </color>
-    <color name="idenfyCameraPermissionViewDescriptionTextColor">
-        @color/idenfySecondColorV2
-    </color>
-    <color name="idenfyCameraPermissionViewGuidanceDescriptionTextColor">
-        @color/idenfySecondColorV2
-    </color>
-    <color name="idenfyCameraPermissionViewTitleTextColor">@color/idenfySecondColorV2
-    </color>
-    <color name="idenfyCameraPreviewSessionAppBarBackButtonTextColor">@color/idenfyBlack</color>
-    <color name="idenfyCameraPreviewSessionAppBarBackButtonTintColor">@color/idenfyWhite</color>
-    <color name="idenfyCameraPreviewSessionAppBarBackgroundColor">@android:color/transparent</color>
-    <color name="idenfyCameraPreviewSessionAppBarCameraFlashButtonTintColor">@color/idenfyWhite</color>
-    <color name="idenfyCameraPreviewSessionAppBarFaceNotDetectedAlertTintColor">@color/idenfyGrayColorV2</color>
-    <color name="idenfyCameraStaticOnBoardingViewDescriptionColor">@color/idenfySecondColor50percentV2</color>
-    <color name="idenfyCameraStaticOnBoardingViewDisabledButtonBackgroundColor">@color/idenfySecondColor20percentV2</color>
-    <color name="idenfyCameraStaticOnBoardingViewDisabledButtonTitleColor">@color/idenfySecondColor50percentV2</color>
-    <color name="idenfyCameraStaticOnBoardingViewEnabledButtonBackgroundColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyCameraStaticOnBoardingViewEnabledButtonTitleColor">@color/idenfyWhite</color>
-    <color name="idenfyCameraStaticOnBoardingViewLoadingSpinnerColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyCameraStaticOnBoardingViewProgressBarBackgroundColor">@color/idenfySecondColor20percentV2</color>
-    <color name="idenfyCameraStaticOnBoardingViewProgressBarForegroundColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyCameraStaticOnBoardingViewTitleColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyCameraStaticOnBoardingViewVideoDescriptionsCircleImageTintColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyCameraStaticOnBoardingViewVideoDescriptionsTextColor">@color/idenfySecondColor50percentV2</color>
-    <color name="idenfyCameraStaticOnBoardingViewVideoDescriptionsTitleColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyCheckBoxColor">@color/idenfyColorAccent</color>
-    <color name="idenfyColorAccent">#8bc7e0</color>
-    <color name="idenfyColorPrimary">#36465D</color>
-    <color name="idenfyColorPrimaryDark">#2B384A</color>
-    <color name="idenfyCountriesItemTextColor">@color/idenfyColorPrimary</color>
     <color name="idenfyCountrySelectionViewBackgroundColor">@color/idenfyBackgroundColorV2</color>
     <color name="idenfyCountrySelectionViewCountryRecyclerViewBackgroundColor">@color/idenfyWhite
     </color>
     <color name="idenfyCountrySelectionViewCountryRecyclerViewBorderColor">
-        @color/idenfySecondColor6percentV2
+        #E8EAF0
     </color>
     <color name="idenfyCountrySelectionViewCountryRecyclerViewItemBackgroundColor">
         @color/idenfyWhite
     </color>
     <color name="idenfyCountrySelectionViewCountryRecyclerViewItemBorderColor">
-        @color/idenfySecondColor6percentV2
+        #E8EAF0
     </color>
     <color name="idenfyCountrySelectionViewCountryRecyclerViewItemHighlightedBackgroundColor">
-        @color/idenfyMainColorV2
+        @android:color/transparent
     </color>
     <color name="idenfyCountrySelectionViewCountryRecyclerViewItemHighlightedTextColor">
-        @color/idenfyWhite
+        #494949
     </color>
     <color name="idenfyCountrySelectionViewCountryRecyclerViewItemTextColor">
         @color/idenfySecondColorV2
@@ -96,88 +268,7 @@
     <color name="idenfyCountryViewSelectionCountrySearchBarBorderColor">
         @color/idenfySecondColor6percentV2
     </color>
-    <color name="idenfyCustomAlertDialogNegativeButtonColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyCustomAlertDialogPositiveButtonColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyDefaultAlertDialogNegativeButtonColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyDefaultAlertDialogPositiveButtonColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyDefaultAppBarBackgroundColor">@color/idenfyWhite</color>
-    <color name="idenfyDocumentBorderColor">@color/idenfyColorAccent</color>
-    <color name="idenfyDocumentCameraPreviewDescriptionTextColor">@color/idenfyWhite</color>
-    <color name="idenfyDocumentCameraPreviewSessionBackgroundColor">@color/idenfyBlack</color>
-    <color name="idenfyDocumentCameraPreviewSessionBottomActionButtonsViewBackgroundColor">
-        @color/idenfyHelpSheetOverlay
-    </color>
-    <color name="idenfyDocumentCameraPreviewSessionCurrentInstructionContentTextColor">
-        @color/idenfyWhite
-    </color>
-    <color name="idenfyDocumentCameraPreviewSessionExpandButtonTintColor">@color/idenfyWhite</color>
-    <color name="idenfyDocumentCameraPreviewSessionTakePhotoButtonFocusedBackgroundColor">
-        @color/idenfyMainColorV2
-    </color>
-    <color name="idenfyDocumentCameraPreviewSessionTakePhotoButtonFocusedTintColor">
-        @color/idenfyWhite
-    </color>
-    <color name="idenfyDocumentCameraPreviewSessionTakePhotoButtonUnFocusedBackgroundColor">
-        @color/idenfyWhite
-    </color>
-    <color name="idenfyDocumentCameraPreviewSessionTakePhotoButtonUnFocusedTintColor">
-        @color/idenfyTakePhotoButtonIconUnFocused
-    </color>
-    <color name="idenfyDocumentCameraPreviewTitleTextColor">@color/idenfyWhite</color>
-    <color name="idenfyDocumentConfirmationViewBackgroundColor">@color/idenfyBackgroundColorV2
-    </color>
-    <color name="idenfyDocumentConfirmationViewBeginIdentificationButtonTextColor">
-        @color/idenfyWhite
-    </color>
-    <color name="idenfyDocumentConfirmationViewContentMaskForegroundColor">
-        @color/idenfyBackgroundColorV2
-    </color>
-    <color name="idenfyDocumentConfirmationViewContentScrollBarThumbColor">
-        @color/idenfyMainColor50percentV2
-    </color>
-    <color name="idenfyDocumentConfirmationViewDescriptionHighlightedTextColor">
-        @color/idenfyMainColorV2
-    </color>
-    <color name="idenfyDocumentConfirmationViewDescriptionTextColor">@color/idenfySecondColorV2
-    </color>
-    <color name="idenfyDocumentConfirmationViewDocumentStepItemNumberTextColor">@color/idenfyWhite
-    </color>
-    <color name="idenfyDocumentConfirmationViewDocumentStepItemTitleTextColor">
-        @color/idenfySecondColorV2
-    </color>
-    <color name="idenfyDocumentConfirmationViewDocumentStepTitleHighlightedTextColor">
-        @color/idenfyMainColorV2
-    </color>
-    <color name="idenfyDocumentConfirmationViewDocumentStepTitleTextColor">
-        @color/idenfySecondColorV2
-    </color>
-    <color name="idenfyDocumentConfirmationViewTitleTextColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyDocumentConfirmationViewUploadDocumentPhotoTitleTextColor">
-        @color/idenfySecondColorV2
-    </color>
-    <color name="idenfyDocumentPhotoResultViewBackgroundColor">@color/idenfyBackgroundColorV2
-    </color>
-    <color name="idenfyDocumentPhotoResultViewCardTitleColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyDocumentPhotoResultViewDescriptionTextColor">@color/idenfySecondColorV2
-    </color>
-    <color name="idenfyDocumentPhotoResultViewNextButtonTextColor">@color/idenfyWhite</color>
-    <color name="idenfyDocumentPhotoResultViewPhotoBorderColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyDocumentPhotoResultViewPhotoLoadingSpinnerColor">
-        @color/idenfyMainColor50percentV2
-    </color>
-    <color name="idenfyDocumentPhotoResultViewRetakePhotoButtonTextColor">@color/idenfyMainColorV2
-    </color>
-    <color name="idenfyDocumentPhotoResultViewTitleTextColor">@color/idenfySecondColorV2</color>
     <color name="idenfyDocumentSelectionViewBackgroundColor">@color/idenfyBackgroundColorV2</color>
-    <color name="idenfyDocumentSelectionViewContinueButtonDisabledBackgroundColor">
-        @color/idenfySecondColor20percentV2
-    </color>
-    <color name="idenfyDocumentSelectionViewContinueButtonDisabledTextColor">
-        @color/idenfySecondColor50percentV2
-    </color>
-    <color name="idenfyDocumentSelectionViewContinueButtonEnabledTextColor">
-        @color/idenfyWhite
-    </color>
     <color name="idenfyDocumentSelectionViewDescriptionTextColor">@color/idenfySecondColorV2</color>
     <color name="idenfyDocumentSelectionViewRecyclerViewBackgroundColor">@color/idenfyWhite</color>
     <color name="idenfyDocumentSelectionViewRecyclerViewBorderColor">
@@ -186,94 +277,22 @@
     <color name="idenfyDocumentSelectionViewRecyclerViewItemBackgroundColor">@color/idenfyWhite
     </color>
     <color name="idenfyDocumentSelectionViewRecyclerViewItemBorderColor">
-        @color/idenfySecondColor6percentV2
+        #E8EAF0
     </color>
     <color name="idenfyDocumentSelectionViewRecyclerViewItemHighlightedBackgroundColor">
-        @color/idenfyMainColorV2
+        @android:color/transparent
     </color>
     <color name="idenfyDocumentSelectionViewRecyclerViewItemHighlightedTextColor">
-        @color/idenfyWhite
+        #161617
     </color>
     <color name="idenfyDocumentSelectionViewRecyclerViewItemTitleTextColor">
         @color/idenfySecondColorV2
     </color>
     <color name="idenfyDocumentSelectionViewTitleTextColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyDocumentViewTextColor">#ffffff</color>
-    <color name="idenfyDocumentsArrowColor">@color/idenfyColorAccent</color>
-    <color name="idenfyDocumentsCameraSessionBackArrowColor">#000000</color>
-    <color name="idenfyDocumentsCameraSessionBackTextViewColor">#000000</color>
-    <color name="idenfyDocumentsCameraSessionInformationTextViewColor">#000000</color>
-    <color name="idenfyDocumentsRecyclerViewColor">#ffffff</color>
-    <color name="idenfyDocumentsResultsBackTextViewColor">#ffffff</color>
-    <color name="idenfyDocumentsResultsCameraBackArrowColor">#ffffff</color>
-    <color name="idenfyDocumentsResultsInformationTextViewColor">#ffffff</color>
     <color name="idenfyDrawerCurrentInstructionIndicatorColorV2">@color/idenfyMainColorV2</color>
     <color name="idenfyDrawerInstructionControlsTintColorV2">#FFFFFF</color>
-    <color name="idenfyErrorLightRedColorV2">#FFEBEE</color>
-    <color name="idenfyErrorRedColorV2">#C1170B</color>
-    <color name="idenfyFaceAuthenticationResultsCommonInformationDescriptionTextColor">@color/idenfySecondColorV2
-    </color>
-    <color name="idenfyFaceAuthenticationResultsCommonInformationTitleTextColor">@color/idenfySecondColorV2
-    </color>
-    <color name="idenfyFaceAuthenticationResultsContinueButtonTextColor">
-        @color/idenfyWhite
-    </color>
-    <color name="idenfyFaceAuthenticationResultsViewBackgroundColor">
-        @color/idenfyBackgroundColorV2
-    </color>
-    <color name="idenfyFaceBorderColor">@color/idenfyColorAccent</color>
-    <color name="idenfyFaceCameraPreviewDescriptionTextColor">@color/idenfyWhite</color>
-    <color name="idenfyFaceCameraPreviewSessionBackgroundColor">@color/idenfyBlack</color>
-    <color name="idenfyFaceCameraPreviewSessionBottomActionButtonsViewBackgroundColor">
-        @color/idenfyHelpSheetOverlay
-    </color>
-    <color name="idenfyFaceCameraPreviewSessionCurrentInstructionContentTextColor">
-        @color/idenfyWhite
-    </color>
-    <color name="idenfyFaceCameraPreviewSessionExpandButtonTintColor">@color/idenfyWhite</color>
-    <color name="idenfyFaceCameraPreviewSessionFaceDetectedColor">@color/idenfyGreenColorV2</color>
-    <color name="idenfyFaceCameraPreviewSessionFaceOvalColor">@color/idenfyWhite</color>
-    <color name="idenfyFaceCameraPreviewSessionFaceOvalNotDetectedColor">@color/idenfyGrayColorV2</color>
-    <color name="idenfyFaceCameraPreviewSessionInstructionLivenessMaskColor">@color/idenfyBlack
-    </color>
-    <color name="idenfyFaceCameraPreviewSessionLivenessAccentColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyFaceCameraPreviewSessionLivenessMaskColor">@color/idenfyBlack</color>
-    <color name="idenfyFaceCameraPreviewSessionTakePhotoButtonFocusedBackgroundColor">
-        @color/idenfyMainColorV2
-    </color>
-    <color name="idenfyFaceCameraPreviewSessionTakePhotoButtonFocusedTintColor">@color/idenfyWhite
-    </color>
-    <color name="idenfyFaceCameraPreviewSessionTakePhotoButtonUnFocusedBackgroundColor">
-        @color/idenfyWhite
-    </color>
-    <color name="idenfyFaceCameraPreviewSessionTakePhotoButtonUnFocusedTintColor">
-        @color/idenfyTakePhotoButtonIconUnFocused
-    </color>
-    <color name="idenfyFaceCameraPreviewTitleTextColor">@color/idenfyWhite</color>
-    <color name="idenfyFaceCameraSessionInformationTextViewColor">#ffffff</color>
     <color name="idenfyFaceOvalStrokeColor">#FFFFFF</color>
-    <color name="idenfyFacePhotoResultViewBackgroundColor">@color/idenfyBackgroundColorV2</color>
-    <color name="idenfyFacePhotoResultViewCardTitleColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyFacePhotoResultViewDescriptionTextColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyFacePhotoResultViewNextButtonTextColor">@color/idenfyWhite</color>
-    <color name="idenfyFacePhotoResultViewPhotoBorderColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyFacePhotoResultViewPhotoLoadingSpinnerColor">
-        @color/idenfyMainColor50percentV2
-    </color>
-    <color name="idenfyFacePhotoResultViewRetakePhotoButtonTextColor">@color/idenfyMainColorV2
-    </color>
-    <color name="idenfyFacePhotoResultViewTitleTextColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyFaceResultsBackTextViewColor">#000000</color>
-    <color name="idenfyFaceResultsCameraBackArrowColor">#000000</color>
-    <color name="idenfyFaceResultsInformationTextViewColor">#000000</color>
-    <color name="idenfyFaceSessionBackTextViewColor">#ffffff</color>
-    <color name="idenfyFaceSessionCameraBackArrowColor">#ffffff</color>
-    <color name="idenfyGradientAccentV2">#8D6CFB</color>
-    <color name="idenfyGradientButtonColorEnd">@color/idenfyGradientAccentV2</color>
-    <color name="idenfyGradientButtonColorStart">@color/idenfyMainColorV2</color>
-    <color name="idenfyGrayColorV2">#CFD8DC</color>
-    <color name="idenfyGreenColorV2">#9CEE13</color>
-    <color name="idenfyHelpSheetOverlay">#99000000</color>
+    <color name="idenfyGradientAccentV2">#FFC600</color>
     <color name="idenfyIdentificationResultsViewBackgroundColor">@color/idenfyBackgroundColorV2
     </color>
     <color name="idenfyIdentificationResultsViewContentMaskForegroundColor">
@@ -315,13 +334,8 @@
         @color/idenfySecondColorV2
     </color>
     <color name="idenfyIdentificationResultsViewErrorStepTextColorV2">
-        @color/idenfyStepErrorColorV2
+        #161617
     </color>
-    <color name="idenfyIdentificationResultsViewInstructionsAlertBackgroundColorV2">@color/idenfyBackgroundColorV2</color>
-    <color name="idenfyIdentificationResultsViewInstructionsAlertContinueButtonTextColorV2">@color/idenfyWhite</color>
-    <color name="idenfyIdentificationResultsViewInstructionsAlertLoadingSpinnerColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyIdentificationResultsViewInstructionsAlertProgressBarProgressColorV2">@color/idenfyMainColorV2</color>
-    <color name="idenfyIdentificationResultsViewInstructionsAlertTitleTextColorV2">@color/idenfySecondColorV2</color>
     <color name="idenfyIdentificationResultsViewMrzNotFoundAlertBackButtonTextColorV2">
         @color/idenfyMainColorV2
     </color>
@@ -339,266 +353,27 @@
     </color>
     <color name="idenfyIdentificationResultsViewRetakeButtonTextColor">@color/idenfyWhite</color>
     <color name="idenfyIdentificationResultsViewSuccessStepTextColor">
-        @color/idenfyStepSuccessColorV2
+        #161617
     </color>
     <color name="idenfyIdentificationResultsViewTitleTextColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyIdentificationSuccessResultsViewBackgroundColor">
-        @color/idenfyBackgroundColorV2
-    </color>
-    <color name="idenfyIdentificationSuccessResultsViewDescriptionTextColor">
-        @color/idenfySecondColorV2
-    </color>
-    <color name="idenfyIdentificationSuccessResultsViewIdentifiedTextColor">
-        @color/idenfyIdentificationResultsViewSuccessStepTextColor
-    </color>
-    <color name="idenfyIdentificationSuccessResultsViewTitleTextColor">@color/idenfySecondColorV2
-    </color>
-    <color name="idenfyIdentificationSuspectedResultsViewContinueButtonBackgroundColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyIdentificationSuspectedResultsViewContinueButtonTitleColor">@color/idenfyWhite</color>
-    <color name="idenfyIdentificationSuspectedResultsViewDescriptionColor">@color/idenfySecondColor50percentV2</color>
-    <color name="idenfyIdentificationSuspectedResultsViewDescriptionEmailColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyIdentificationSuspectedResultsViewTitleColor">@color/idenfySecondColorV2</color>
     <color name="idenfyInactiveColorV2">#EFF1F8</color>
-    <color name="idenfyInitialAgreementBackgroundColor">@color/idenfyWhite</color>
-    <color name="idenfyInitialAgreementButtonColor">@color/idenfyColorAccent</color>
-    <color name="idenfyInitialAgreementButtonColorUnFocused">@color/colorAccentIdenfyDarkgrey
-    </color>
-    <color name="idenfyInitialAgreementButtonTextColor">@color/idenfyBlack</color>
-    <color name="idenfyInitialAgreementCountryTextColor">@color/idenfyColorPrimary</color>
-    <color name="idenfyInitialAgreementInformationCardsBackgroundColor">@color/idenfyWhite</color>
-    <color name="idenfyInitialAgreementInformationTitleColor">@color/idenfyColorPrimary</color>
-    <color name="idenfyInitialAgreementSpinnerArrowColor">@color/idenfyColorPrimary</color>
-    <color name="idenfyInitialAgreementSpinnerBorderColor">@color/idenfyColorPrimary</color>
-    <color name="idenfyInitialAgreementSpinnerSolidColor">@color/idenfyWhite</color>
-    <color name="idenfyInitialAgreementTextColor">@color/idenfyColorPrimary</color>
-    <color name="idenfyInstructionCurrentInstructionContentTextColor">#ffffff</color>
-    <color name="idenfyInstructionCurrentInstructionContentTitleColor">#ffffff</color>
-    <color name="idenfyInstructionDocumentsCameraSessionBackArrowColor">#ffffff</color>
-    <color name="idenfyInstructionDocumentsCameraSessionBackTextViewColor">#ffffff</color>
-    <color name="idenfyInstructionDocumentsCameraSessionInformationTextViewColor">#ffffff</color>
-    <color name="idenfyInstructionDocumentsCameraSessionTitleColor">#ffffff</color>
-    <color name="idenfyInstructionDoneInstructionPageButtonColor">#ffffff</color>
-    <color name="idenfyInstructionExpandTopLayoutButtonColor">#ffffff</color>
-    <color name="idenfyInstructionFaceCameraSessionBackArrowColor">#ffffff</color>
-    <color name="idenfyInstructionFaceCameraSessionBackTextViewColor">#ffffff</color>
-    <color name="idenfyInstructionFaceCameraSessionInformationTextViewColor">#ffffff</color>
-    <color name="idenfyInstructionInactiveDotColor">#ffffff</color>
-    <color name="idenfyInstructionNextInstructionPageButtonColor">#ffffff</color>
-    <color name="idenfyInstructionPreviousInstructionPageButtonColor">#ffffff</color>
-    <color name="idenfyInstructionSelectedDotColor">#8BC7E0</color>
-    <color name="idenfyInstructionsVideoBackgroundColor">#B9BEBF</color>
-    <color name="idenfyLanguageSelectionViewBackgroundColor">
-        @color/idenfyBackgroundColorV2
-    </color>
-    <color name="idenfyLanguageSelectionViewLanguageRecyclerViewBackgroundColor">
-        @color/idenfyWhite
-    </color>
-    <color name="idenfyLanguageSelectionViewLanguageRecyclerViewBorderColor">
-        @color/idenfySecondColor6percentV2
-    </color>
-    <color name="idenfyLanguageSelectionViewLanguageRecyclerViewItemBackgroundColor">
-        @color/idenfyWhite
-    </color>
-    <color name="idenfyLanguageSelectionViewLanguageRecyclerViewItemBorderColor">
-        @color/idenfySecondColor6percentV2
-    </color>
-    <color name="idenfyLanguageSelectionViewLanguageRecyclerViewItemHighlightedBackgroundColor">
-        @color/idenfyMainColorV2
-    </color>
-    <color name="idenfyLanguageSelectionViewLanguageRecyclerViewItemHighlightedTextColor">
-        @color/idenfyWhite
-    </color>
-    <color name="idenfyLanguageSelectionViewLanguageRecyclerViewItemTextColor">
-        @color/idenfySecondColorV2
-    </color>
-    <color name="idenfyLanguageSelectionViewTitleTextColor">
-        @color/idenfySecondColorV2
-    </color>
-    <color name="idenfyLivenessBackgroundColor">#ffffff</color>
-    <color name="idenfyMFACaptchaMethodViewBackgroundColor">@color/idenfyBackgroundColorV2</color>
-    <color name="idenfyMFACaptchaMethodViewCaptchaEditTextBackgroundColor">@color/idenfyWhite</color>
-    <color name="idenfyMFACaptchaMethodViewCaptchaEditTextBorderColor">@color/idenfySecondColor20percentV2</color>
-    <color name="idenfyMFACaptchaMethodViewCaptchaEditTextHighlightedBorderColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyMFACaptchaMethodViewCaptchaEditTextHintTitleColor">@color/idenfySecondColor20percentV2</color>
-    <color name="idenfyMFACaptchaMethodViewCaptchaEditTextTitleColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyMFACaptchaMethodViewCaptchaEditTextTopHintTitleColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyMFACaptchaMethodViewContinueButtonTextColor">@color/idenfyWhite</color>
-    <color name="idenfyMFACaptchaMethodViewDescriptionTextColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyMFACaptchaMethodViewTitleTextColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyMFAGeneralViewBackgroundColor">@color/idenfyBackgroundColorV2</color>
-    <color name="idenfyMFAGeneralViewContinueButtonTextColor">@color/idenfyWhite</color>
-    <color name="idenfyMFAGeneralViewDescriptionTextColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyMFAGeneralViewEditTextBackgroundColor">@color/idenfyWhite</color>
-    <color name="idenfyMFAGeneralViewEditTextBorderColor">@color/idenfySecondColor20percentV2</color>
-    <color name="idenfyMFAGeneralViewEditTextHighlightedBorderColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyMFAGeneralViewEditTextHintTitleColor">@color/idenfySecondColor20percentV2</color>
-    <color name="idenfyMFAGeneralViewEditTextTitleColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyMFAGeneralViewEditTextTopHintTitleColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyMFAGeneralViewTitleTextColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyMFAMethodSelectionViewBackgroundColor">@color/idenfyBackgroundColorV2</color>
-    <color name="idenfyMFAMethodSelectionViewContinueButtonTextColor">@color/idenfyWhite</color>
-    <color name="idenfyMFAMethodSelectionViewDescriptionTextColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyMFAMethodSelectionViewTitleTextColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyMFAMethodSelectionViewTopHintTitleColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyMainColor50percentV2">#80536DFE</color>
-    <color name="idenfyMainColorV2">#536DFE</color>
-    <color name="idenfyMainDarkerColorV2">#5D7CE4</color>
-    <color name="idenfyManualReviewingStatusApprovedCommonInformationDescriptionTextColor">@color/idenfyMainColorV2
-    </color>
-    <color name="idenfyManualReviewingStatusApprovedCommonInformationTitleTextColor">@color/idenfySecondColorV2
-    </color>
-    <color name="idenfyManualReviewingStatusApprovedContinueButtonTextColor">
-        @color/idenfyWhite
-    </color>
-    <color name="idenfyManualReviewingStatusApprovedViewBackgroundColor">
-        @color/idenfyBackgroundColorV2
-    </color>
-    <color name="idenfyManualReviewingStatusFailedCommonInformationDescriptionSupportEmailTextColor">@color/idenfyMainColorV2
-    </color>
-    <color name="idenfyManualReviewingStatusFailedCommonInformationDescriptionTextColor">@color/idenfySecondColor50percentV2
-    </color>
-    <color name="idenfyManualReviewingStatusFailedCommonInformationTitleTextColor">@color/idenfySecondColorV2
-    </color>
-    <color name="idenfyManualReviewingStatusFailedContinueButtonTextColor">
-        @color/idenfyWhite
-    </color>
-    <color name="idenfyManualReviewingStatusFailedViewBackgroundColor">
-        @color/idenfyBackgroundColorV2
-    </color>
-    <color name="idenfyManualReviewingStatusWaitingBackToAccountButtonBackgroundColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyManualReviewingStatusWaitingBackToAccountButtonTextColor">@color/idenfyWhite</color>
-    <color name="idenfyManualReviewingStatusWaitingCommonInformationDescriptionTextColor">@color/idenfySecondColor50percentV2</color>
-    <color name="idenfyManualReviewingStatusWaitingCommonInformationTitleTextColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyManualReviewingStatusWaitingCommonReviewBoxFinishedBackgroundColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyManualReviewingStatusWaitingCommonReviewBoxFinishedTickImageTintColor">@color/idenfyWhite</color>
-    <color name="idenfyManualReviewingStatusWaitingCommonReviewBoxFinishedTitleColor">@color/idenfyWhite</color>
-    <color name="idenfyManualReviewingStatusWaitingCommonReviewBoxWaitingBackgroundColor">@color/idenfyWhite</color>
-    <color name="idenfyManualReviewingStatusWaitingCommonReviewBoxWaitingSpinnerColor">@color/idenfySecondColor20percentV2</color>
-    <color name="idenfyManualReviewingStatusWaitingCommonReviewBoxWaitingTitleColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyManualReviewingStatusWaitingCommonWaitingDurationTitleColor">@color/idenfySecondColor50percentV2</color>
-    <color name="idenfyManualReviewingStatusWaitingCommonWaitingTimerBoxBackgroundColor">@color/idenfySecondColor20percentV2</color>
-    <color name="idenfyManualReviewingStatusWaitingCommonWaitingTimerImageTintColor">@color/idenfySecondColor50percentV2</color>
-    <color name="idenfyManualReviewingStatusWaitingCommonWaitingTimerTitleColor">@color/idenfySecondColor50percentV2</color>
-    <color name="idenfyManualReviewingStatusWaitingViewBackgroundColor">@color/idenfyBackgroundColorV2</color>
-    <color name="idenfyMenuSelectionBarColor">#2B3442</color>
-    <color name="idenfyMenuSelectionTextColor">#ffffff</color>
-    <color name="idenfyNFCReadingCommonInformationDescriptionTextColor">@color/idenfyMainColorV2
-    </color>
-    <color name="idenfyNFCReadingCommonInformationTitleTextColor">@color/idenfySecondColorV2
-    </color>
-    <color name="idenfyNFCReadingTimeOutCommonInformationDescriptionTextColor">@color/idenfySecondColorV2
-    </color>
-    <color name="idenfyNFCReadingTimeOutCommonInformationTitleTextColor">@color/idenfySecondColorV2
-    </color>
-    <color name="idenfyNFCReadingTimeOutContinueButtonTextColor">
-        @color/idenfyWhite
-    </color>
-    <color name="idenfyNFCReadingTimeOutViewBackgroundColor">
-        @color/idenfyBackgroundColorV2
-    </color>
-    <color name="idenfyNFCReadingViewBackgroundColor">
-        @color/idenfyBackgroundColorV2
-    </color>
-    <color name="idenfyNFCRequiredCommonInformationDescriptionTextColor">@color/idenfySecondColorV2
-    </color>
-    <color name="idenfyNFCRequiredCommonInformationTitleTextColor">@color/idenfySecondColorV2
-    </color>
-    <color name="idenfyNFCRequiredContinueButtonTextColor">
-        @color/idenfyWhite
-    </color>
-    <color name="idenfyNFCRequiredViewBackgroundColor">
-        @color/idenfyBackgroundColorV2
-    </color>
-    <color name="idenfyNextButtonColor">@color/idenfyColorAccent</color>
-    <color name="idenfyNoBackButtonAppBarBackgroundColor">@color/idenfyWhite</color>
-    <color name="idenfyPhotoResultAppBarBackButtonTextColor">@color/idenfyBlack</color>
-    <color name="idenfyPhotoResultAppBarBackgroundColor">@color/idenfyWhite</color>
-    <color name="idenfyPhotoResultBackgroundColor">#000000</color>
-    <color name="idenfyPhotoResultDetailsCardBackgroundColorV2">#D9DFFC</color>
-    <color name="idenfyProviderLoginViewBackgroundColor">@color/idenfyBackgroundColorV2</color>
-    <color name="idenfyProviderLoginViewContinueButtonTextColor">@color/idenfyWhite</color>
-    <color name="idenfyProviderLoginViewDescriptionTextColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyProviderLoginViewTitleTextColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyProviderLoginViewUsernameAndPasswordEditTextBackgroundColor">@color/idenfyWhite</color>
-    <color name="idenfyProviderLoginViewUsernameAndPasswordEditTextBorderColor">@color/idenfySecondColor20percentV2</color>
-    <color name="idenfyProviderLoginViewUsernameAndPasswordEditTextHighlightedBorderColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyProviderLoginViewUsernameAndPasswordEditTextHintTitleColor">@color/idenfySecondColor20percentV2</color>
-    <color name="idenfyProviderLoginViewUsernameAndPasswordEditTextTitleColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyProviderLoginViewUsernameAndPasswordEditTextTopHintTitleColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyProviderSelectionViewBackgroundColor">@color/idenfyBackgroundColorV2</color>
-    <color name="idenfyProviderSelectionViewDescriptionTextColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyProviderSelectionViewProviderRecyclerViewBackgroundColor">@color/idenfyWhite
-    </color>
-    <color name="idenfyProviderSelectionViewProviderRecyclerViewBorderColor">
-        @color/idenfySecondColor6percentV2
-    </color>
-    <color name="idenfyProviderSelectionViewProviderRecyclerViewItemBackgroundColor">
-        @color/idenfyWhite
-    </color>
-    <color name="idenfyProviderSelectionViewProviderRecyclerViewItemBorderColor">
-        @color/idenfySecondColor6percentV2
-    </color>
-    <color name="idenfyProviderSelectionViewProviderRecyclerViewItemHighlightedBackgroundColor">
-        @color/idenfyMainColorV2
-    </color>
-    <color name="idenfyProviderSelectionViewProviderRecyclerViewItemHighlightedTextColor">
-        @color/idenfyWhite
-    </color>
-    <color name="idenfyProviderSelectionViewProviderRecyclerViewItemTextColor">
-        @color/idenfySecondColorV2
-    </color>
-    <color name="idenfyProviderSelectionViewProviderSearchBarBackgroundColor">@color/idenfyWhite
-    </color>
-    <color name="idenfyProviderSelectionViewProviderSearchBarHighlightedTextColor">
-        @color/idenfySecondColorV2
-    </color>
-    <color name="idenfyProviderSelectionViewProviderSearchBarTextColor">
-        @color/idenfySecondColor50percentV2
-    </color>
-    <color name="idenfyProviderSelectionViewTitleTextColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyProviderViewSelectionProviderSearchBarBorderColor">
-        @color/idenfySecondColor6percentV2
-    </color>
-    <color name="idenfyRedColorV2">#F44336</color>
-    <color name="idenfyRepeatButtonColor">@color/idenfyColorPrimary</color>
-    <color name="idenfyResultsDocumentsTextView">@color/idenfyColorPrimary</color>
-    <color name="idenfyResultsErrorIconShapeColor">#ffffff</color>
-    <color name="idenfyResultsErrorIconSolidColor">#E44742</color>
-    <color name="idenfyResultsLoadingIconColor">@color/idenfyColorAccent</color>
-    <color name="idenfyResultsLoadingLayoutColor">#ffffff</color>
-    <color name="idenfyResultsLoadingTextView">@color/idenfyColorAccent</color>
-    <color name="idenfyResultsMessageTextColor">@color/idenfyColorPrimary</color>
-    <color name="idenfyResultsProgressBarColor">#ffffff</color>
-    <color name="idenfyResultsSuccessIconShapeColor">#ffffff</color>
-    <color name="idenfyResultsSuccessIconSolidColor">#4FD250</color>
+    <color name="idenfyMainColor50percentV2">#FFC600</color>
+    <color name="idenfyMainColorV2">#FFC600</color>
     <color name="idenfySecondColor20percentV2">#33353B4E</color>
     <color name="idenfySecondColor50percentV2">#80353B4E</color>
     <color name="idenfySecondColor6percentV2">#0F353B4E</color>
-    <color name="idenfySecondColor80percentV2">#CC353B4E</color>
     <color name="idenfySecondColorV2">#F2353B4E</color>
-    <color name="idenfySplashScreenBackgroundColor">@color/idenfyWhite</color>
-    <color name="idenfySplashScreenViewDescriptionTextColor">@color/idenfyWhite</color>
     <color name="idenfyStepErrorColorV2">#D32F2F</color>
-    <color name="idenfyStepSuccessColorV2">@color/idenfyMainDarkerColorV2</color>
-    <color name="idenfyTakePhotoButtonBackgroundFocused">@color/idenfyMainDarkerColorV2</color>
-    <color name="idenfyTakePhotoButtonIconUnFocused">@color/idenfyMainDarkerColorV2</color>
-    <color name="idenfyToolbarTitleColor">#ffffff</color>
-    <color name="idenfyTransparentCameraOverlay">#60ffffff</color>
+    <color name="idenfyStepSuccessColorV2">#FFC600</color>
+    <color name="idenfyTakePhotoButtonBackgroundFocused">#FFC600</color>
+    <color name="idenfyTakePhotoButtonIconUnFocused">#161617</color>
     <color name="idenfyTransparentCameraOverlayV2">#4D000000</color>
-    <color name="idenfyUploadPhotoViewBackgroundColor">@color/idenfyBackgroundColorV2</color>
-    <color name="idenfyUploadPhotoViewChooseAnotherPhotoButtonTextColor">@color/idenfyMainColorV2
-    </color>
-    <color name="idenfyUploadPhotoViewContinuePhotoButtonTextColor">@color/idenfyWhite</color>
-    <color name="idenfyUploadPhotoViewCroppingBackgroundColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyUploadPhotoViewCroppingBorderColor">@color/idenfyMainColorV2</color>
-    <color name="idenfyUploadPhotoViewCroppingPhotoLoadingSpinnerColor">@color/idenfyMainColorV2
-    </color>
-    <color name="idenfyUploadPhotoViewDescriptionTextColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyUploadPhotoViewTitleTextColor">@color/idenfySecondColorV2</color>
-    <color name="idenfyWhite">#ffffff</color>
-    <color name="idenfy_document_crop_color">@android:color/black</color>
-    <color name="idenfy_document_cropper_background">@android:color/white</color>
-    <color name="menuCellBackgroundColorIdenfy">#7defeff4</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
     <string name="FaceTec_accessibility_cancel_button">Cancel</string>
     <string name="FaceTec_accessibility_torch_button">Toggle Light</string>
     <string name="FaceTec_action_accept_photo">ACCEPT</string>
@@ -671,6 +446,7 @@
     <string name="IDENFY_SERVER_ERROR_MESSAGE">Oops! Something went wrong.</string>
     <string name="IDENFY_TOKEN_NOT_VALID_MESSAGE">Session expired!</string>
     <string name="IDENFY_TOO_MANY_REATTEMPTS_MESSAGE">Too many attempts!</string>
+    <string name="app_name">Skanner</string>
     <string name="idenfy_additional_support_view_button_title">GO BACK</string>
     <string name="idenfy_additional_support_view_description">The verification process was not performed. If you have any questions, please contact our customer support team.</string>
     <string name="idenfy_additional_support_view_email">support@idenfy.com</string>
@@ -1232,36 +1008,39 @@
     <string name="idenfy_upload_results_view_information_step_front_document_type_voter_card_title_v2">Front of voter card</string>
     <string name="idenfy_upload_results_view_pdf_size_alert_message_v2">Please select a file with a valid size no larger than 5MB</string>
     <string name="idenfy_upload_results_view_pdf_size_alert_title_v2">Maximum file size exceeded</string>
+    <style name="AppTheme.SearchView" parent="Widget.AppCompat.SearchView">
+        <item name="searchHintIcon">@null</item>
+        <item name="searchIcon">@null</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/sfpro_regular</item>
+        <item name="android:textColor">#161617</item>
+        <item name="queryBackground">@android:color/transparent</item>
+        <item name="autoCompleteTextViewStyle">@style/cursorColor</item>
+    </style>
     <style name="IdenfyStyleAlertDialog" parent="Theme.MaterialComponents.Light.Dialog.Alert">
         <item name="android:windowMinWidthMajor">100%</item>
         <item name="android:windowMinWidthMinor">100%</item>
-    </style>
-    <style name="IdenfyStyleDialog" parent="Theme.MaterialComponents.Light.Dialog">
-        <item name="android:windowMinWidthMajor">100%</item>
-        <item name="android:windowMinWidthMinor">100%</item>
-    </style>
-    <style name="IdenfyTheme" parent="Theme.MaterialComponents.NoActionBar">
-        <item name="colorPrimary">@color/idenfyColorPrimary</item>
-        <item name="colorPrimaryDark">@color/idenfyColorPrimaryDark</item>
-        <item name="colorAccent">@color/idenfyColorAccent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
     </style>
     <style name="IdenfyTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
-    <style name="IdenfyTheme.PopupOverlay" parent="ThemeOverlay.MaterialComponents.Light"/>
-    <style name="IdenfyThemeV2" parent="Theme.MaterialComponents.NoActionBar">
-        <item name="colorPrimary">@color/idenfyMainColorV2</item>
-        <item name="colorPrimaryDark">@color/idenfySecondColorV2</item>
-        <item name="colorAccent">@color/idenfyGradientAccentV2</item>
+    <style name="Theme.Skanner" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/white</item>
+        <!-- Customize your theme here. -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
     </style>
-    <style name="LoadingSpinner">
-        <item name="android:indeterminateOnly">true</item>
-        <item name="android:maxWidth">200dip</item>
-        <item name="android:maxHeight">200dip</item>
-    </style>
-    <style name="LoadingSpinner.Circle">
-        <item name="LoadingSpinner_Style">Circle</item>
-    </style>
-    <style name="LoadingSpinner.FadingCircle">
-        <item name="LoadingSpinner_Style">FadingCircle</item>
+    <style name="cursorColor" parent="Widget.AppCompat.AutoCompleteTextView">
+        <item name="android:textCursorDrawable">@drawable/cursor</item>
     </style>
     <style name="idenfyAdditionalSupportCommonInformationTitleStyle" parent="android:Widget.TextView">
         <item name="android:textColor">
@@ -1869,9 +1648,5 @@
         <item name="android:textSize">
             @dimen/idenfy_dimen_upload_photo_view_information_title_text_size
         </item>
-    </style>
-    <style name="progressBarBlue" parent="@style/Theme.MaterialComponents">
-        <item name="colorAccent">@color/idenfyResultsLoadingIconColor</item>
-        <item name="colorPrimary">@color/idenfyResultsLoadingIconColor</item>
     </style>
 </resources>

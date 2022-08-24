@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mac/projects/new_android_custom/android/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-xhdpi-v4/values-xhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/res/values-xhdpi-v4/values-xhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,144,232,331,422,506,580,657,757,835",
+                        "endColumns": "88,87,98,90,83,73,76,99,77,89",
+                        "endOffsets": "139,227,326,417,501,575,652,752,830,920"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.idenfy_sdk_flutter.test" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="21" />
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.example.idenfy_sdk_flutter.test"
+        android:targetPackage="com.example.idenfy_sdk_flutter.test" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.NFC" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.front"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.front.autofocus"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.nfc"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.flash"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:hardwareAccelerated="true"
+        android:largeHeap="true"
+        android:requestLegacyExternalStorage="true" >
+        <uses-library android:name="android.test.runner" />
+
+        <meta-data
+            android:name="com.google.mlkit.vision.DEPENDENCIES"
+            android:value="face,barcode" />
+        <meta-data
+            android:name="android.nfc.disable_beam_default"
+            android:value="true" />
+        <meta-data
+            android:name="io.sentry.dsn"
+            android:value="https://66afdfc3d8c64030a1e0e67d19ada386@o513512.ingest.sentry.io/6197572" />
+        <meta-data
+            android:name="io.sentry.traces.sample-rate"
+            android:value="1.0" />
+
+        <activity
+            android:name="com.idenfy.idenfySdk.core.presentation.view.IdenfyMainActivity"
+            android:resizeableActivity="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/IdenfyTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.idenfy.idenfySdk.faceauthentication.view.FaceAuthenticationActivity"
+            android:resizeableActivity="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/IdenfyTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.facetec.sdk.FaceTecSessionActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:excludeFromRecents="true"
+            android:resizeableActivity="false"
+            android:supportsRtl="true"
+            android:theme="@style/Theme.AppCompat.Translucent"
+            android:windowSoftInputMode="adjustPan" >
+        </activity>
+
+        <service
+            android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
+            android:directBootAware="true"
+            android:exported="false" >
+            <meta-data
+                android:name="com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+        </service>
+
+        <provider
+            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
+            android:authorities="com.example.idenfy_sdk_flutter.test.mlkitinitprovider"
+            android:exported="false"
+            android:initOrder="99" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.example.idenfy_sdk_flutter.test.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+                android:value="androidx.startup" />
+        </provider> <!-- 'android:authorities' must be unique in the device, across all apps -->
+        <provider
+            android:name="io.sentry.android.core.SentryInitProvider"
+            android:authorities="com.example.idenfy_sdk_flutter.test.SentryInitProvider"
+            android:exported="false" />
+        <provider
+            android:name="io.sentry.android.core.SentryPerformanceProvider"
+            android:authorities="com.example.idenfy_sdk_flutter.test.SentryPerformanceProvider"
+            android:exported="false"
+            android:initOrder="200" />
+
+        <receiver
+            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+            android:directBootAware="false"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="android.permission.DUMP" >
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+            android:exported="false" >
+            <meta-data
+                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+                android:value="cct" />
+        </service>
+        <service
+            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" >
+        </service>
+
+        <receiver
+            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+            android:exported="false" />
+    </application>
+
+</manifest>

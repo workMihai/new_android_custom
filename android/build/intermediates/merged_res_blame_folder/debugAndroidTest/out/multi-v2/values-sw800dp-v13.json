@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mac/projects/new_android_custom/android/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sw800dp-v13/values-sw800dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/res/values-sw800dp-v13/values-sw800dp-v13.xml",
+                    "from": {
+                        "startLines": "2,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,162",
+                        "endLines": "3,4",
+                        "endColumns": "12,97",
+                        "endOffsets": "157,255"
+                    }
+                }
+            ]
+        }
+    ]
+}

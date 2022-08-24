@@ -10,6 +10,7 @@
         android:theme="@style/IdenfyTheme.AppBarOverlay"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
+        app:elevation="0dp"
         app:layout_constraintTop_toTopOf="parent">
 
         <androidx.appcompat.widget.Toolbar
@@ -36,23 +37,19 @@
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
                     app:layout_constraintVertical_bias="0.6"
+                    android:visibility="gone"
                     app:srcCompat="@drawable/idenfy_ic_idenfy_logo_vector_v2" />
 
                 <ImageView
                     android:id="@+id/idenfy_imageview_common_back_button"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:paddingStart="16dp"
-                    android:paddingLeft="16dp"
-                    android:paddingTop="16dp"
-                    android:paddingEnd="16dp"
-                    android:paddingRight="16dp"
-                    android:paddingBottom="16dp"
-                    android:theme="@style/idenfyAppBarLayoutBackButtonStyle"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_marginStart="12dp"
+                    android:layout_marginTop="30dp"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    app:srcCompat="@drawable/idenfy_ic_navigation_back_v2" />
+                    app:srcCompat="@drawable/arrow_back"  />
             </androidx.constraintlayout.widget.ConstraintLayout>
         </androidx.appcompat.widget.Toolbar>
 

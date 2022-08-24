@@ -1,0 +1,320 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.idenfy_sdk_flutter.test" >
+4
+5    <uses-sdk
+5-->/Users/mac/projects/new_android_custom/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5494844255339192224.xml:5:5-74
+6        android:minSdkVersion="21"
+6-->/Users/mac/projects/new_android_custom/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5494844255339192224.xml:5:15-41
+7        android:targetSdkVersion="21" />
+7-->/Users/mac/projects/new_android_custom/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5494844255339192224.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/mac/projects/new_android_custom/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5494844255339192224.xml:11:5-15:85
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/Users/mac/projects/new_android_custom/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5494844255339192224.xml:11:22-75
+11        android:functionalTest="false"
+11-->/Users/mac/projects/new_android_custom/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5494844255339192224.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/mac/projects/new_android_custom/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5494844255339192224.xml:13:22-53
+13        android:label="Tests for com.example.idenfy_sdk_flutter.test"
+13-->/Users/mac/projects/new_android_custom/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5494844255339192224.xml:15:22-83
+14        android:targetPackage="com.example.idenfy_sdk_flutter.test" />
+14-->/Users/mac/projects/new_android_custom/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5494844255339192224.xml:12:22-81
+15
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:11:5-79
+16-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:11:22-76
+17    <uses-permission android:name="android.permission.CAMERA" />
+17-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:12:5-65
+17-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:12:22-62
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:13:5-67
+18-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:13:22-64
+19    <uses-permission android:name="android.permission.NFC" />
+19-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:14:5-62
+19-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:14:22-59
+20    <uses-permission android:name="android.permission.FLASHLIGHT" />
+20-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:15:5-69
+20-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:15:22-66
+21    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+21-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:16:5-81
+21-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:16:22-78
+22
+23    <uses-feature
+23-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:18:5-20:36
+24        android:name="android.hardware.camera"
+24-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:19:9-47
+25        android:required="false" />
+25-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:20:9-33
+26    <uses-feature
+26-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:21:5-23:36
+27        android:name="android.hardware.camera.autofocus"
+27-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:22:9-57
+28        android:required="false" />
+28-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:23:9-33
+29    <uses-feature
+29-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:24:5-26:36
+30        android:name="android.hardware.camera.front"
+30-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:25:9-53
+31        android:required="false" />
+31-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:26:9-33
+32    <uses-feature
+32-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:27:5-29:36
+33        android:name="android.hardware.camera.front.autofocus"
+33-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:28:9-63
+34        android:required="false" />
+34-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:29:9-33
+35    <uses-feature
+35-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:30:5-32:36
+36        android:name="android.hardware.nfc"
+36-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:31:9-44
+37        android:required="false" />
+37-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:32:9-33
+38    <uses-feature
+38-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:33:5-35:36
+39        android:name="android.hardware.camera.flash"
+39-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:34:9-53
+40        android:required="false" />
+40-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:35:9-33
+41
+42    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+42-->[com.github.idenfy:sdk-facetec:9.4.4] /Users/mac/.gradle/caches/transforms-2/files-2.1/0327ea90f3437ae656c049a64b7607b9/jetified-sdk-facetec-9.4.4/AndroidManifest.xml:13:5-76
+42-->[com.github.idenfy:sdk-facetec:9.4.4] /Users/mac/.gradle/caches/transforms-2/files-2.1/0327ea90f3437ae656c049a64b7607b9/jetified-sdk-facetec-9.4.4/AndroidManifest.xml:13:22-73
+43
+44    <application
+44-->/Users/mac/projects/new_android_custom/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5494844255339192224.xml:7:5-9:19
+45        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+45-->[androidx.core:core:1.6.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/7d77d4ebbaf550305d01ed54778f79fb/core-1.6.0/AndroidManifest.xml:24:18-86
+46        android:debuggable="true"
+46-->/Users/mac/projects/new_android_custom/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5494844255339192224.xml:7:18-43
+47        android:hardwareAccelerated="true"
+47-->[com.github.idenfy:sdk-facetec:9.4.4] /Users/mac/.gradle/caches/transforms-2/files-2.1/0327ea90f3437ae656c049a64b7607b9/jetified-sdk-facetec-9.4.4/AndroidManifest.xml:26:9-43
+48        android:largeHeap="true"
+48-->[com.github.idenfy:sdk-facetec:9.4.4] /Users/mac/.gradle/caches/transforms-2/files-2.1/0327ea90f3437ae656c049a64b7607b9/jetified-sdk-facetec-9.4.4/AndroidManifest.xml:27:9-33
+49        android:requestLegacyExternalStorage="true" >
+49-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:37:18-61
+50        <uses-library android:name="android.test.runner" />
+50-->/Users/mac/projects/new_android_custom/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5494844255339192224.xml:8:9-60
+50-->/Users/mac/projects/new_android_custom/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5494844255339192224.xml:8:23-57
+51
+52        <meta-data
+52-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:38:9-40:44
+53            android:name="com.google.mlkit.vision.DEPENDENCIES"
+53-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:39:13-64
+54            android:value="face,barcode" />
+54-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:40:13-41
+55        <meta-data
+55-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:41:9-43:36
+56            android:name="android.nfc.disable_beam_default"
+56-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:42:13-60
+57            android:value="true" />
+57-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:43:13-33
+58        <meta-data
+58-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:44:9-46:105
+59            android:name="io.sentry.dsn"
+59-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:45:13-41
+60            android:value="https://66afdfc3d8c64030a1e0e67d19ada386@o513512.ingest.sentry.io/6197572" />
+60-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:46:13-102
+61        <meta-data
+61-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:47:9-49:35
+62            android:name="io.sentry.traces.sample-rate"
+62-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:48:13-56
+63            android:value="1.0" />
+63-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:49:13-32
+64
+65        <activity
+65-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:51:9-56:55
+66            android:name="com.idenfy.idenfySdk.core.presentation.view.IdenfyMainActivity"
+66-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:52:13-90
+67            android:resizeableActivity="false"
+67-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:53:13-47
+68            android:screenOrientation="portrait"
+68-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:54:13-49
+69            android:theme="@style/IdenfyTheme"
+69-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:55:13-47
+70            android:windowSoftInputMode="adjustPan" />
+70-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:56:13-52
+71        <activity
+71-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:57:9-62:55
+72            android:name="com.idenfy.idenfySdk.faceauthentication.view.FaceAuthenticationActivity"
+72-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:58:13-99
+73            android:resizeableActivity="false"
+73-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:59:13-47
+74            android:screenOrientation="portrait"
+74-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:60:13-49
+75            android:theme="@style/IdenfyTheme"
+75-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:61:13-47
+76            android:windowSoftInputMode="adjustPan" />
+76-->[com.github.idenfy:sdk-api:7.5.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c60a01b8511cf097ea343204d7b73fd5/jetified-sdk-api-7.5.1/AndroidManifest.xml:62:13-52
+77        <activity
+77-->[com.github.idenfy:sdk-facetec:9.4.4] /Users/mac/.gradle/caches/transforms-2/files-2.1/0327ea90f3437ae656c049a64b7607b9/jetified-sdk-facetec-9.4.4/AndroidManifest.xml:28:9-36:20
+78            android:name="com.facetec.sdk.FaceTecSessionActivity"
+78-->[com.github.idenfy:sdk-facetec:9.4.4] /Users/mac/.gradle/caches/transforms-2/files-2.1/0327ea90f3437ae656c049a64b7607b9/jetified-sdk-facetec-9.4.4/AndroidManifest.xml:29:13-66
+79            android:configChanges="orientation|keyboardHidden|screenSize"
+79-->[com.github.idenfy:sdk-facetec:9.4.4] /Users/mac/.gradle/caches/transforms-2/files-2.1/0327ea90f3437ae656c049a64b7607b9/jetified-sdk-facetec-9.4.4/AndroidManifest.xml:30:13-74
+80            android:excludeFromRecents="true"
+80-->[com.github.idenfy:sdk-facetec:9.4.4] /Users/mac/.gradle/caches/transforms-2/files-2.1/0327ea90f3437ae656c049a64b7607b9/jetified-sdk-facetec-9.4.4/AndroidManifest.xml:31:13-46
+81            android:resizeableActivity="false"
+81-->[com.github.idenfy:sdk-facetec:9.4.4] /Users/mac/.gradle/caches/transforms-2/files-2.1/0327ea90f3437ae656c049a64b7607b9/jetified-sdk-facetec-9.4.4/AndroidManifest.xml:32:13-47
+82            android:supportsRtl="true"
+82-->[com.github.idenfy:sdk-facetec:9.4.4] /Users/mac/.gradle/caches/transforms-2/files-2.1/0327ea90f3437ae656c049a64b7607b9/jetified-sdk-facetec-9.4.4/AndroidManifest.xml:33:13-39
+83            android:theme="@style/Theme.AppCompat.Translucent"
+83-->[com.github.idenfy:sdk-facetec:9.4.4] /Users/mac/.gradle/caches/transforms-2/files-2.1/0327ea90f3437ae656c049a64b7607b9/jetified-sdk-facetec-9.4.4/AndroidManifest.xml:34:13-63
+84            android:windowSoftInputMode="adjustPan" >
+84-->[com.github.idenfy:sdk-facetec:9.4.4] /Users/mac/.gradle/caches/transforms-2/files-2.1/0327ea90f3437ae656c049a64b7607b9/jetified-sdk-facetec-9.4.4/AndroidManifest.xml:35:13-52
+85        </activity>
+86
+87        <service
+87-->[com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/2517b9821a16a6c9c34d1cb2370856ce/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:9:9-15:19
+88            android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
+88-->[com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/2517b9821a16a6c9c34d1cb2370856ce/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:10:13-91
+89            android:directBootAware="true"
+89-->[com.google.mlkit:common:18.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/de27cd4d2747d8b3e4bc34d06e27c628/jetified-common-18.1.0/AndroidManifest.xml:17:13-43
+90            android:exported="false" >
+90-->[com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/2517b9821a16a6c9c34d1cb2370856ce/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:11:13-37
+91            <meta-data
+91-->[com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/2517b9821a16a6c9c34d1cb2370856ce/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:12:13-14:85
+92                android:name="com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar"
+92-->[com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/2517b9821a16a6c9c34d1cb2370856ce/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:13:17-114
+93                android:value="com.google.firebase.components.ComponentRegistrar" />
+93-->[com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/2517b9821a16a6c9c34d1cb2370856ce/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:14:17-82
+94            <meta-data
+94-->[com.google.mlkit:vision-common:17.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/48deababca0ff606b5882b775e7ea79d/jetified-vision-common-17.1.0/AndroidManifest.xml:12:13-14:85
+95                android:name="com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar"
+95-->[com.google.mlkit:vision-common:17.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/48deababca0ff606b5882b775e7ea79d/jetified-vision-common-17.1.0/AndroidManifest.xml:13:17-124
+96                android:value="com.google.firebase.components.ComponentRegistrar" />
+96-->[com.google.mlkit:vision-common:17.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/48deababca0ff606b5882b775e7ea79d/jetified-vision-common-17.1.0/AndroidManifest.xml:14:17-82
+97            <meta-data
+97-->[com.google.mlkit:common:18.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/de27cd4d2747d8b3e4bc34d06e27c628/jetified-common-18.1.0/AndroidManifest.xml:20:13-22:85
+98                android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar"
+98-->[com.google.mlkit:common:18.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/de27cd4d2747d8b3e4bc34d06e27c628/jetified-common-18.1.0/AndroidManifest.xml:21:17-120
+99                android:value="com.google.firebase.components.ComponentRegistrar" />
+99-->[com.google.mlkit:common:18.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/de27cd4d2747d8b3e4bc34d06e27c628/jetified-common-18.1.0/AndroidManifest.xml:22:17-82
+100        </service>
+101
+102        <provider
+102-->[com.google.mlkit:common:18.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/de27cd4d2747d8b3e4bc34d06e27c628/jetified-common-18.1.0/AndroidManifest.xml:9:9-13:38
+103            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
+103-->[com.google.mlkit:common:18.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/de27cd4d2747d8b3e4bc34d06e27c628/jetified-common-18.1.0/AndroidManifest.xml:10:13-78
+104            android:authorities="com.example.idenfy_sdk_flutter.test.mlkitinitprovider"
+104-->[com.google.mlkit:common:18.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/de27cd4d2747d8b3e4bc34d06e27c628/jetified-common-18.1.0/AndroidManifest.xml:11:13-69
+105            android:exported="false"
+105-->[com.google.mlkit:common:18.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/de27cd4d2747d8b3e4bc34d06e27c628/jetified-common-18.1.0/AndroidManifest.xml:12:13-37
+106            android:initOrder="99" />
+106-->[com.google.mlkit:common:18.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/de27cd4d2747d8b3e4bc34d06e27c628/jetified-common-18.1.0/AndroidManifest.xml:13:13-35
+107
+108        <activity
+108-->[com.google.android.gms:play-services-base:18.0.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/b5fc803058d2b82da2b7419a5ba8d974/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+109            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+109-->[com.google.android.gms:play-services-base:18.0.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/b5fc803058d2b82da2b7419a5ba8d974/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+110            android:exported="false"
+110-->[com.google.android.gms:play-services-base:18.0.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/b5fc803058d2b82da2b7419a5ba8d974/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+111            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+111-->[com.google.android.gms:play-services-base:18.0.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/b5fc803058d2b82da2b7419a5ba8d974/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+112
+113        <meta-data
+113-->[com.google.android.gms:play-services-basement:18.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/5fa5e3078fed542caeabffc5553e49e1/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+114            android:name="com.google.android.gms.version"
+114-->[com.google.android.gms:play-services-basement:18.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/5fa5e3078fed542caeabffc5553e49e1/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+115            android:value="@integer/google_play_services_version" />
+115-->[com.google.android.gms:play-services-basement:18.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/5fa5e3078fed542caeabffc5553e49e1/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+116
+117        <provider
+117-->[androidx.emoji2:emoji2:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/e816272ea749eda8ab1e9ba99c672e10/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+118            android:name="androidx.startup.InitializationProvider"
+118-->[androidx.emoji2:emoji2:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/e816272ea749eda8ab1e9ba99c672e10/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+119            android:authorities="com.example.idenfy_sdk_flutter.test.androidx-startup"
+119-->[androidx.emoji2:emoji2:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/e816272ea749eda8ab1e9ba99c672e10/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+120            android:exported="false" >
+120-->[androidx.emoji2:emoji2:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/e816272ea749eda8ab1e9ba99c672e10/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+121            <meta-data
+121-->[androidx.emoji2:emoji2:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/e816272ea749eda8ab1e9ba99c672e10/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+122                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+122-->[androidx.emoji2:emoji2:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/e816272ea749eda8ab1e9ba99c672e10/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+123                android:value="androidx.startup" />
+123-->[androidx.emoji2:emoji2:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/e816272ea749eda8ab1e9ba99c672e10/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+124            <meta-data
+124-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/b1285e2a2b8fd835e415194879aaff22/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+125                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+125-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/b1285e2a2b8fd835e415194879aaff22/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+126                android:value="androidx.startup" />
+126-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/b1285e2a2b8fd835e415194879aaff22/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+127            <meta-data
+127-->[androidx.profileinstaller:profileinstaller:1.0.4] /Users/mac/.gradle/caches/transforms-2/files-2.1/d8793893324190489cb9597984272d5c/jetified-profileinstaller-1.0.4/AndroidManifest.xml:31:13-33:52
+128                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+128-->[androidx.profileinstaller:profileinstaller:1.0.4] /Users/mac/.gradle/caches/transforms-2/files-2.1/d8793893324190489cb9597984272d5c/jetified-profileinstaller-1.0.4/AndroidManifest.xml:32:17-85
+129                android:value="androidx.startup" />
+129-->[androidx.profileinstaller:profileinstaller:1.0.4] /Users/mac/.gradle/caches/transforms-2/files-2.1/d8793893324190489cb9597984272d5c/jetified-profileinstaller-1.0.4/AndroidManifest.xml:33:17-49
+130        </provider> <!-- 'android:authorities' must be unique in the device, across all apps -->
+131        <provider
+131-->[io.sentry:sentry-android-core:5.7.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/81cbbbf4f90afe7479fede13a5075a32/jetified-sentry-android-core-5.7.3/AndroidManifest.xml:14:9-17:40
+132            android:name="io.sentry.android.core.SentryInitProvider"
+132-->[io.sentry:sentry-android-core:5.7.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/81cbbbf4f90afe7479fede13a5075a32/jetified-sentry-android-core-5.7.3/AndroidManifest.xml:15:13-69
+133            android:authorities="com.example.idenfy_sdk_flutter.test.SentryInitProvider"
+133-->[io.sentry:sentry-android-core:5.7.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/81cbbbf4f90afe7479fede13a5075a32/jetified-sentry-android-core-5.7.3/AndroidManifest.xml:16:13-70
+134            android:exported="false" />
+134-->[io.sentry:sentry-android-core:5.7.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/81cbbbf4f90afe7479fede13a5075a32/jetified-sentry-android-core-5.7.3/AndroidManifest.xml:17:13-37
+135        <provider
+135-->[io.sentry:sentry-android-core:5.7.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/81cbbbf4f90afe7479fede13a5075a32/jetified-sentry-android-core-5.7.3/AndroidManifest.xml:18:9-22:39
+136            android:name="io.sentry.android.core.SentryPerformanceProvider"
+136-->[io.sentry:sentry-android-core:5.7.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/81cbbbf4f90afe7479fede13a5075a32/jetified-sentry-android-core-5.7.3/AndroidManifest.xml:19:13-76
+137            android:authorities="com.example.idenfy_sdk_flutter.test.SentryPerformanceProvider"
+137-->[io.sentry:sentry-android-core:5.7.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/81cbbbf4f90afe7479fede13a5075a32/jetified-sentry-android-core-5.7.3/AndroidManifest.xml:20:13-77
+138            android:exported="false"
+138-->[io.sentry:sentry-android-core:5.7.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/81cbbbf4f90afe7479fede13a5075a32/jetified-sentry-android-core-5.7.3/AndroidManifest.xml:21:13-37
+139            android:initOrder="200" />
+139-->[io.sentry:sentry-android-core:5.7.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/81cbbbf4f90afe7479fede13a5075a32/jetified-sentry-android-core-5.7.3/AndroidManifest.xml:22:13-36
+140
+141        <receiver
+141-->[androidx.profileinstaller:profileinstaller:1.0.4] /Users/mac/.gradle/caches/transforms-2/files-2.1/d8793893324190489cb9597984272d5c/jetified-profileinstaller-1.0.4/AndroidManifest.xml:36:9-45:20
+142            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+142-->[androidx.profileinstaller:profileinstaller:1.0.4] /Users/mac/.gradle/caches/transforms-2/files-2.1/d8793893324190489cb9597984272d5c/jetified-profileinstaller-1.0.4/AndroidManifest.xml:37:13-76
+143            android:directBootAware="false"
+143-->[androidx.profileinstaller:profileinstaller:1.0.4] /Users/mac/.gradle/caches/transforms-2/files-2.1/d8793893324190489cb9597984272d5c/jetified-profileinstaller-1.0.4/AndroidManifest.xml:38:13-44
+144            android:enabled="true"
+144-->[androidx.profileinstaller:profileinstaller:1.0.4] /Users/mac/.gradle/caches/transforms-2/files-2.1/d8793893324190489cb9597984272d5c/jetified-profileinstaller-1.0.4/AndroidManifest.xml:39:13-35
+145            android:exported="true"
+145-->[androidx.profileinstaller:profileinstaller:1.0.4] /Users/mac/.gradle/caches/transforms-2/files-2.1/d8793893324190489cb9597984272d5c/jetified-profileinstaller-1.0.4/AndroidManifest.xml:40:13-36
+146            android:permission="android.permission.DUMP" >
+146-->[androidx.profileinstaller:profileinstaller:1.0.4] /Users/mac/.gradle/caches/transforms-2/files-2.1/d8793893324190489cb9597984272d5c/jetified-profileinstaller-1.0.4/AndroidManifest.xml:41:13-57
+147            <intent-filter>
+147-->[androidx.profileinstaller:profileinstaller:1.0.4] /Users/mac/.gradle/caches/transforms-2/files-2.1/d8793893324190489cb9597984272d5c/jetified-profileinstaller-1.0.4/AndroidManifest.xml:42:13-44:29
+148                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+148-->[androidx.profileinstaller:profileinstaller:1.0.4] /Users/mac/.gradle/caches/transforms-2/files-2.1/d8793893324190489cb9597984272d5c/jetified-profileinstaller-1.0.4/AndroidManifest.xml:43:17-91
+148-->[androidx.profileinstaller:profileinstaller:1.0.4] /Users/mac/.gradle/caches/transforms-2/files-2.1/d8793893324190489cb9597984272d5c/jetified-profileinstaller-1.0.4/AndroidManifest.xml:43:25-88
+149            </intent-filter>
+150        </receiver>
+151
+152        <service
+152-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/e3bf763877744b64bee7aa4ab4f90830/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+153            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+153-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/e3bf763877744b64bee7aa4ab4f90830/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+154            android:exported="false" >
+154-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/e3bf763877744b64bee7aa4ab4f90830/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+155            <meta-data
+155-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/e3bf763877744b64bee7aa4ab4f90830/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+156                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+156-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/e3bf763877744b64bee7aa4ab4f90830/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+157                android:value="cct" />
+157-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/e3bf763877744b64bee7aa4ab4f90830/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+158        </service>
+159        <service
+159-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/mac/.gradle/caches/transforms-2/files-2.1/a2b8181e46be72a9e5d9b80682337977/jetified-transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+160            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+160-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/mac/.gradle/caches/transforms-2/files-2.1/a2b8181e46be72a9e5d9b80682337977/jetified-transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
+161            android:exported="false"
+161-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/mac/.gradle/caches/transforms-2/files-2.1/a2b8181e46be72a9e5d9b80682337977/jetified-transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
+162            android:permission="android.permission.BIND_JOB_SERVICE" >
+162-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/mac/.gradle/caches/transforms-2/files-2.1/a2b8181e46be72a9e5d9b80682337977/jetified-transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
+163        </service>
+164
+165        <receiver
+165-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/mac/.gradle/caches/transforms-2/files-2.1/a2b8181e46be72a9e5d9b80682337977/jetified-transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+166            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+166-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/mac/.gradle/caches/transforms-2/files-2.1/a2b8181e46be72a9e5d9b80682337977/jetified-transport-runtime-2.2.6/AndroidManifest.xml:33:13-132
+167            android:exported="false" />
+167-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/mac/.gradle/caches/transforms-2/files-2.1/a2b8181e46be72a9e5d9b80682337977/jetified-transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
+168    </application>
+169
+170</manifest>

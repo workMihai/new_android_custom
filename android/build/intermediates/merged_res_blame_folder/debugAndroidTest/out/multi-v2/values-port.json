@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mac/projects/new_android_custom/android/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/b0ee26b315802a6a77f0bb104806b652/appcompat-1.4.0/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
