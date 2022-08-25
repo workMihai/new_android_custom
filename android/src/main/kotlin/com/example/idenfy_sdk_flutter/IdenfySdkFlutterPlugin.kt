@@ -70,6 +70,7 @@ class IdenfySdkFlutterPlugin: FlutterPlugin, MethodCallHandler, ActivityAware, P
       faceTechCustom.guidanceCustomization.readyScreenSubtextTextColor = Color.parseColor("#161617")
       faceTechCustom.cancelButtonCustomization.customImage = R.drawable.close_big
       faceTechCustom.cancelButtonCustomization.location  = FaceTecCancelButtonCustomization.ButtonLocation.CUSTOM
+      faceTechCustom.overlayCustomization.showBrandingImage = false
       var rect = Rect()
       rect.left = 24
       rect.bottom = 24

@@ -149,6 +149,7 @@
         <entry key="src/main/res/layout/idenfy_fragment_face_photo_result_with_questions_v2.xml" value="0.165" />
         <entry key="src/main/res/layout/idenfy_fragment_identification_resuts_fragment_v2.xml" value="0.1" />
         <entry key="src/main/res/layout/idenfy_fragment_manual_reviewing_status_waiting_with_auto_results_steps_v2.xml" value="0.1276595744680851" />
+        <entry key="src/main/res/layout/idenfy_fragment_mfa_method_selection_v2.xml" value="0.16530797101449277" />
         <entry key="src/main/res/layout/idenfy_fragment_nfc_reading.xml" value="0.1276595744680851" />
         <entry key="src/main/res/layout/idenfy_fragment_provider_login_v2.xml" value="0.1276595744680851" />
         <entry key="src/main/res/layout/idenfy_fragment_splash_screen_v2.xml" value="0.335" />
