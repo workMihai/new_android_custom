@@ -10,7 +10,8 @@
         android:theme="@style/IdenfyTheme.AppBarOverlay"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
+        app:layout_constraintTop_toTopOf="parent"
+        app:elevation="0dp">
 
         <androidx.appcompat.widget.Toolbar
             android:id="@+id/idenfy_toolbar_common"
@@ -36,7 +37,8 @@
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
                     app:layout_constraintVertical_bias="0.6"
-                    app:srcCompat="@drawable/idenfy_ic_idenfy_logo_vector_v2" />
+                    app:srcCompat="@drawable/idenfy_ic_idenfy_logo_vector_v2"
+                    android:visibility="gone"/>
 
             </androidx.constraintlayout.widget.ConstraintLayout>
         </androidx.appcompat.widget.Toolbar>

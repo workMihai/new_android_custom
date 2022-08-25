@@ -31,6 +31,7 @@
                     android:layout_width="70.5dp"
                     android:layout_height="26dp"
                     android:theme="@style/idenfyAppBarLayoutIdenfyLogoStyle"
+                    android:visibility="invisible"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
@@ -40,19 +41,14 @@
 
                 <ImageView
                     android:id="@+id/idenfy_imageview_common_back_button"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:paddingStart="16dp"
-                    android:paddingLeft="16dp"
-                    android:paddingTop="16dp"
-                    android:paddingEnd="16dp"
-                    android:paddingRight="16dp"
-                    android:paddingBottom="16dp"
-                    android:theme="@style/idenfyAppBarLayoutBackButtonStyle"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_marginStart="12dp"
+                    android:layout_marginTop="30dp"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    app:srcCompat="@drawable/idenfy_ic_navigation_back_v2" />
+                    app:srcCompat="@drawable/arrow_back"/>
 
                 <ImageView
                     android:id="@+id/idenfy_imageview_language_selection_button"
@@ -64,12 +60,12 @@
                     android:paddingEnd="16dp"
                     android:paddingRight="16dp"
                     android:paddingBottom="16dp"
-                    android:theme="@style/idenfyAppBarLayoutLanguageSelectionButtonStyle"
                     android:visibility="invisible"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    app:srcCompat="@drawable/idenfy_ic_language_selection_button" />
+                    app:srcCompat="@drawable/idenfy_ic_language_selection_button"
+                    app:tint="@color/white" />
             </androidx.constraintlayout.widget.ConstraintLayout>
         </androidx.appcompat.widget.Toolbar>
 
