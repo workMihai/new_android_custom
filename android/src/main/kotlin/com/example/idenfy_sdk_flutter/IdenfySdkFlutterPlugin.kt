@@ -92,7 +92,7 @@ class IdenfySdkFlutterPlugin: FlutterPlugin, MethodCallHandler, ActivityAware, P
       faceTechCustom.resultScreenCustomization.foregroundColor = Color.parseColor("#FFFFFF")
       faceTechCustom.resultScreenCustomization.activityIndicatorColor= Color.parseColor("#FFC700")
       idenfyLivenessUISettings.livenessCustomUISettings = faceTechCustom
-      val idenfyUISettingsV2 = IdenfyUISettingsV2.IdenfyUIBuilderV2().withAdditionalSupportView().withConfirmationView(
+      val idenfyUISettingsV2 = IdenfyUISettingsV2.IdenfyUIBuilderV2().withConfirmationView(
         IdenfyOnBoardingViewTypeEnum.SINGLE).withInstructions(IdenfyInstructionsType.DRAWER).withLivenessUISettings(idenfyLivenessUISettings).build()
 
 
